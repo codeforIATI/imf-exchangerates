@@ -1,0 +1,7 @@
+output
+pyenv
+*.ipynb
+.ipynb_checkpoints
+*.sublime-*
+output
+.DS_Store
