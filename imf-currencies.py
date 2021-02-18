@@ -16,6 +16,7 @@ IMF_CL_AREA_URL="http://dataservices.imf.org/REST/SDMX_JSON.svc/CodeList/CL_AREA
 # FYI SEE ALSO
 # http://dataservices.imf.org/REST/SDMX_JSON.svc/DataStructure/IFS_2019M03
 COUNTRY_URL="http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/M.{}.ENDE_XDC_USD_RATE"
+XDR_URL="http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/M.US.ESDE_XDR_USD_RATE"
 FIELDNAMES=['Date', 'Rate', 'Currency', 'Frequency', 'Source', 'Country code', 'Country']
 ISO_COUNTRY_URL = "https://www.currency-iso.org/dam/downloads/lists/list_one.xml"
 COUNTRY_CODELIST = "https://codelists.codeforiati.org/api/json/en/Country.json"
@@ -63,6 +64,10 @@ countries_currencies = dict(map(lambda c: (c.get('code'), c.get('currency')), co
 r_imf_countries=requests.get(IMF_CL_AREA_URL).json()
 imf_countries = r_imf_countries['Structure']['CodeLists']['CodeList']['Code']
 
+# We also want to get XDR:USD, so we cheekily include this here.
+imf_countries.append({'@value': 'XDR', 'Description': {'#text': 'IMF Special Drawing Rights'}})
+
+countries_currencies['XDR'] = 'XDR'
 
 def fix_date(_val):
     _year, _month = _val.split("-")
@@ -78,7 +83,11 @@ with open("output/imf_exchangerates.csv", "w") as output_csv:
     writer.writeheader()
     for i, country in enumerate(imf_countries):
         print("Getting data for {}".format(country))
-        rc = requests.get(COUNTRY_URL.format(country['@value'])).json()
+        # There is a different API URL for XDR
+        if country['@value'] == 'XDR':
+            rc = requests.get(XDR_URL).json()
+        else:
+            rc = requests.get(COUNTRY_URL.format(country['@value'])).json()
         dataset = rc['CompactData']['DataSet']
         if countries_currencies.get(country['@value']):
             currency_code = countries_currencies.get(country['@value'])
