@@ -87,7 +87,11 @@ with open("output/imf_exchangerates.csv", "w") as output_csv:
         if country['@value'] == 'XDR':
             rc = requests.get(XDR_URL).json()
         else:
-            rc = requests.get(COUNTRY_URL.format(country['@value'])).json()
+            try:
+                rc = requests.get(COUNTRY_URL.format(country['@value'])).json()
+            except json.decoder.JSONDecodeError:
+                time.sleep(2)
+                rc = requests.get(COUNTRY_URL.format(country['@value'])).json()
         dataset = rc['CompactData']['DataSet']
         if countries_currencies.get(country['@value']):
             currency_code = countries_currencies.get(country['@value'])
