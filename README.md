@@ -6,7 +6,7 @@ This scraper runs nightly at 5am GMT on Github Actions.
 
 You can find the data in the gh-pages branch of this repository, or alternatively under:
 
-https://codeforiati.org/imf-exchangerates/imf_rates.csv
+https://codeforiati.org/imf-exchangerates/imf_exchangerates.csv
 
 ## Notes on the data
 

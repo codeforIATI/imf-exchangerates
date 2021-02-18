@@ -73,7 +73,7 @@ def fix_date(_val):
 # ## For each country, write out monthly exchange rate data
 
 os.makedirs("output", exist_ok=True)
-with open("output/imf_rates.csv", "w") as output_csv:
+with open("output/imf_exchangerates.csv", "w") as output_csv:
     writer = csv.DictWriter(output_csv, FIELDNAMES)
     writer.writeheader()
     for i, country in enumerate(imf_countries):
