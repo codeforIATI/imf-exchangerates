@@ -40,6 +40,24 @@ pip3 install -r requirements.txt
 python3 imf-currencies.py
 ```
 
+## IMF Data License
+
+This data is extracted from the International Monetary Funds (IMF)'s International Financial Statistics (IFS).
+
+Below is an excerpt from the [IMF Copyright and Usage page](https://www.imf.org/external/terms.htm) (effective 2020-01-02, accessed 2021-02-18):
+
+> Users may download, extract, copy, create derivative works, publish, distribute, and sell Data obtained from IMF Sites, including for commercial purposes, subject to the following conditions:
+>
+> * When Data is distributed or reproduced, it must appear accurately and attributed to the IMF as the source, e.g. “Source: International Monetary Fund.” This source attribution requirement is attached to any use of IMF Data, whether obtained directly from the IMF or from a User.
+> * Users who make IMF Data available to other users through any type of distribution or download environment agree to take reasonable efforts to communicate and promote compliance by their end users with these terms.
+> * The Data is provided to Users “as is” and without warranty of any kind, either express or implied, including, without limitation, warranties of merchantability, fitness for a particular purpose, and noninfringement.
+> * If IMF Data is sold by Users as a standalone product; sellers must inform purchasers that the Data is available free of charge from the IMF.
+> * Users shall not infringe upon the integrity of the Data and in particular shall refrain from any act of alteration of the Data that intentionally affects its nature or accuracy. If the Data is materially transformed by the User, this must be stated explicitly along with the required source citation.
+> * The policy of free access and free reuse does not imply a right to obtain confidential or any unpublished underlying data, over which the IMF reserves all rights.
+>
+> Except as stated in this Section VIII, all other terms set forth in the general terms and conditions shall continue to apply to use of IMF Data.
+
+
 ## Dataset coverage
 
 _As of 2021-02-18_, the earliest and latest dates in the dataset are as follows (NB for certain currencies, most notably Zimbabwe (`ZWL`), there are gaps in the data).
