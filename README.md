@@ -18,7 +18,7 @@ It appears that the IMF API uses the ISO 3166 Alpha-2 code for each country, whi
 
 Currencies may change from time to time. Though it is difficult to be 100% sure about this from the available documentation on the API, it appears that all of the values are in each country's most recent currency.
 
-For example: according to [the IMF's Metadata PDF document for this dataset](https://data.imf.org/api/document/download?key=62969181), in January 1, 2005, Turkey introduced the New Turkish Lira (TRY), equivalent to 1,000,000 Turkish Lira. However, there does not appear to be any major change in the rate against the USD here.
+For example: according to [the IMF's Metadata PDF document for this dataset](https://data.imf.org/api/document/download?key=62969181), in January 1, 2005, Turkey introduced the New Turkish Lira (TRY), equivalent to 1,000,000 Turkish Lira. However, there does not appear to be any major change in the rate against the USD around that time.
 
 ### Euro-area countries
 
