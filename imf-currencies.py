@@ -99,5 +99,5 @@ with open("output/imf_rates.csv", "w") as output_csv:
                 })
         # https://datahelp.imf.org/knowledgebase/articles/630877-api
         # IMF API is rate-limited and allows only 10 requests every 5 seconds
-        time.sleep(0.5)
+        time.sleep(0.75)
 
