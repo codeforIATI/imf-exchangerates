@@ -45,7 +45,9 @@ iso_exchange_rates = etree.parse(iso_country_r).xpath("//CcyNtry")
 for country_rate in iso_exchange_rates:
     country = country_rate.find('CtryNm')
     currency = country_rate.find('Ccy')
+    currency_name = country_rate.find('CcyNm')
     if (country == None) or (currency == None): continue
+    if currency_name.get('IsFund') is not None: continue
     if country_codes.get(country.text):
         country_codes[country.text]['currency'] = currency.text
 country_codes.update(EUROZONE_COUNTRIES)
