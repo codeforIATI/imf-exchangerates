@@ -6,7 +6,8 @@ This scraper runs nightly at 5am GMT on Github Actions.
 
 You can find the data in the gh-pages branch of this repository, or alternatively under:
 
-https://codeforiati.org/imf-exchangerates/imf_exchangerates.csv
+IMF Currencies converted to USD (end of month): https://codeforiati.org/imf-exchangerates/imf_exchangerates.csv <br />
+IMF Currencies converted to SDR (monthly average): https://codeforiati.org/imf-exchangerates/imf_exchangerates_ENSA_XDR.csv
 
 ## Notes on the data
 
@@ -38,6 +39,20 @@ pip3 install -r requirements.txt
 2. Run the scraper:
 ```
 python3 imf-currencies.py
+```
+
+There are two optional parameters, source and target. The table below describes the options. The default behaviour is using ENDE as the source, and USD as the target. It is worth noting that for all cases XDR is appended to the end of the dataset as a conversion to USD, as converting XDR to XDR does not make sense.
+
+| Data source description                              | Full source       | Example data | Source | Target |
+|------------------------------------------------------|-------------------|--------------|--------|--------|
+| National Currency per SDR, end of period             | ENSE_XDC_XDR_RATE | [SDR end](http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/M.NL.ENSE_XDC_XDR_RATE)         | ENSE   | XDR    |
+| National Currency per SDR, average of period         | ENSA_XDC_XDR_RATE | [SDR average](http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/M.NL.ENSA_XDC_XDR_RATE)         | ENSA   | XDR    |
+| Domestic currency per U.S. Dollar, end of period     | ENDE_XDC_USD_RATE | [USD end](http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/M.NL.ENDE_XDC_USD_RATE)         | ENDE   | USD    |
+| Domestic currency per U.S. Dollar, average of period | ENDA_XDC_USD_RATE | [USD average](http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/M.NL.ENDA_XDC_USD_RATE)         | ENDA   | USD    |
+
+A parameterized scraper can be called with, for example:
+```
+python3 imf-currencies.py --source=ENSA --target=XDR
 ```
 
 ## IMF Data License
