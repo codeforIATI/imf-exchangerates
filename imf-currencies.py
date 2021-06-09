@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+import click
 import requests
 import json
 import csv
@@ -15,8 +16,8 @@ import calendar
 IMF_CL_AREA_URL="http://dataservices.imf.org/REST/SDMX_JSON.svc/CodeList/CL_AREA_IFS_2019M03"
 # FYI SEE ALSO
 # http://dataservices.imf.org/REST/SDMX_JSON.svc/DataStructure/IFS_2019M03
-COUNTRY_URL="http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/M.{}.ENDE_XDC_USD_RATE"
-XDR_URL="http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/M.US.ESDE_XDR_USD_RATE"
+DEFAULT_SOURCE = 'ENDE'
+DEFAULT_TARGET = 'USD'
 FIELDNAMES=['Date', 'Rate', 'Currency', 'Frequency', 'Source', 'Country code', 'Country']
 ISO_COUNTRY_URL = "https://www.currency-iso.org/dam/downloads/lists/list_one.xml"
 COUNTRY_CODELIST = "https://codelists.codeforiati.org/api/json/en/Country.json"
@@ -71,48 +72,63 @@ imf_countries.append({'@value': 'XDR', 'Description': {'#text': 'IMF Special Dra
 
 countries_currencies['XDR'] = 'XDR'
 
+
 def fix_date(_val):
     _year, _month = _val.split("-")
     _year, _month = int(_year), int(_month)
     last_day_of_month = calendar.monthrange(_year, _month)[1]
     return datetime.date(_year, _month, last_day_of_month).isoformat()
 
+
 # ## For each country, write out monthly exchange rate data
+@click.command()
+@click.option('--source', default=DEFAULT_SOURCE, help='Data source. Options: ENSE (National Currency per SDR, end of period), ENSA (National Currency per SDR, average of period), ENDE (Domestic currency per target USD, end of period), ENDA (Domestic currency per target USD, average of period).')
+@click.option('--target', default=DEFAULT_TARGET, help='Conversion target, Options: XDR (combined with ENSE/ENSA source), USD (combined with ENDE, ENDA source).')
+def write_monthly_exchange_rates(source, target):
+    """ For each country, write out monthly exchange rate data.
+    Using click to allow optional parameters source and target.
+    """
+    country_url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/M.{}.{}_XDC_{}_RATE'
+    xdr_url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/M.US.ESD{}_XDR_USD_RATE'
+    output_file = 'output/imf_exchangerates{}.csv'.format("" if source is DEFAULT_SOURCE and target is DEFAULT_TARGET
+                                                          else "_{}_{}".format(source, target))
+    os.makedirs('output', exist_ok=True)
+    with open(output_file, "w") as output_csv:  # Include format statement to catch the default
+        writer = csv.DictWriter(output_csv, FIELDNAMES)
+        writer.writeheader()
+        for i, country in enumerate(imf_countries):
+            print("Getting data for {}".format(country))
+            # There is a different API URL for XDR
+            if country['@value'] == 'XDR':
+                rc = requests.get(xdr_url.format(source[-1])).json()  # Monthly average/end of period for consistency
+            else:
+                try:
+                    rc = requests.get(country_url.format(country['@value'], source, target)).json()
+                except json.decoder.JSONDecodeError:
+                    time.sleep(2)
+                    rc = requests.get(country_url.format(country['@value'])).json()
+            dataset = rc['CompactData']['DataSet']
+            if countries_currencies.get(country['@value']):
+                currency_code = countries_currencies.get(country['@value'])
+            else:
+                currency_code = ''
+            if 'Series' in dataset:
+                exchange_rates_data = dataset['Series']['Obs']
+                if type(exchange_rates_data) != list: continue
+                for row in exchange_rates_data:
+                    if '@OBS_VALUE' not in row: continue  # Safety for possible missing data for ENSA and ENDA.
+                    writer.writerow({
+                        'Date': fix_date(row['@TIME_PERIOD']),
+                        'Rate': row['@OBS_VALUE'],
+                        'Currency': currency_code,
+                        'Frequency': 'M',
+                        'Source': 'IMF',
+                        'Country code': country['@value'],
+                        'Country': country['Description']['#text'],
+                    })
+            # https://datahelp.imf.org/knowledgebase/articles/630877-api
+            # IMF API is rate-limited and allows only 10 requests every 5 seconds
+            time.sleep(0.75)
 
-os.makedirs("output", exist_ok=True)
-with open("output/imf_exchangerates.csv", "w") as output_csv:
-    writer = csv.DictWriter(output_csv, FIELDNAMES)
-    writer.writeheader()
-    for i, country in enumerate(imf_countries):
-        print("Getting data for {}".format(country))
-        # There is a different API URL for XDR
-        if country['@value'] == 'XDR':
-            rc = requests.get(XDR_URL).json()
-        else:
-            try:
-                rc = requests.get(COUNTRY_URL.format(country['@value'])).json()
-            except json.decoder.JSONDecodeError:
-                time.sleep(2)
-                rc = requests.get(COUNTRY_URL.format(country['@value'])).json()
-        dataset = rc['CompactData']['DataSet']
-        if countries_currencies.get(country['@value']):
-            currency_code = countries_currencies.get(country['@value'])
-        else:
-            currency_code = ''
-        if 'Series' in dataset:
-            exchange_rates_data = dataset['Series']['Obs']
-            if type(exchange_rates_data) != list: continue
-            for row in exchange_rates_data:
-                writer.writerow({
-                    'Date': fix_date(row['@TIME_PERIOD']),
-                    'Rate': row['@OBS_VALUE'],
-                    'Currency': currency_code,
-                    'Frequency': 'M',
-                    'Source': 'IMF',
-                    'Country code': country['@value'],
-                    'Country': country['Description']['#text'],
-                })
-        # https://datahelp.imf.org/knowledgebase/articles/630877-api
-        # IMF API is rate-limited and allows only 10 requests every 5 seconds
-        time.sleep(0.75)
 
+write_monthly_exchange_rates()
