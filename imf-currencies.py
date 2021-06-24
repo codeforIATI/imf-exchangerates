@@ -106,7 +106,7 @@ def write_monthly_exchange_rates(source, target):
                     rc = requests.get(country_url.format(country['@value'], source, target)).json()
                 except json.decoder.JSONDecodeError:
                     time.sleep(2)
-                    rc = requests.get(country_url.format(country['@value'])).json()
+                    rc = requests.get(country_url.format(country['@value'], source, target)).json()
             dataset = rc['CompactData']['DataSet']
             if countries_currencies.get(country['@value']):
                 currency_code = countries_currencies.get(country['@value'])
