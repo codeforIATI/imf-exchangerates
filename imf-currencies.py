@@ -84,6 +84,10 @@ def fix_date(_val):
 @click.command()
 @click.option('--source', default=DEFAULT_SOURCE, help='Data source. Options: ENSE (National Currency per SDR, end of period), ENSA (National Currency per SDR, average of period), ENDE (Domestic currency per target USD, end of period), ENDA (Domestic currency per target USD, average of period).')
 @click.option('--target', default=DEFAULT_TARGET, help='Conversion target, Options: XDR (combined with ENSE/ENSA source), USD (combined with ENDE, ENDA source).')
+def _write_monthly_exchange_rates(source, target):
+    write_monthly_exchange_rates(source, target)
+
+
 def write_monthly_exchange_rates(source, target):
     """ For each country, write out monthly exchange rate data.
     Using click to allow optional parameters source and target.
@@ -130,5 +134,5 @@ def write_monthly_exchange_rates(source, target):
             # IMF API is rate-limited and allows only 10 requests every 5 seconds
             time.sleep(0.75)
 
-
-write_monthly_exchange_rates()
+if __name__ == "__main__":
+    _write_monthly_exchange_rates()
