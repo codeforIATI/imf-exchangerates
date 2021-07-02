@@ -7,6 +7,7 @@ EXISTING_URL="https://codeforiati.org/imf-exchangerates/imf_exchangerates.csv"
 class TestIMFCurrencies:
 
     imf_currencies = __import__('imf-currencies')
+    imf_currencies.write_monthly_exchange_rates(source='ENDE', target='USD')
 
 
     def test_row_numbers(self):

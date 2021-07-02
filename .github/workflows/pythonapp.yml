@@ -25,6 +25,7 @@ jobs:
       - name: Generate data
         run: |
           python imf-currencies.py
+          python imf-currencies.py --source=ENSA --target=XDR
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
