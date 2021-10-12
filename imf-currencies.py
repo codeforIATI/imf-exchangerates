@@ -95,8 +95,8 @@ def write_countries_currencies():
 @click.option('--source', default=DEFAULT_SOURCE, help='Data source. Options: ENSE (National Currency per SDR, end of period), ENSA (National Currency per SDR, average of period), ENDE (Domestic currency per target USD, end of period), ENDA (Domestic currency per target USD, average of period).')
 @click.option('--target', default=DEFAULT_TARGET, help='Conversion target, Options: XDR (combined with ENSE/ENSA source), USD (combined with ENDE, ENDA source).')
 def _write_monthly_exchange_rates(source, target):
-    write_countries_currencies()
     write_monthly_exchange_rates(source, target)
+    write_countries_currencies()
 
 
 def write_monthly_exchange_rates(source, target):
