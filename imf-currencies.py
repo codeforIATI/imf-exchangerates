@@ -39,22 +39,28 @@ MISSING = {
 # ## Get country codes and exchange rates and map them together
 
 country_r = requests.get(COUNTRY_CODELIST).json()['data']
-country_codes = dict(map(lambda c: (c['name'].upper(), {'code': c['code']}), country_r))
 iso_country_r = BytesIO(requests.get(ISO_COUNTRY_URL).text.encode("utf-8"))
 iso_exchange_rates = etree.parse(iso_country_r).xpath("//CcyNtry")
 
-for country_rate in iso_exchange_rates:
-    country = country_rate.find('CtryNm')
-    currency = country_rate.find('Ccy')
-    currency_name = country_rate.find('CcyNm')
-    if (country == None) or (currency == None): continue
-    if currency_name.get('IsFund') is not None: continue
-    if country_codes.get(country.text):
-        country_codes[country.text]['currency'] = currency.text
-country_codes.update(EUROZONE_COUNTRIES)
-country_codes.update(MISSING)
+def get_countries_codes(update_eurozone=True, update_missing=True):
+    country_codes = dict(map(lambda c: (c['name'].upper(), {'code': c['code']}), country_r))
+    for country_rate in iso_exchange_rates:
+        country = country_rate.find('CtryNm')
+        currency = country_rate.find('Ccy')
+        currency_name = country_rate.find('CcyNm')
+        if (country == None) or (currency == None): continue
+        if currency_name.get('IsFund') is not None: continue
+        if country_codes.get(country.text):
+            country_codes[country.text]['currency'] = currency.text
+    if update_eurozone:
+        country_codes.update(EUROZONE_COUNTRIES)
+    if update_missing:
+        country_codes.update(MISSING)
 
-countries_currencies = dict(map(lambda c: (c.get('code'), c.get('currency')), country_codes.values()))
+    countries_currencies = dict(map(lambda c: (c.get('code'), c.get('currency')), country_codes.values()))
+    countries_currencies['XDR'] = 'XDR'
+    return countries_currencies
+countries_currencies = get_countries_codes()
 
 
 # Optionally, check for countries with missing codes
@@ -70,8 +76,6 @@ imf_countries = r_imf_countries['Structure']['CodeLists']['CodeList']['Code']
 # We also want to get XDR:USD, so we cheekily include this here.
 imf_countries.append({'@value': 'XDR', 'Description': {'#text': 'IMF Special Drawing Rights'}})
 
-countries_currencies['XDR'] = 'XDR'
-
 
 def fix_date(_val):
     _year, _month = _val.split("-")
@@ -79,12 +83,19 @@ def fix_date(_val):
     last_day_of_month = calendar.monthrange(_year, _month)[1]
     return datetime.date(_year, _month, last_day_of_month).isoformat()
 
+def write_countries_currencies():
+    with open('output/currencies_pre_eurozone.json', 'w') as countries_currencies_json:
+        json.dump(get_countries_codes(), countries_currencies_json)
+    with open('output/currencies.json', 'w') as countries_currencies_json:
+        json.dump(get_countries_codes(update_eurozone=False), countries_currencies_json)
+
 
 # ## For each country, write out monthly exchange rate data
 @click.command()
 @click.option('--source', default=DEFAULT_SOURCE, help='Data source. Options: ENSE (National Currency per SDR, end of period), ENSA (National Currency per SDR, average of period), ENDE (Domestic currency per target USD, end of period), ENDA (Domestic currency per target USD, average of period).')
 @click.option('--target', default=DEFAULT_TARGET, help='Conversion target, Options: XDR (combined with ENSE/ENSA source), USD (combined with ENDE, ENDA source).')
 def _write_monthly_exchange_rates(source, target):
+    write_countries_currencies()
     write_monthly_exchange_rates(source, target)
 
 
