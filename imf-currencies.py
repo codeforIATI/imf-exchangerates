@@ -22,6 +22,7 @@ FIELDNAMES=['Date', 'Rate', 'Currency', 'Frequency', 'Source', 'Country code', '
 ISO_COUNTRY_URL = "https://www.currency-iso.org/dam/downloads/lists/list_one.xml"
 COUNTRY_CODELIST = "https://codelists.codeforiati.org/api/json/en/Country.json"
 EUROZONE_COUNTRIES = {'AUSTRIA': {'code': 'AT', 'currency': 'ATS'}, 'BELGIUM': {'code': 'BE', 'currency': 'BEF'}, 'CYPRUS': {'code': 'CY', 'currency': 'CYP'}, 'ESTONIA': {'code': 'EE', 'currency': 'EEK'}, 'FINLAND': {'code': 'FI', 'currency': 'FIM'}, 'FRANCE': {'code': 'FR', 'currency': 'FRF'}, 'FRENCH GUIANA': {'code': 'GF', 'currency': 'FRF'}, 'FRENCH SOUTHERN TERRITORIES (THE)': {'code': 'TF', 'currency': 'FRF'}, 'GERMANY': {'code': 'DE', 'currency': 'DEM'}, 'GREECE': {'code': 'GR', 'currency': 'GRD'}, 'IRELAND': {'code': 'IE', 'currency': 'IEP'}, 'ITALY': {'code': 'IT', 'currency': 'ITL'}, 'LATVIA': {'code': 'LV', 'currency': 'LVL'}, 'LITHUANIA': {'code': 'LT', 'currency': 'LTL'}, 'LUXEMBOURG': {'code': 'LU', 'currency': 'LUF'}, 'MALTA': {'code': 'MT', 'currency': 'MTL'}, 'NETHERLANDS (THE)': {'code': 'NL', 'currency': 'NLG'}, 'PORTUGAL': {'code': 'PT', 'currency': 'PTE'}, 'SLOVAKIA': {'code': 'SK', 'currency': 'SKK'}, 'SLOVENIA': {'code': 'SI', 'currency': 'SIT'}, 'SPAIN': {'code': 'ES', 'currency': 'ESP'}, 'GUADELOUPE': {'code': 'GP', 'currency': 'FRF'}, 'HOLY SEE (THE)': {'code': 'VA', 'currency': 'ITL'}, 'MARTINIQUE': {'code': 'MQ', 'currency': 'FRF'}, 'MAYOTTE': {'code': 'YT', 'currency': 'FRF'}, 'MONTENEGRO': {'code': 'ME', 'currency': 'EUR'}, 'RÉUNION': {'code': 'RE', 'currency': 'FRF'}, 'SAINT BARTHÉLEMY': {'code': 'BL', 'currency': 'FRF'}, 'SAINT MARTIN (FRENCH PART)': {'code': 'MF', 'currency': 'FRF'}, 'SAINT PIERRE AND MIQUELON': {'code': 'PM', 'currency': 'FRF'}, 'SAN MARINO': {'code': 'SM', 'currency': 'ITL'}}
+SLEEP_TIME = 0.25
 
 # Unfortunately, the XML file with currency codes which
 # ISO makes available does not use country codes and does not always
@@ -89,6 +90,24 @@ def write_countries_currencies():
     with open('output/currencies.json', 'w') as countries_currencies_json:
         json.dump(get_countries_codes(update_eurozone=False), countries_currencies_json)
 
+# Gradually back off to allow for IMF rate limiting
+# IMF API is rate-limited and allows only 10 requests every 5 seconds
+# https://datahelp.imf.org/knowledgebase/articles/630877-api
+def get_request(url, sleep_time):
+    # If sleep time has crept up to 10 seconds, looks like it isn't going
+    # to work this time.
+    if sleep_time >= 10:
+        raise Exception("Unable to retrieve url {} even after waiting for {} seconds.".format(
+            url, sleep_time))
+    time.sleep(sleep_time)
+    try:
+        json_data = requests.get(url).json()
+    except json.decoder.JSONDecodeError:
+        sleep_time += 0.5
+        print("Slowing down to {} seconds to handle rate limiting.".format(sleep_time))
+        return get_request(url, sleep_time)
+    return json_data, sleep_time
+
 
 # ## For each country, write out monthly exchange rate data
 @click.command()
@@ -111,17 +130,17 @@ def write_monthly_exchange_rates(source, target):
     with open(output_file, "w") as output_csv:  # Include format statement to catch the default
         writer = csv.DictWriter(output_csv, FIELDNAMES)
         writer.writeheader()
+        sleep_time = SLEEP_TIME
         for i, country in enumerate(imf_countries):
             print("Getting data for {}".format(country))
             # There is a different API URL for XDR
+            # Monthly average/end of period for consistency
             if country['@value'] == 'XDR':
-                rc = requests.get(xdr_url.format(source[-1])).json()  # Monthly average/end of period for consistency
+                rc, sleep_time = get_request(xdr_url.format(source[-1]),
+                    sleep_time)
             else:
-                try:
-                    rc = requests.get(country_url.format(country['@value'], source, target)).json()
-                except json.decoder.JSONDecodeError:
-                    time.sleep(2)
-                    rc = requests.get(country_url.format(country['@value'], source, target)).json()
+                rc, sleep_time = get_request(country_url.format(country['@value'], source, target),
+                    sleep_time)
             dataset = rc['CompactData']['DataSet']
             if countries_currencies.get(country['@value']):
                 currency_code = countries_currencies.get(country['@value'])
@@ -141,9 +160,6 @@ def write_monthly_exchange_rates(source, target):
                         'Country code': country['@value'],
                         'Country': country['Description']['#text'],
                     })
-            # https://datahelp.imf.org/knowledgebase/articles/630877-api
-            # IMF API is rate-limited and allows only 10 requests every 5 seconds
-            time.sleep(0.75)
 
 if __name__ == "__main__":
     _write_monthly_exchange_rates()
