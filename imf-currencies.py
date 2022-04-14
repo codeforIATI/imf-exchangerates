@@ -93,19 +93,22 @@ def write_countries_currencies():
 # Gradually back off to allow for IMF rate limiting
 # IMF API is rate-limited and allows only 10 requests every 5 seconds
 # https://datahelp.imf.org/knowledgebase/articles/630877-api
-def get_request(url, sleep_time):
+def get_request(url, sleep_time, attempt=1):
     # If sleep time has crept up to 10 seconds, looks like it isn't going
     # to work this time.
-    if sleep_time >= 10:
+    if attempt >1:
+        print("Attempt {}.".format(attempt))
+    if sleep_time >= 60:
         raise Exception("Unable to retrieve url {} even after waiting for {} seconds.".format(
             url, sleep_time))
-    time.sleep(sleep_time)
+    # Sleep longer the more attempts there are.
+    time.sleep(sleep_time * attempt)
     try:
         json_data = requests.get(url).json()
     except json.decoder.JSONDecodeError:
         sleep_time += 0.5
         print("Slowing down to {} seconds to handle rate limiting.".format(sleep_time))
-        return get_request(url, sleep_time)
+        return get_request(url, sleep_time, attempt+1)
     return json_data, sleep_time
 
 
