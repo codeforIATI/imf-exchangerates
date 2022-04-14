@@ -37,9 +37,32 @@ MISSING = {
 }
 
 
+# Gradually back off to allow for IMF rate limiting
+# IMF API is rate-limited and allows only 10 requests every 5 seconds
+# https://datahelp.imf.org/knowledgebase/articles/630877-api
+def get_request(url, sleep_time, attempt=1):
+    # If sleep time has crept up to 10 seconds, looks like it isn't going
+    # to work this time.
+    if attempt >1:
+        print("Attempt {}.".format(attempt))
+    if sleep_time >= 60:
+        raise Exception("Unable to retrieve url {} even after waiting for {} seconds.".format(
+            url, sleep_time))
+    # Sleep longer the more attempts there are.
+    time.sleep(sleep_time * attempt)
+    try:
+        json_data = requests.get(url).json()
+    except json.decoder.JSONDecodeError:
+        sleep_time += 0.5
+        print("Slowing down to {} seconds to handle rate limiting.".format(sleep_time))
+        return get_request(url, sleep_time, attempt+1)
+    return json_data, sleep_time
+
+
 # ## Get country codes and exchange rates and map them together
 
-country_r = requests.get(COUNTRY_CODELIST).json()['data']
+country_request, _ = get_request(COUNTRY_CODELIST, SLEEP_TIME)
+country_r = country_request['data']
 iso_country_r = BytesIO(requests.get(ISO_COUNTRY_URL).text.encode("utf-8"))
 iso_exchange_rates = etree.parse(iso_country_r).xpath("//CcyNtry")
 
@@ -71,7 +94,7 @@ countries_currencies = get_countries_codes()
 # ## Get list of recognised countries in this dataset from the IMF website
 
 
-r_imf_countries=requests.get(IMF_CL_AREA_URL).json()
+r_imf_countries, _ = get_request(IMF_CL_AREA_URL, SLEEP_TIME)
 imf_countries = r_imf_countries['Structure']['CodeLists']['CodeList']['Code']
 
 # We also want to get XDR:USD, so we cheekily include this here.
@@ -89,24 +112,6 @@ def write_countries_currencies():
         json.dump(get_countries_codes(), countries_currencies_json)
     with open('output/currencies.json', 'w') as countries_currencies_json:
         json.dump(get_countries_codes(update_eurozone=False), countries_currencies_json)
-
-# Gradually back off to allow for IMF rate limiting
-# IMF API is rate-limited and allows only 10 requests every 5 seconds
-# https://datahelp.imf.org/knowledgebase/articles/630877-api
-def get_request(url, sleep_time):
-    # If sleep time has crept up to 10 seconds, looks like it isn't going
-    # to work this time.
-    if sleep_time >= 10:
-        raise Exception("Unable to retrieve url {} even after waiting for {} seconds.".format(
-            url, sleep_time))
-    time.sleep(sleep_time)
-    try:
-        json_data = requests.get(url).json()
-    except json.decoder.JSONDecodeError:
-        sleep_time += 0.5
-        print("Slowing down to {} seconds to handle rate limiting.".format(sleep_time))
-        return get_request(url, sleep_time)
-    return json_data, sleep_time
 
 
 # ## For each country, write out monthly exchange rate data
