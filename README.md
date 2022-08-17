@@ -7,7 +7,8 @@ This scraper runs nightly at 5am GMT on Github Actions.
 You can find the data in the gh-pages branch of this repository, or alternatively under:
 
 IMF Currencies converted to USD (end of month): https://codeforiati.org/imf-exchangerates/imf_exchangerates.csv <br />
-IMF Currencies converted to SDR (monthly average): https://codeforiati.org/imf-exchangerates/imf_exchangerates_ENSA_XDR.csv
+IMF Currencies converted to USD (annual average): https://codeforiati.org/imf-exchangerates/imf_exchangerates_A_ENDA_USD.csv
+IMF Currencies converted to SDR (monthly average): https://codeforiati.org/imf-exchangerates/imf_exchangerates_M_ENSA_XDR.csv
 
 ## Notes on the data
 

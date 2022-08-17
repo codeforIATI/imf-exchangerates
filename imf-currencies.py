@@ -16,6 +16,7 @@ import calendar
 IMF_CL_AREA_URL="http://dataservices.imf.org/REST/SDMX_JSON.svc/CodeList/CL_AREA_IFS_2019M03"
 # FYI SEE ALSO
 # http://dataservices.imf.org/REST/SDMX_JSON.svc/DataStructure/IFS_2019M03
+DEFAULT_FREQ = 'M'
 DEFAULT_SOURCE = 'ENDE'
 DEFAULT_TARGET = 'USD'
 FIELDNAMES=['Date', 'Rate', 'Currency', 'Frequency', 'Source', 'Country code', 'Country']
@@ -102,7 +103,10 @@ imf_countries.append({'@value': 'XDR', 'Description': {'#text': 'IMF Special Dra
 
 
 def fix_date(_val):
-    _year, _month = _val.split("-")
+    if len(_val.split("-")) == 2:
+        _year, _month = _val.split("-")
+    else:
+        _year, _month = _val, 12
     _year, _month = int(_year), int(_month)
     last_day_of_month = calendar.monthrange(_year, _month)[1]
     return datetime.date(_year, _month, last_day_of_month).isoformat()
@@ -116,21 +120,22 @@ def write_countries_currencies():
 
 # ## For each country, write out monthly exchange rate data
 @click.command()
+@click.option('--freq', default=DEFAULT_FREQ, help='Frequency of rates. Options: A (Annual), B (Biannual), Q (Quarterly), M (Monthly), W (Weekly), D (Daily).')
 @click.option('--source', default=DEFAULT_SOURCE, help='Data source. Options: ENSE (National Currency per SDR, end of period), ENSA (National Currency per SDR, average of period), ENDE (Domestic currency per target USD, end of period), ENDA (Domestic currency per target USD, average of period).')
 @click.option('--target', default=DEFAULT_TARGET, help='Conversion target, Options: XDR (combined with ENSE/ENSA source), USD (combined with ENDE, ENDA source).')
-def _write_monthly_exchange_rates(source, target):
-    write_monthly_exchange_rates(source, target)
+def _write_monthly_exchange_rates(freq, source, target):
+    write_monthly_exchange_rates(freq, source, target)
     write_countries_currencies()
 
 
-def write_monthly_exchange_rates(source, target):
+def write_monthly_exchange_rates(freq, source, target):
     """ For each country, write out monthly exchange rate data.
     Using click to allow optional parameters source and target.
     """
-    country_url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/M.{}.{}_XDC_{}_RATE'
-    xdr_url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/M.US.ESD{}_XDR_USD_RATE'
+    country_url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/{}.{}.{}_XDC_{}_RATE'
+    xdr_url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/{}.US.ESD{}_XDR_USD_RATE'
     output_file = 'output/imf_exchangerates{}.csv'.format("" if source is DEFAULT_SOURCE and target is DEFAULT_TARGET
-                                                          else "_{}_{}".format(source, target))
+                                                          else "_{}_{}_{}".format(freq, source, target))
     os.makedirs('output', exist_ok=True)
     with open(output_file, "w") as output_csv:  # Include format statement to catch the default
         writer = csv.DictWriter(output_csv, FIELDNAMES)
@@ -141,10 +146,10 @@ def write_monthly_exchange_rates(source, target):
             # There is a different API URL for XDR
             # Monthly average/end of period for consistency
             if country['@value'] == 'XDR':
-                rc, sleep_time = get_request(xdr_url.format(source[-1]),
+                rc, sleep_time = get_request(xdr_url.format(freq, source[-1]),
                     sleep_time)
             else:
-                rc, sleep_time = get_request(country_url.format(country['@value'], source, target),
+                rc, sleep_time = get_request(country_url.format(freq, country['@value'], source, target),
                     sleep_time)
             dataset = rc['CompactData']['DataSet']
             if countries_currencies.get(country['@value']):
@@ -160,7 +165,7 @@ def write_monthly_exchange_rates(source, target):
                         'Date': fix_date(row['@TIME_PERIOD']),
                         'Rate': row['@OBS_VALUE'],
                         'Currency': currency_code,
-                        'Frequency': 'M',
+                        'Frequency': freq,
                         'Source': 'IMF',
                         'Country code': country['@value'],
                         'Country': country['Description']['#text'],
