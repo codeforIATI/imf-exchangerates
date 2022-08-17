@@ -26,6 +26,8 @@ jobs:
         run: |
           python imf-currencies.py
           python imf-currencies.py --source=ENSA --target=XDR
+          cp output/imf_exchangerates_M_ENSA_XDR.csv output/imf_exchangerates_ENSA_XDR.csv
+          python imf-currencies.py --freq=A --source=ENDA --target=USD
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
