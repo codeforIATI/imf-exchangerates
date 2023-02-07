@@ -953,6 +953,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2019-12-31,2.09178333333333,BYN,A,IMF,BY,Belarus
 2020-12-31,2.439575,BYN,A,IMF,BY,Belarus
 2021-12-31,2.538675,BYN,A,IMF,BY,Belarus
+2022-12-31,2.6261,BYN,A,IMF,BY,Belarus
 1950-12-31,50.000000049,BEF,A,IMF,BE,Belgium
 1951-12-31,50.000000049,BEF,A,IMF,BE,Belgium
 1952-12-31,50.000000049,BEF,A,IMF,BE,Belgium
@@ -3537,6 +3538,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2019-12-31,51.2948583333333,DOP,A,IMF,DO,Dominican Republic
 2020-12-31,56.5245333333333,DOP,A,IMF,DO,Dominican Republic
 2021-12-31,57.2211166666667,DOP,A,IMF,DO,Dominican Republic
+2022-12-31,55.1409916666667,DOP,A,IMF,DO,Dominican Republic
 1967-12-31,2.22,,A,IMF,DE2,East Germany
 1968-12-31,2.22,,A,IMF,DE2,East Germany
 1969-12-31,2.22,,A,IMF,DE2,East Germany
@@ -11770,6 +11772,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2019-12-31,30.927,TWD,A,IMF,TW,"Taiwan, Province of China"
 2020-12-31,29.58325,TWD,A,IMF,TW,"Taiwan, Province of China"
 2021-12-31,28.0235,TWD,A,IMF,TW,"Taiwan, Province of China"
+2022-12-31,29.8063333333333,TWD,A,IMF,TW,"Taiwan, Province of China"
 1992-12-31,0.00246851796666667,TJS,A,IMF,TJ,Tajikistan
 1993-12-31,0.010357405,TJS,A,IMF,TJ,Tajikistan
 1994-12-31,0.0244943481666667,TJS,A,IMF,TJ,Tajikistan
