@@ -24,7 +24,7 @@ For example: according to [the IMF's Metadata PDF document for this dataset](htt
 
 ### Euro-area countries
 
-The one major exception to this appears to be Euro-area countries. Here, the IMF API returns data for the country _up to that country's adoption of the Euro_. In these cases, we ignore ISO's mapping of countries to currencies, because the API is providing us with the pre-Eurozone data (e.g. for France, it returns data on French Francs (FRF)).
+Euro-area countries are handled differently. Here, the IMF API returns data for the country _up to that country's adoption of the Euro_. In these cases, we ignore ISO's mapping of countries to currencies, because the API is providing us with the pre-Eurozone data (e.g. for France, it returns data on French Francs (FRF)). These are contained in the `eurozone.csv` file, which needs to be updated when a new country accedes to the Eurozone.
 
 ## Installation
 

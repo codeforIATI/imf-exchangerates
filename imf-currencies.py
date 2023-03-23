@@ -22,21 +22,19 @@ DEFAULT_TARGET = 'USD'
 FIELDNAMES=['Date', 'Rate', 'Currency', 'Frequency', 'Source', 'Country code', 'Country']
 ISO_COUNTRY_URL = "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
 COUNTRY_CODELIST = "https://codelists.codeforiati.org/api/json/en/Country.json"
-EUROZONE_COUNTRIES = {'AUSTRIA': {'code': 'AT', 'currency': 'ATS'}, 'BELGIUM': {'code': 'BE', 'currency': 'BEF'}, 'CYPRUS': {'code': 'CY', 'currency': 'CYP'}, 'ESTONIA': {'code': 'EE', 'currency': 'EEK'}, 'FINLAND': {'code': 'FI', 'currency': 'FIM'}, 'FRANCE': {'code': 'FR', 'currency': 'FRF'}, 'FRENCH GUIANA': {'code': 'GF', 'currency': 'FRF'}, 'FRENCH SOUTHERN TERRITORIES (THE)': {'code': 'TF', 'currency': 'FRF'}, 'GERMANY': {'code': 'DE', 'currency': 'DEM'}, 'GREECE': {'code': 'GR', 'currency': 'GRD'}, 'IRELAND': {'code': 'IE', 'currency': 'IEP'}, 'ITALY': {'code': 'IT', 'currency': 'ITL'}, 'LATVIA': {'code': 'LV', 'currency': 'LVL'}, 'LITHUANIA': {'code': 'LT', 'currency': 'LTL'}, 'LUXEMBOURG': {'code': 'LU', 'currency': 'LUF'}, 'MALTA': {'code': 'MT', 'currency': 'MTL'}, 'NETHERLANDS (THE)': {'code': 'NL', 'currency': 'NLG'}, 'PORTUGAL': {'code': 'PT', 'currency': 'PTE'}, 'SLOVAKIA': {'code': 'SK', 'currency': 'SKK'}, 'SLOVENIA': {'code': 'SI', 'currency': 'SIT'}, 'SPAIN': {'code': 'ES', 'currency': 'ESP'}, 'GUADELOUPE': {'code': 'GP', 'currency': 'FRF'}, 'HOLY SEE (THE)': {'code': 'VA', 'currency': 'ITL'}, 'MARTINIQUE': {'code': 'MQ', 'currency': 'FRF'}, 'MAYOTTE': {'code': 'YT', 'currency': 'FRF'}, 'MONTENEGRO': {'code': 'ME', 'currency': 'EUR'}, 'RÉUNION': {'code': 'RE', 'currency': 'FRF'}, 'SAINT BARTHÉLEMY': {'code': 'BL', 'currency': 'FRF'}, 'SAINT MARTIN (FRENCH PART)': {'code': 'MF', 'currency': 'FRF'}, 'SAINT PIERRE AND MIQUELON': {'code': 'PM', 'currency': 'FRF'}, 'SAN MARINO': {'code': 'SM', 'currency': 'ITL'}}
 SLEEP_TIME = 0.25
+
+# Eurozone countries need to have the old currency code specified manually.
+with open('source/eurozone.csv', 'r') as eurozone_file:
+    csvreader = csv.DictReader(eurozone_file)
+    EUROZONE_COUNTRIES = dict([(row['country_name'], {'code': row['country_code'], 'currency': row['currency_code']}) for row in csvreader])
 
 # Unfortunately, the XML file with currency codes which
 # ISO makes available does not use country codes and does not always
 # exactly match ISO's name for the country.
-MISSING = {
- "KOREA (THE DEMOCRATIC PEOPLE'S REPUBLIC OF)": {'code': 'KP', 'currency': 'KPW'},
- 'KOSOVO': {'code': 'XK', 'currency': 'EUR'},
- "LAO PEOPLE'S DEMOCRATIC REPUBLIC (THE)": {'code': 'LA', 'currency': 'LAK'},
- 'NETHERLANDS ANTILLES': {'code': 'AN', 'currency': 'NLG'},
- 'SYRIAN ARAB REPUBLIC (THE)': {'code': 'SY', 'currency': 'SYP'},
- 'TANZANIA, THE UNITED REPUBLIC OF': {'code': 'TZ', 'currency': 'TZS'}
-}
-
+with open('source/missing.csv', 'r') as missing_file:
+    csvreader = csv.DictReader(missing_file)
+    MISSING = dict([(row['country_name'], {'code': row['country_code'], 'currency': row['currency_code']}) for row in csvreader])
 
 # Gradually back off to allow for IMF rate limiting
 # IMF API is rate-limited and allows only 10 requests every 5 seconds
@@ -132,8 +130,6 @@ def write_monthly_exchange_rates(freq, source, target):
     """ For each country, write out monthly exchange rate data.
     Using click to allow optional parameters source and target.
     """
-    country_url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/{}.{}.{}_XDC_{}_RATE'
-    xdr_url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/{}.US.ESD{}_XDR_USD_RATE'
     output_file = 'output/imf_exchangerates{}.csv'.format("" if source is DEFAULT_SOURCE and target is DEFAULT_TARGET
                                                           else "_{}_{}_{}".format(freq, source, target))
     os.makedirs('output', exist_ok=True)
@@ -142,34 +138,41 @@ def write_monthly_exchange_rates(freq, source, target):
         writer.writeheader()
         sleep_time = SLEEP_TIME
         for i, country in enumerate(imf_countries):
-            print("Getting data for {}".format(country))
-            # There is a different API URL for XDR
-            # Monthly average/end of period for consistency
-            if country['@value'] == 'XDR':
-                rc, sleep_time = get_request(xdr_url.format(freq, source[-1]),
-                    sleep_time)
-            else:
-                rc, sleep_time = get_request(country_url.format(freq, country['@value'], source, target),
-                    sleep_time)
-            dataset = rc['CompactData']['DataSet']
-            if countries_currencies.get(country['@value']):
-                currency_code = countries_currencies.get(country['@value'])
-            else:
-                currency_code = ''
-            if 'Series' in dataset:
-                exchange_rates_data = dataset['Series']['Obs']
-                if type(exchange_rates_data) != list: continue
-                for row in exchange_rates_data:
-                    if '@OBS_VALUE' not in row: continue  # Safety for possible missing data for ENSA and ENDA.
-                    writer.writerow({
-                        'Date': fix_date(row['@TIME_PERIOD']),
-                        'Rate': row['@OBS_VALUE'],
-                        'Currency': currency_code,
-                        'Frequency': freq,
-                        'Source': 'IMF',
-                        'Country code': country['@value'],
-                        'Country': country['Description']['#text'],
-                    })
+            sleep_time = write_data_for_country(writer, country, sleep_time, freq, source, target)
+
+
+def write_data_for_country(writer, country, sleep_time, freq, source, target):
+    country_url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/{}.{}.{}_XDC_{}_RATE'
+    xdr_url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/{}.US.ESD{}_XDR_USD_RATE'
+    print("Getting data for {}".format(country))
+    # There is a different API URL for XDR
+    # Monthly average/end of period for consistency
+    if country['@value'] == 'XDR':
+        rc, sleep_time = get_request(xdr_url.format(freq, source[-1]),
+            sleep_time)
+    else:
+        rc, sleep_time = get_request(country_url.format(freq, country['@value'], source, target),
+            sleep_time)
+    dataset = rc['CompactData']['DataSet']
+    if countries_currencies.get(country['@value']):
+        currency_code = countries_currencies.get(country['@value'])
+    else:
+        currency_code = ''
+    if 'Series' in dataset:
+        exchange_rates_data = dataset['Series']['Obs']
+        if type(exchange_rates_data) != list: return sleep_time
+        for row in exchange_rates_data:
+            if '@OBS_VALUE' not in row: return sleep_time  # Safety for possible missing data for ENSA and ENDA.
+            writer.writerow({
+                'Date': fix_date(row['@TIME_PERIOD']),
+                'Rate': row['@OBS_VALUE'],
+                'Currency': currency_code,
+                'Frequency': freq,
+                'Source': 'IMF',
+                'Country code': country['@value'],
+                'Country': country['Description']['#text'],
+            })
+    return sleep_time
 
 if __name__ == "__main__":
     _write_monthly_exchange_rates()
