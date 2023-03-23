@@ -130,8 +130,6 @@ def write_monthly_exchange_rates(freq, source, target):
     """ For each country, write out monthly exchange rate data.
     Using click to allow optional parameters source and target.
     """
-    country_url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/{}.{}.{}_XDC_{}_RATE'
-    xdr_url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/{}.US.ESD{}_XDR_USD_RATE'
     output_file = 'output/imf_exchangerates{}.csv'.format("" if source is DEFAULT_SOURCE and target is DEFAULT_TARGET
                                                           else "_{}_{}_{}".format(freq, source, target))
     os.makedirs('output', exist_ok=True)
@@ -140,34 +138,41 @@ def write_monthly_exchange_rates(freq, source, target):
         writer.writeheader()
         sleep_time = SLEEP_TIME
         for i, country in enumerate(imf_countries):
-            print("Getting data for {}".format(country))
-            # There is a different API URL for XDR
-            # Monthly average/end of period for consistency
-            if country['@value'] == 'XDR':
-                rc, sleep_time = get_request(xdr_url.format(freq, source[-1]),
-                    sleep_time)
-            else:
-                rc, sleep_time = get_request(country_url.format(freq, country['@value'], source, target),
-                    sleep_time)
-            dataset = rc['CompactData']['DataSet']
-            if countries_currencies.get(country['@value']):
-                currency_code = countries_currencies.get(country['@value'])
-            else:
-                currency_code = ''
-            if 'Series' in dataset:
-                exchange_rates_data = dataset['Series']['Obs']
-                if type(exchange_rates_data) != list: continue
-                for row in exchange_rates_data:
-                    if '@OBS_VALUE' not in row: continue  # Safety for possible missing data for ENSA and ENDA.
-                    writer.writerow({
-                        'Date': fix_date(row['@TIME_PERIOD']),
-                        'Rate': row['@OBS_VALUE'],
-                        'Currency': currency_code,
-                        'Frequency': freq,
-                        'Source': 'IMF',
-                        'Country code': country['@value'],
-                        'Country': country['Description']['#text'],
-                    })
+            sleep_time = write_data_for_country(writer, country, sleep_time, freq, source, target)
+
+
+def write_data_for_country(writer, country, sleep_time, freq, source, target):
+    country_url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/{}.{}.{}_XDC_{}_RATE'
+    xdr_url = 'http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/{}.US.ESD{}_XDR_USD_RATE'
+    print("Getting data for {}".format(country))
+    # There is a different API URL for XDR
+    # Monthly average/end of period for consistency
+    if country['@value'] == 'XDR':
+        rc, sleep_time = get_request(xdr_url.format(freq, source[-1]),
+            sleep_time)
+    else:
+        rc, sleep_time = get_request(country_url.format(freq, country['@value'], source, target),
+            sleep_time)
+    dataset = rc['CompactData']['DataSet']
+    if countries_currencies.get(country['@value']):
+        currency_code = countries_currencies.get(country['@value'])
+    else:
+        currency_code = ''
+    if 'Series' in dataset:
+        exchange_rates_data = dataset['Series']['Obs']
+        if type(exchange_rates_data) != list: return sleep_time
+        for row in exchange_rates_data:
+            if '@OBS_VALUE' not in row: return sleep_time  # Safety for possible missing data for ENSA and ENDA.
+            writer.writerow({
+                'Date': fix_date(row['@TIME_PERIOD']),
+                'Rate': row['@OBS_VALUE'],
+                'Currency': currency_code,
+                'Frequency': freq,
+                'Source': 'IMF',
+                'Country code': country['@value'],
+                'Country': country['Description']['#text'],
+            })
+    return sleep_time
 
 if __name__ == "__main__":
     _write_monthly_exchange_rates()
