@@ -22,21 +22,19 @@ DEFAULT_TARGET = 'USD'
 FIELDNAMES=['Date', 'Rate', 'Currency', 'Frequency', 'Source', 'Country code', 'Country']
 ISO_COUNTRY_URL = "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
 COUNTRY_CODELIST = "https://codelists.codeforiati.org/api/json/en/Country.json"
-EUROZONE_COUNTRIES = {'AUSTRIA': {'code': 'AT', 'currency': 'ATS'}, 'BELGIUM': {'code': 'BE', 'currency': 'BEF'}, 'CYPRUS': {'code': 'CY', 'currency': 'CYP'}, 'ESTONIA': {'code': 'EE', 'currency': 'EEK'}, 'FINLAND': {'code': 'FI', 'currency': 'FIM'}, 'FRANCE': {'code': 'FR', 'currency': 'FRF'}, 'FRENCH GUIANA': {'code': 'GF', 'currency': 'FRF'}, 'FRENCH SOUTHERN TERRITORIES (THE)': {'code': 'TF', 'currency': 'FRF'}, 'GERMANY': {'code': 'DE', 'currency': 'DEM'}, 'GREECE': {'code': 'GR', 'currency': 'GRD'}, 'IRELAND': {'code': 'IE', 'currency': 'IEP'}, 'ITALY': {'code': 'IT', 'currency': 'ITL'}, 'LATVIA': {'code': 'LV', 'currency': 'LVL'}, 'LITHUANIA': {'code': 'LT', 'currency': 'LTL'}, 'LUXEMBOURG': {'code': 'LU', 'currency': 'LUF'}, 'MALTA': {'code': 'MT', 'currency': 'MTL'}, 'NETHERLANDS (THE)': {'code': 'NL', 'currency': 'NLG'}, 'PORTUGAL': {'code': 'PT', 'currency': 'PTE'}, 'SLOVAKIA': {'code': 'SK', 'currency': 'SKK'}, 'SLOVENIA': {'code': 'SI', 'currency': 'SIT'}, 'SPAIN': {'code': 'ES', 'currency': 'ESP'}, 'GUADELOUPE': {'code': 'GP', 'currency': 'FRF'}, 'HOLY SEE (THE)': {'code': 'VA', 'currency': 'ITL'}, 'MARTINIQUE': {'code': 'MQ', 'currency': 'FRF'}, 'MAYOTTE': {'code': 'YT', 'currency': 'FRF'}, 'MONTENEGRO': {'code': 'ME', 'currency': 'EUR'}, 'RÉUNION': {'code': 'RE', 'currency': 'FRF'}, 'SAINT BARTHÉLEMY': {'code': 'BL', 'currency': 'FRF'}, 'SAINT MARTIN (FRENCH PART)': {'code': 'MF', 'currency': 'FRF'}, 'SAINT PIERRE AND MIQUELON': {'code': 'PM', 'currency': 'FRF'}, 'SAN MARINO': {'code': 'SM', 'currency': 'ITL'}}
 SLEEP_TIME = 0.25
+
+# Eurozone countries need to have the old currency code specified manually.
+with open('source/eurozone.csv', 'r') as eurozone_file:
+    csvreader = csv.DictReader(eurozone_file)
+    EUROZONE_COUNTRIES = dict([(row['country_name'], {'code': row['country_code'], 'currency': row['currency_code']}) for row in csvreader])
 
 # Unfortunately, the XML file with currency codes which
 # ISO makes available does not use country codes and does not always
 # exactly match ISO's name for the country.
-MISSING = {
- "KOREA (THE DEMOCRATIC PEOPLE'S REPUBLIC OF)": {'code': 'KP', 'currency': 'KPW'},
- 'KOSOVO': {'code': 'XK', 'currency': 'EUR'},
- "LAO PEOPLE'S DEMOCRATIC REPUBLIC (THE)": {'code': 'LA', 'currency': 'LAK'},
- 'NETHERLANDS ANTILLES': {'code': 'AN', 'currency': 'NLG'},
- 'SYRIAN ARAB REPUBLIC (THE)': {'code': 'SY', 'currency': 'SYP'},
- 'TANZANIA, THE UNITED REPUBLIC OF': {'code': 'TZ', 'currency': 'TZS'}
-}
-
+with open('source/missing.csv', 'r') as missing_file:
+    csvreader = csv.DictReader(missing_file)
+    MISSING = dict([(row['country_name'], {'code': row['country_code'], 'currency': row['currency_code']}) for row in csvreader])
 
 # Gradually back off to allow for IMF rate limiting
 # IMF API is rate-limited and allows only 10 requests every 5 seconds
