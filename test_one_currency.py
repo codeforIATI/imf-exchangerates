@@ -75,7 +75,7 @@ class TestOneCurrency:
         Check that the list of Eurozone countries/currencies is as expected.
         """
         countries = [k for k, v in countries_currencies.items() if v == 'EUR']
-        assert countries == ['AX', 'AD', 'MC', 'ME', 'U2']
-        # Aland Islands, Andorra, Monaco, Montenegro all use EUR but are not members
-        assert len([v for k, v in countries_currencies.items() if v == 'EUR']) == 5
+        assert countries == ['AX', 'AD', 'XK', 'MC', 'ME', 'U2']
+        # Aland Islands, Andorra, Kosovo, Monaco, Montenegro all use EUR but are not members
+        assert len([v for k, v in countries_currencies.items() if v == 'EUR']) == 6
 
