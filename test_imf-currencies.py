@@ -25,7 +25,7 @@ class TestIMFCurrencies:
             assert new_csv_len >= existing_csv_len
 
 
-    def _test_row_contents(self):
+    def test_row_contents(self):
         """
         Confirm that every row has the correct contents.
         NB this doesn't work at the moment due to bugs, but
