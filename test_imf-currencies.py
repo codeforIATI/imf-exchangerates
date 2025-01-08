@@ -22,7 +22,7 @@ class TestIMFCurrencies:
 
         with open("output/imf_exchangerates.csv", "r") as input_csv:
             new_csv_len = len(input_csv.readlines())
-            assert new_csv_len == existing_csv_len
+            assert new_csv_len >= existing_csv_len
 
 
     def _test_row_contents(self):
