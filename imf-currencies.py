@@ -163,6 +163,7 @@ def write_data_for_country(writer, country, sleep_time, freq, source, target):
         if type(exchange_rates_data) != list: return sleep_time
         for row in exchange_rates_data:
             if '@OBS_VALUE' not in row: return sleep_time  # Safety for possible missing data for ENSA and ENDA.
+            if row['@OBS_VALUE'] == "0": return sleep_time # Fixes issue with MM Monthly rates suddenly set to 0 for 2021-10 onwards
             writer.writerow({
                 'Date': fix_date(row['@TIME_PERIOD']),
                 'Rate': row['@OBS_VALUE'],
