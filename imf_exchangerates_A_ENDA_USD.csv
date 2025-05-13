@@ -12105,7 +12105,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 1992-12-31,297.708083333333,TZS,A,IMF,TZ,"Tanzania, United Republic of"
 1993-12-31,405.274016666667,TZS,A,IMF,TZ,"Tanzania, United Republic of"
 1994-12-31,509.630875,TZS,A,IMF,TZ,"Tanzania, United Republic of"
-1995-12-31,574.761741666667,TZS,A,IMF,TZ,"Tanzania, United Republic of"
+1995-12-31,574.761741666666,TZS,A,IMF,TZ,"Tanzania, United Republic of"
 1996-12-31,579.976666666667,TZS,A,IMF,TZ,"Tanzania, United Republic of"
 1997-12-31,612.1225,TZS,A,IMF,TZ,"Tanzania, United Republic of"
 1998-12-31,664.671208333333,TZS,A,IMF,TZ,"Tanzania, United Republic of"
@@ -12114,7 +12114,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2001-12-31,876.411666666667,TZS,A,IMF,TZ,"Tanzania, United Republic of"
 2002-12-31,966.582784259259,TZS,A,IMF,TZ,"Tanzania, United Republic of"
 2003-12-31,1038.41900659604,TZS,A,IMF,TZ,"Tanzania, United Republic of"
-2004-12-31,1089.33477148982,TZS,A,IMF,TZ,"Tanzania, United Republic of"
+2004-12-31,1089.33477148983,TZS,A,IMF,TZ,"Tanzania, United Republic of"
 2005-12-31,1128.93417916192,TZS,A,IMF,TZ,"Tanzania, United Republic of"
 2006-12-31,1251.89997292515,TZS,A,IMF,TZ,"Tanzania, United Republic of"
 2007-12-31,1245.03546404783,TZS,A,IMF,TZ,"Tanzania, United Republic of"
@@ -12132,6 +12132,9 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2019-12-31,2288.20666666667,TZS,A,IMF,TZ,"Tanzania, United Republic of"
 2020-12-31,2294.14615050509,TZS,A,IMF,TZ,"Tanzania, United Republic of"
 2021-12-31,2297.76422623792,TZS,A,IMF,TZ,"Tanzania, United Republic of"
+2022-12-31,2303.03367612332,TZS,A,IMF,TZ,"Tanzania, United Republic of"
+2023-12-31,2383.04258333333,TZS,A,IMF,TZ,"Tanzania, United Republic of"
+2024-12-31,2597.90041666667,TZS,A,IMF,TZ,"Tanzania, United Republic of"
 1950-12-31,22.3391127061098,THB,A,IMF,TH,Thailand
 1951-12-31,21.5561087556346,THB,A,IMF,TH,Thailand
 1952-12-31,18.8740952241216,THB,A,IMF,TH,Thailand
