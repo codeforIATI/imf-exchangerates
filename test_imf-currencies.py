@@ -5,10 +5,9 @@ from urllib.request import Request, urlopen
 EXISTING_URL="https://codeforiati.org/imf-exchangerates/imf_exchangerates.csv"
 
 class TestIMFCurrencies:
-
-    imf_currencies = __import__('imf-currencies')
-    imf_currencies.write_monthly_exchange_rates(freq='M', source='ENDE', target='USD')
-
+    def setup_class(cls):
+        imf_currencies = __import__("imf-currencies")
+        imf_currencies.write_monthly_exchange_rates(frequency="M", source="ENDE", target="USD")
 
     def test_row_numbers(self):
         """
@@ -35,11 +34,11 @@ class TestIMFCurrencies:
             reader = csv.DictReader(input_csv)
             for i, row in enumerate(reader):
                 try:
-                    assert re.match(r"(\d{4})-(\d{2})-(\d{2})", row['Date'])
-                    assert re.match(r"(\d+\.*\d*)", row['Rate'])
-                    assert re.match(r"(\w+)", row['Currency'])
-                    assert re.match(r"(\w+)", row['Frequency'])
-                    assert re.match(r"(\w+)", row['Source'])
+                    assert re.match(r"(\d{4})-(\d{2})-(\d{2})", row["Date"])
+                    assert re.match(r"(\d+\.*\d*)", row["Rate"])
+                    assert re.match(r"(\w+)", row["Currency"])
+                    assert re.match(r"(\w+)", row["Frequency"])
+                    assert re.match(r"(\w+)", row["Source"])
                 except AssertionError as e:
                     print("Error on line {}, error was {}".format(i, e))
                     raise e
