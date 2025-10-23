@@ -18,9 +18,11 @@ FIELDNAMES = ["Date", "Rate", "Currency", "Frequency", "Source", "Country code",
 
 
 def fix_date(date_val):
-    date_val = date_val.replace("-M", "-")
-    if len(date_val.split("-")) == 2:
-        year, month = date_val.split("-")
+    if "M" in date_val:
+        year, month = date_val.split("-M")
+    elif "Q" in date_val:
+        year, quarter = date_val.split("-Q")
+        month = int(quarter) * 3
     else:
         year, month = date_val, 12
     year, month = int(year), int(month)
