@@ -1,4 +1,4 @@
-country_name,country_code,currency_code
+country_name,country_code_2,currency_code
 AUSTRIA,AT,ATS
 BELGIUM,BE,BEF
 CROATIA,HR,HRD
@@ -12,7 +12,6 @@ GERMANY,DE,DEM
 GREECE,GR,GRD
 IRELAND,IE,IEP
 ITALY,IT,ITL
-KOSOVO,XK,EUR
 LATVIA,LV,LVL
 LITHUANIA,LT,LTL
 LUXEMBOURG,LU,LUF
