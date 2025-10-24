@@ -1,36 +1,52 @@
 import csv
 import re
+import pytest
 from urllib.request import Request, urlopen
 
-EXISTING_URL="https://codeforiati.org/imf-exchangerates/imf_exchangerates.csv"
+EXISTING_URL="https://codeforiati.org/imf-exchangerates/imf_exchangerates{}.csv"
 
 class TestIMFCurrencies:
     def setup_class(cls):
         imf_currencies = __import__("imf-currencies")
         imf_currencies.write_monthly_exchange_rates(frequency="M", source="ENDE", target="USD")
+        imf_currencies.write_monthly_exchange_rates(frequency="M", source="ENSA", target="XDR")
+        imf_currencies.write_monthly_exchange_rates(frequency="A", source="ENDA", target="USD")
 
-    def test_row_numbers(self):
+
+    @pytest.mark.parametrize(
+        "url_suffix, file_name", [
+        ("", ""),
+        ("_ENSA_XDR", "_M_ENSA_XDR"),
+        ("_A_ENDA_USD", "_A_ENDA_USD"),
+    ])
+    def test_row_numbers(self, url_suffix, file_name):
         """
         Check that running this code outputs the same
         number of lines as were previously generated.
         This will sometimes lead to some false negatives,
         given that the data is updated frequently.
         """
-        request = Request(EXISTING_URL)
+        request = Request(EXISTING_URL.format(url_suffix))
         existing_csv_len = len(urlopen(request).readlines())
 
-        with open("output/imf_exchangerates.csv", "r") as input_csv:
+        with open("output/imf_exchangerates{}.csv".format(file_name), "r") as input_csv:
             new_csv_len = len(input_csv.readlines())
             assert new_csv_len >= existing_csv_len
 
 
-    def test_row_contents(self):
+    @pytest.mark.parametrize(
+        "file_name", [
+        (""),
+        ("_M_ENSA_XDR"),
+        ("_A_ENDA_USD"),
+    ])
+    def test_row_contents(self, file_name):
         """
         Confirm that every row has the correct contents.
         NB this doesn't work at the moment due to bugs, but
         it should eventually pass.
         """
-        with open("output/imf_exchangerates.csv", "r") as input_csv:
+        with open("output/imf_exchangerates{}.csv".format(file_name), "r") as input_csv:
             reader = csv.DictReader(input_csv)
             for i, row in enumerate(reader):
                 try:
