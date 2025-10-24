@@ -1,18 +1,21 @@
-country_name,country_code,currency_code
-EUROZONE,U2,EUR
-KOREA (THE DEMOCRATIC PEOPLE'S REPUBLIC OF),KP,KPW
-LAO PEOPLE'S DEMOCRATIC REPUBLIC (THE),LA,LAK
-NETHERLANDS ANTILLES,AN,NLG
-SYRIAN ARAB REPUBLIC (THE),SY,SYP
-"TANZANIA, THE UNITED REPUBLIC OF",TZ,TZS
-Curacao & St. Maarten,1C_355,ANG
-Former Czechoslovakia,CSH,CSJ
-East Germany,DE2,DDM
-Former U.S.S.R.,SUH,SUR
-Yemen Arab Rep.,1C_473,YDD
-"Yemen, P.D. Rep.",1C_459,YDD
-Former Yugoslavia,YUC,YUN
-Eastern Caribbean Currency Union,5Y,XCD
-WAEMU (West African Economic and Monetary Union),7A,XOF
-Turkey,TR,TRY
-CEMAC,5X,XAF
+country_name,country_code_3,country_code_2,currency_code
+EUROZONE,G163,U2,EUR
+KOREA (THE DEMOCRATIC PEOPLE'S REPUBLIC OF),PRK,KP,KPW
+LAO PEOPLE'S DEMOCRATIC REPUBLIC (THE),LAO,LA,LAK
+NETHERLANDS ANTILLES,ANT,AN,NLG
+SYRIAN ARAB REPUBLIC (THE),SYR,SY,SYP
+"TANZANIA, THE UNITED REPUBLIC OF",TZA,TZ,TZS
+Curacao & St. Maarten,CWX,1C_355,ANG
+Former Czechoslovakia,CSK,CSH,CSJ
+East Germany,DDR,DE2,DDM
+Former U.S.S.R.,SUN,SUH,SUR
+Yemen Arab Rep.,YAR,1C_473,YDD
+"Yemen, P.D. Rep.",YMD,1C_459,YDD
+Former Yugoslavia,YUG,YUC,YUN
+Eastern Caribbean Currency Union,G309,5Y,XCD
+WAEMU (West African Economic and Monetary Union),G759,7A,XOF
+Turkey,TUR,TR,TRY
+CEMAC,G758,5X,XAF
+KOSOVO,KOS,XK,EUR
+Taiwan (Province of China),TWN,TW,TWD
+Benelux,G129,R1,BEF

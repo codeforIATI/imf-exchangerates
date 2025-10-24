@@ -1,6 +1,6 @@
 ## IMF Currency Rates against the U.S. Dollar
 
-This simple scraper creates a dataset of historical IMF exchange rates to the U.S. Dollar for 168 currencies. Data comes from the [IMF's International Financial Statistics](https://data.imf.org/?sk=4C514D48-B6BA-49ED-8AB9-52B0C1A0179B).
+This simple scraper creates a dataset of historical IMF exchange rates to the U.S. Dollar for 168 currencies. Data comes from the [IMF's International Financial Statistics](https://data.imf.org/en/datasets/IMF.STA:ER).
 
 This scraper runs nightly at 5am GMT on Github Actions.
 
@@ -20,7 +20,7 @@ It appears that the IMF API uses the ISO 3166 Alpha-2 code for each country, whi
 
 Currencies may change from time to time. Though it is difficult to be 100% sure about this from the available documentation on the API, it appears that all of the values are in each country's most recent currency.
 
-For example: according to [the IMF's Metadata PDF document for this dataset](https://data.imf.org/api/document/download?key=62969181), in January 1, 2005, Turkey introduced the New Turkish Lira (TRY), equivalent to 1,000,000 Turkish Lira. However, there does not appear to be any major change in the rate against the USD around that time.
+For example: according to [the IMF's Metadata PDF document for this dataset](https://data.imf.org/-/media/iData/External-Storage/Documents/7F74AA6D71D2438285DBAC19451D7F7C/en/Metadata-Exchange-Rate-databaseCountry-notesOctober-2025.pdf), in January 1, 2005, Turkey introduced the New Turkish Lira (TRY), equivalent to 1,000,000 Turkish Lira. However, there does not appear to be any major change in the rate against the USD around that time.
 
 ### Euro-area countries
 
@@ -46,10 +46,10 @@ There are two optional parameters, source and target. The table below describes 
 
 | Data source description                              | Full source       | Example data | Source | Target |
 |------------------------------------------------------|-------------------|--------------|--------|--------|
-| National Currency per SDR, end of period             | ENSE_XDC_XDR_RATE | [SDR end](http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/M.NL.ENSE_XDC_XDR_RATE)         | ENSE   | XDR    |
-| National Currency per SDR, average of period         | ENSA_XDC_XDR_RATE | [SDR average](http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/M.NL.ENSA_XDC_XDR_RATE)         | ENSA   | XDR    |
-| Domestic currency per U.S. Dollar, end of period     | ENDE_XDC_USD_RATE | [USD end](http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/M.NL.ENDE_XDC_USD_RATE)         | ENDE   | USD    |
-| Domestic currency per U.S. Dollar, average of period | ENDA_XDC_USD_RATE | [USD average](http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/M.NL.ENDA_XDC_USD_RATE)         | ENDA   | USD    |
+| National Currency per SDR, end of period             | ENSE_XDC_XDR_RATE | [SDR end](https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.STA/ER/%2B/*.XDC_XDR.EOP_RT.M?attributes=SCALE)         | ENSE   | XDR    |
+| National Currency per SDR, average of period         | ENSA_XDC_XDR_RATE | [SDR average](https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.STA/ER/%2B/*.XDC_XDR.PA_RT.M?attributes=SCALE)         | ENSA   | XDR    |
+| Domestic currency per U.S. Dollar, end of period     | ENDE_XDC_USD_RATE | [USD end](https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.STA/ER/%2B/*.XDC_USD.EOP_RT.M?attributes=SCALE)         | ENDE   | USD    |
+| Domestic currency per U.S. Dollar, average of period | ENDA_XDC_USD_RATE | [USD average](https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.STA/ER/%2B/*.XDC_USD.PA_RT.M?attributes=SCALE)         | ENDA   | USD    |
 
 A parameterized scraper can be called with, for example:
 ```
