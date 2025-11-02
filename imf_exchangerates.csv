@@ -85326,7 +85326,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-06-30,0.7977,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 2025-07-31,0.8129,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 2025-08-31,0.8007,CHF,M,IMF,LI,"Liechtenstein, Principality of"
-2025-09-30,0.7977,CHF,M,IMF,LI,"Liechtenstein, Principality of"
+2025-09-30,0.7961,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 1992-01-31,1.225,LTL,M,IMF,LT,"Lithuania, Republic of"
 1992-02-29,0.778,LTL,M,IMF,LT,"Lithuania, Republic of"
 1992-03-31,1.25,LTL,M,IMF,LT,"Lithuania, Republic of"
@@ -113371,6 +113371,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-06-30,7799.08,PYG,M,IMF,PY,Paraguay
 2025-07-31,7396.085,PYG,M,IMF,PY,Paraguay
 2025-08-31,7320.45,PYG,M,IMF,PY,Paraguay
+2025-09-30,6961.375,PYG,M,IMF,PY,Paraguay
 1960-01-31,0.000000027699999999,PEN,M,IMF,PE,Peru
 1960-02-29,0.000000027699999999,PEN,M,IMF,PE,Peru
 1960-03-31,0.000000027699999999,PEN,M,IMF,PE,Peru
@@ -136098,7 +136099,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-06-30,0.7977,CHF,M,IMF,CH,Switzerland
 2025-07-31,0.8129,CHF,M,IMF,CH,Switzerland
 2025-08-31,0.8007,CHF,M,IMF,CH,Switzerland
-2025-09-30,0.7977,CHF,M,IMF,CH,Switzerland
+2025-09-30,0.7961,CHF,M,IMF,CH,Switzerland
 1957-01-31,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
 1957-02-28,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
 1957-03-31,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
