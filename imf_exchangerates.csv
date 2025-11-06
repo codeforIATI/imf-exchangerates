@@ -2027,6 +2027,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,130.7381,DZD,M,IMF,DZ,Algeria
 2025-08-31,129.7069,DZD,M,IMF,DZ,Algeria
 2025-09-30,129.4693,DZD,M,IMF,DZ,Algeria
+2025-10-31,130.3731,DZD,M,IMF,DZ,Algeria
 2020-10-31,0.8548469823901522,EUR,M,IMF,AD,"Andorra, Principality of"
 2020-11-30,0.8347245409015025,EUR,M,IMF,AD,"Andorra, Principality of"
 2020-12-31,0.8149295085975063,EUR,M,IMF,AD,"Andorra, Principality of"
@@ -7952,6 +7953,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-06-30,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
 2025-07-31,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
 2025-08-31,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
+2025-09-30,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
 1940-01-31,1.02041,BSD,M,IMF,BS,"Bahamas, The"
 1940-02-29,1.02041,BSD,M,IMF,BS,"Bahamas, The"
 1940-03-31,1.02041,BSD,M,IMF,BS,"Bahamas, The"
@@ -11575,6 +11577,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-06-30,2.9663,BYN,M,IMF,BY,"Belarus, Republic of"
 2025-07-31,3.023,BYN,M,IMF,BY,"Belarus, Republic of"
 2025-08-31,2.9769,BYN,M,IMF,BY,"Belarus, Republic of"
+2025-09-30,3.0247,BYN,M,IMF,BY,"Belarus, Republic of"
 1957-01-31,50.244999999,BEF,M,IMF,BE,Belgium
 1957-02-28,50.252499999,BEF,M,IMF,BE,Belgium
 1957-03-31,50.322499999,BEF,M,IMF,BE,Belgium
@@ -52820,6 +52823,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,2.7067,GEL,M,IMF,GE,Georgia
 2025-08-31,2.6946,GEL,M,IMF,GE,Georgia
 2025-09-30,2.7088,GEL,M,IMF,GE,Georgia
+2025-10-31,2.7139,GEL,M,IMF,GE,Georgia
 1967-01-31,2.22,DDM,M,IMF,DE2,German Democratic Republic
 1967-02-28,2.22,DDM,M,IMF,DE2,German Democratic Republic
 1967-03-31,2.22,DDM,M,IMF,DE2,German Democratic Republic
@@ -63363,6 +63367,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,26.2099,HNL,M,IMF,HN,Honduras
 2025-08-31,26.0334,HNL,M,IMF,HN,Honduras
 2025-09-30,26.1658,HNL,M,IMF,HN,Honduras
+2025-10-31,26.2944,HNL,M,IMF,HN,Honduras
 1957-01-31,5.72020934168168,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 1957-02-28,5.7216406719911,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 1957-03-31,5.74216673718946,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
@@ -65910,6 +65915,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,0.7380559999999999,XDR,M,IMF,XDR,IMF Special Drawing Rights
 2025-08-31,0.7306509999999999,XDR,M,IMF,XDR,IMF Special Drawing Rights
 2025-09-30,0.7294089999999998,XDR,M,IMF,XDR,IMF Special Drawing Rights
+2025-10-31,0.736163,XDR,M,IMF,XDR,IMF Special Drawing Rights
 1957-01-31,0.16319999993873,ISK,M,IMF,IS,Iceland
 1957-02-28,0.16319999993873,ISK,M,IMF,IS,Iceland
 1957-03-31,0.16319999993873,ISK,M,IMF,IS,Iceland
