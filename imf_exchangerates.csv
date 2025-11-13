@@ -5769,6 +5769,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,383.82,AMD,M,IMF,AM,"Armenia, Republic of"
 2025-08-31,382.52,AMD,M,IMF,AM,"Armenia, Republic of"
 2025-09-30,382.52,AMD,M,IMF,AM,"Armenia, Republic of"
+2025-10-31,382.65,AMD,M,IMF,AM,"Armenia, Republic of"
 1986-01-31,1.79,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
 1986-02-28,1.79,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
 1986-03-31,1.79,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
@@ -45794,6 +45795,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,18.0874019436722,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 2025-08-31,17.7210389490715,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 2025-09-30,17.2801105927078,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
+2025-10-31,17.3357094812462,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 1957-01-31,2.4845,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
 1957-02-28,2.4845,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
 1957-03-31,2.4845,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
@@ -47668,6 +47670,105 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2017-05-31,6.6302,DKK,M,IMF,FO,Faroe Islands
 2017-06-30,6.5165,DKK,M,IMF,FO,Faroe Islands
 2017-07-31,6.3413,DKK,M,IMF,FO,Faroe Islands
+2017-08-31,6.2904,DKK,M,IMF,FO,Faroe Islands
+2017-09-30,6.3038,DKK,M,IMF,FO,Faroe Islands
+2017-10-31,6.3939,DKK,M,IMF,FO,Faroe Islands
+2017-11-30,6.2804,DKK,M,IMF,FO,Faroe Islands
+2017-12-31,6.2077,DKK,M,IMF,FO,Faroe Islands
+2018-01-31,5.9741,DKK,M,IMF,FO,Faroe Islands
+2018-02-28,6.0967,DKK,M,IMF,FO,Faroe Islands
+2018-03-31,6.0101,DKK,M,IMF,FO,Faroe Islands
+2018-04-30,6.1678,DKK,M,IMF,FO,Faroe Islands
+2018-05-31,6.3626,DKK,M,IMF,FO,Faroe Islands
+2018-06-30,6.3926,DKK,M,IMF,FO,Faroe Islands
+2018-07-31,6.3479,DKK,M,IMF,FO,Faroe Islands
+2018-08-31,6.3993,DKK,M,IMF,FO,Faroe Islands
+2018-09-30,6.4413,DKK,M,IMF,FO,Faroe Islands
+2018-10-31,6.5925,DKK,M,IMF,FO,Faroe Islands
+2018-11-30,6.5694,DKK,M,IMF,FO,Faroe Islands
+2018-12-31,6.5194,DKK,M,IMF,FO,Faroe Islands
+2019-01-31,6.4987,DKK,M,IMF,FO,Faroe Islands
+2019-02-28,6.5357,DKK,M,IMF,FO,Faroe Islands
+2019-03-31,6.6446,DKK,M,IMF,FO,Faroe Islands
+2019-04-30,6.6541,DKK,M,IMF,FO,Faroe Islands
+2019-05-31,6.6948,DKK,M,IMF,FO,Faroe Islands
+2019-06-30,6.5585,DKK,M,IMF,FO,Faroe Islands
+2019-07-31,6.6966,DKK,M,IMF,FO,Faroe Islands
+2019-08-31,6.7563,DKK,M,IMF,FO,Faroe Islands
+2019-09-30,6.8566,DKK,M,IMF,FO,Faroe Islands
+2019-10-31,6.6979,DKK,M,IMF,FO,Faroe Islands
+2019-11-30,6.8032,DKK,M,IMF,FO,Faroe Islands
+2019-12-31,6.6759,DKK,M,IMF,FO,Faroe Islands
+2020-01-31,6.7618,DKK,M,IMF,FO,Faroe Islands
+2020-02-29,6.8072,DKK,M,IMF,FO,Faroe Islands
+2020-03-31,6.8158,DKK,M,IMF,FO,Faroe Islands
+2020-04-30,6.8577,DKK,M,IMF,FO,Faroe Islands
+2020-05-31,6.6938,DKK,M,IMF,FO,Faroe Islands
+2020-06-30,6.6553,DKK,M,IMF,FO,Faroe Islands
+2020-07-31,6.2831,DKK,M,IMF,FO,Faroe Islands
+2020-08-31,6.2344,DKK,M,IMF,FO,Faroe Islands
+2020-09-30,6.3599,DKK,M,IMF,FO,Faroe Islands
+2020-10-31,6.3657,DKK,M,IMF,FO,Faroe Islands
+2020-11-30,6.2114,DKK,M,IMF,FO,Faroe Islands
+2020-12-31,6.0576,DKK,M,IMF,FO,Faroe Islands
+2021-01-31,6.128,DKK,M,IMF,FO,Faroe Islands
+2021-02-28,6.1349,DKK,M,IMF,FO,Faroe Islands
+2021-03-31,6.3431,DKK,M,IMF,FO,Faroe Islands
+2021-04-30,6.1308,DKK,M,IMF,FO,Faroe Islands
+2021-05-31,6.095,DKK,M,IMF,FO,Faroe Islands
+2021-06-30,6.2573,DKK,M,IMF,FO,Faroe Islands
+2021-07-31,6.2551,DKK,M,IMF,FO,Faroe Islands
+2021-08-31,6.2836,DKK,M,IMF,FO,Faroe Islands
+2021-09-30,6.422,DKK,M,IMF,FO,Faroe Islands
+2021-10-31,6.3881,DKK,M,IMF,FO,Faroe Islands
+2021-11-30,6.5448,DKK,M,IMF,FO,Faroe Islands
+2021-12-31,6.5612,DKK,M,IMF,FO,Faroe Islands
+2022-01-31,6.6708,DKK,M,IMF,FO,Faroe Islands
+2022-02-28,6.6438,DKK,M,IMF,FO,Faroe Islands
+2022-03-31,6.7002,DKK,M,IMF,FO,Faroe Islands
+2022-04-30,7.0602,DKK,M,IMF,FO,Faroe Islands
+2022-05-31,6.9443,DKK,M,IMF,FO,Faroe Islands
+2022-06-30,7.162,DKK,M,IMF,FO,Faroe Islands
+2022-07-31,7.2993,DKK,M,IMF,FO,Faroe Islands
+2022-08-31,7.4371,DKK,M,IMF,FO,Faroe Islands
+2022-09-30,7.6287,DKK,M,IMF,FO,Faroe Islands
+2022-10-31,7.509,DKK,M,IMF,FO,Faroe Islands
+2022-11-30,7.1671,DKK,M,IMF,FO,Faroe Islands
+2022-12-31,6.9722,DKK,M,IMF,FO,Faroe Islands
+2023-01-31,6.8668,DKK,M,IMF,FO,Faroe Islands
+2023-02-28,7.0104,DKK,M,IMF,FO,Faroe Islands
+2023-03-31,6.8492,DKK,M,IMF,FO,Faroe Islands
+2023-04-30,6.7879,DKK,M,IMF,FO,Faroe Islands
+2023-05-31,6.9718,DKK,M,IMF,FO,Faroe Islands
+2023-06-30,6.8539,DKK,M,IMF,FO,Faroe Islands
+2023-07-31,6.7612,DKK,M,IMF,FO,Faroe Islands
+2023-08-31,6.8571,DKK,M,IMF,FO,Faroe Islands
+2023-09-30,7.039,DKK,M,IMF,FO,Faroe Islands
+2023-10-31,7.0296,DKK,M,IMF,FO,Faroe Islands
+2023-11-30,6.8199,DKK,M,IMF,FO,Faroe Islands
+2023-12-31,6.7447,DKK,M,IMF,FO,Faroe Islands
+2024-01-31,6.8792,DKK,M,IMF,FO,Faroe Islands
+2024-02-29,6.8853,DKK,M,IMF,FO,Faroe Islands
+2024-03-31,6.8955,DKK,M,IMF,FO,Faroe Islands
+2024-04-30,6.9587,DKK,M,IMF,FO,Faroe Islands
+2024-05-31,6.8732,DKK,M,IMF,FO,Faroe Islands
+2024-06-30,6.9664,DKK,M,IMF,FO,Faroe Islands
+2024-07-31,6.8915,DKK,M,IMF,FO,Faroe Islands
+2024-08-31,6.7276,DKK,M,IMF,FO,Faroe Islands
+2024-09-30,6.6595,DKK,M,IMF,FO,Faroe Islands
+2024-10-31,6.8554,DKK,M,IMF,FO,Faroe Islands
+2024-11-30,7.0611,DKK,M,IMF,FO,Faroe Islands
+2024-12-31,7.1429,DKK,M,IMF,FO,Faroe Islands
+2025-01-31,7.1796,DKK,M,IMF,FO,Faroe Islands
+2025-02-28,7.1639,DKK,M,IMF,FO,Faroe Islands
+2025-03-31,6.899,DKK,M,IMF,FO,Faroe Islands
+2025-04-30,6.5626,DKK,M,IMF,FO,Faroe Islands
+2025-05-31,6.5908,DKK,M,IMF,FO,Faroe Islands
+2025-06-30,6.366,DKK,M,IMF,FO,Faroe Islands
+2025-07-31,6.5198,DKK,M,IMF,FO,Faroe Islands
+2025-08-31,6.4026,DKK,M,IMF,FO,Faroe Islands
+2025-09-30,6.358,DKK,M,IMF,FO,Faroe Islands
+2025-10-31,6.4633,DKK,M,IMF,FO,Faroe Islands
 1957-01-31,0.793367165268947,FJD,M,IMF,FJ,"Fiji, Republic of"
 1957-02-28,0.793565684309479,FJD,M,IMF,FJ,"Fiji, Republic of"
 1957-03-31,0.796412556720579,FJD,M,IMF,FJ,"Fiji, Republic of"
@@ -64907,6 +65008,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,349.15,HUF,M,IMF,HU,Hungary
 2025-08-31,339.93,HUF,M,IMF,HU,Hungary
 2025-09-30,332.69,HUF,M,IMF,HU,Hungary
+2025-10-31,335.27,HUF,M,IMF,HU,Hungary
 1940-01-31,1,XDR,M,IMF,XDR,IMF Special Drawing Rights
 1940-02-29,1,XDR,M,IMF,XDR,IMF Special Drawing Rights
 1940-03-31,1,XDR,M,IMF,XDR,IMF Special Drawing Rights
@@ -76254,6 +76356,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,540.78,KZT,M,IMF,KZ,"Kazakhstan, Republic of"
 2025-08-31,538.54,KZT,M,IMF,KZ,"Kazakhstan, Republic of"
 2025-09-30,549.06,KZT,M,IMF,KZ,"Kazakhstan, Republic of"
+2025-10-31,530.47,KZT,M,IMF,KZ,"Kazakhstan, Republic of"
 1957-01-31,7.1429,KES,M,IMF,KE,Kenya
 1957-02-28,7.1429,KES,M,IMF,KE,Kenya
 1957-03-31,7.1429,KES,M,IMF,KE,Kenya
@@ -82951,6 +83054,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,18.0874019436722,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 2025-08-31,17.7210389490715,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 2025-09-30,17.2801105927078,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
+2025-10-31,17.3357094812462,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 1957-01-31,43.2590098577311,LRD,M,IMF,LR,Liberia
 1957-02-28,43.2590098577311,LRD,M,IMF,LR,Liberia
 1957-03-31,43.2590098577311,LRD,M,IMF,LR,Liberia
@@ -94568,7 +94672,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,18.7642,MXN,M,IMF,MX,Mexico
 2025-08-31,18.6912,MXN,M,IMF,MX,Mexico
 2025-09-30,18.3825,MXN,M,IMF,MX,Mexico
-2025-10-31,18.5725,MXN,M,IMF,MX,Mexico
+2025-10-31,18.4072,MXN,M,IMF,MX,Mexico
 1940-01-31,1,USD,M,IMF,FM,"Micronesia, Federated States of"
 1940-02-29,1,USD,M,IMF,FM,"Micronesia, Federated States of"
 1940-03-31,1,USD,M,IMF,FM,"Micronesia, Federated States of"
@@ -108900,7 +109004,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,10.29,NOK,M,IMF,NO,Norway
 2025-08-31,10.08,NOK,M,IMF,NO,Norway
 2025-09-30,9.99,NOK,M,IMF,NO,Norway
-2025-10-31,10.0818,NOK,M,IMF,NO,Norway
+2025-10-31,10.08,NOK,M,IMF,NO,Norway
 1957-01-31,0.35714,OMR,M,IMF,OM,Oman
 1957-02-28,0.35714,OMR,M,IMF,OM,Oman
 1957-03-31,0.35714,OMR,M,IMF,OM,Oman
@@ -128476,6 +128580,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,18.0874019436722,ZAR,M,IMF,ZA,South Africa
 2025-08-31,17.7210389490715,ZAR,M,IMF,ZA,South Africa
 2025-09-30,17.2801105927078,ZAR,M,IMF,ZA,South Africa
+2025-10-31,17.3357094812462,ZAR,M,IMF,ZA,South Africa
 2011-07-31,3.1053,SSP,M,IMF,SS,"South Sudan, Republic of"
 2011-08-31,3.31,SSP,M,IMF,SS,"South Sudan, Republic of"
 2011-09-30,2.95,SSP,M,IMF,SS,"South Sudan, Republic of"
@@ -140701,7 +140806,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,32.7022,THB,M,IMF,TH,Thailand
 2025-08-31,32.3113,THB,M,IMF,TH,Thailand
 2025-09-30,32.2993,THB,M,IMF,TH,Thailand
-2025-10-31,32.325,THB,M,IMF,TH,Thailand
+2025-10-31,32.3442,THB,M,IMF,TH,Thailand
 1940-01-31,1,USD,M,IMF,TL,"Timor-Leste, Democratic Republic of"
 1940-02-29,1,USD,M,IMF,TL,"Timor-Leste, Democratic Republic of"
 1940-03-31,1,USD,M,IMF,TL,"Timor-Leste, Democratic Republic of"
