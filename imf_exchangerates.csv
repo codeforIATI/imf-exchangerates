@@ -5367,6 +5367,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,1369.5,ARS,M,IMF,AR,Argentina
 2025-08-31,1337.5,ARS,M,IMF,AR,Argentina
 2025-09-30,1375.5,ARS,M,IMF,AR,Argentina
+2025-10-31,1440.5,ARS,M,IMF,AR,Argentina
 1992-04-30,0.55,AMD,M,IMF,AM,"Armenia, Republic of"
 1992-05-31,0.5,AMD,M,IMF,AM,"Armenia, Republic of"
 1992-06-30,0.59,AMD,M,IMF,AM,"Armenia, Republic of"
@@ -73495,6 +73496,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,160.1701,JMD,M,IMF,JM,Jamaica
 2025-08-31,160.3115,JMD,M,IMF,JM,Jamaica
 2025-09-30,160.2312,JMD,M,IMF,JM,Jamaica
+2025-10-31,160.5254,JMD,M,IMF,JM,Jamaica
 1957-01-31,360.799999998,JPY,M,IMF,JP,Japan
 1957-02-28,360.799999998,JPY,M,IMF,JP,Japan
 1957-03-31,360.799999998,JPY,M,IMF,JP,Japan
@@ -90273,6 +90275,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,15.42,MVR,M,IMF,MV,Maldives
 2025-08-31,15.42,MVR,M,IMF,MV,Maldives
 2025-09-30,15.42,MVR,M,IMF,MV,Maldives
+2025-10-31,15.42,MVR,M,IMF,MV,Maldives
 1957-01-31,174.999876211486,XOF,M,IMF,ML,Mali
 1957-02-28,174.999876211486,XOF,M,IMF,ML,Mali
 1957-03-31,174.999876211486,XOF,M,IMF,ML,Mali
@@ -145140,6 +145143,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,2.9549,TND,M,IMF,TN,Tunisia
 2025-08-31,2.9119,TND,M,IMF,TN,Tunisia
 2025-09-30,2.9118,TND,M,IMF,TN,Tunisia
+2025-10-31,2.9507,TND,M,IMF,TN,Tunisia
 1993-11-30,1.98,TMT,M,IMF,TM,Turkmenistan
 1993-12-31,1.99,TMT,M,IMF,TM,Turkmenistan
 1994-01-31,1.99,TMT,M,IMF,TM,Turkmenistan
