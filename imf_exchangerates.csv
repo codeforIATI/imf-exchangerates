@@ -2914,6 +2914,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,911.955,AOA,M,IMF,AO,Angola
 2025-08-31,911.955,AOA,M,IMF,AO,Angola
 2025-09-30,911.978,AOA,M,IMF,AO,Angola
+2025-10-31,911.978,AOA,M,IMF,AO,Angola
 1957-01-31,1.71538,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 1957-02-28,1.71583,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 1957-03-31,1.72197,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
@@ -152488,6 +152489,14 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2024-11-30,120.6,VUV,M,IMF,VU,Vanuatu
 2024-12-31,123.8,VUV,M,IMF,VU,Vanuatu
 2025-01-31,123.3,VUV,M,IMF,VU,Vanuatu
+2025-02-28,123.1,VUV,M,IMF,VU,Vanuatu
+2025-03-31,121.9,VUV,M,IMF,VU,Vanuatu
+2025-04-30,119.9,VUV,M,IMF,VU,Vanuatu
+2025-05-31,119.3,VUV,M,IMF,VU,Vanuatu
+2025-06-30,117.9,VUV,M,IMF,VU,Vanuatu
+2025-07-31,117.9,VUV,M,IMF,VU,Vanuatu
+2025-08-31,119.1,VUV,M,IMF,VU,Vanuatu
+2025-09-30,118.4,VUV,M,IMF,VU,Vanuatu
 1957-01-31,0.003219999999,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 1957-02-28,0.003219999999,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 1957-03-31,0.003219999999,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
