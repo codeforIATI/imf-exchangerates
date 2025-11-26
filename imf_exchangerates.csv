@@ -22906,6 +22906,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,4007.65,KHR,M,IMF,KH,Cambodia
 2025-08-31,4010,KHR,M,IMF,KH,Cambodia
 2025-09-30,4012.7,KHR,M,IMF,KH,Cambodia
+2025-10-31,4022.565,KHR,M,IMF,KH,Cambodia
 1957-01-31,175,XAF,M,IMF,CM,Cameroon
 1957-02-28,175,XAF,M,IMF,CM,Cameroon
 1957-03-31,175,XAF,M,IMF,CM,Cameroon
@@ -134676,6 +134677,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,36.787,SRD,M,IMF,SR,Suriname
 2025-08-31,38.5035,SRD,M,IMF,SR,Suriname
 2025-09-30,38.278,SRD,M,IMF,SR,Suriname
+2025-10-31,38.8005,SRD,M,IMF,SR,Suriname
 1957-01-31,5.179999999,SEK,M,IMF,SE,Sweden
 1957-02-28,5.179999999,SEK,M,IMF,SE,Sweden
 1957-03-31,5.179999999,SEK,M,IMF,SE,Sweden
@@ -146896,6 +146898,10 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-04-30,38.40175,TRY,M,IMF,TR,"Türkiye, Republic of"
 2025-05-31,39.09775,TRY,M,IMF,TR,"Türkiye, Republic of"
 2025-06-30,39.7782,TRY,M,IMF,TR,"Türkiye, Republic of"
+2025-07-31,40.5359,TRY,M,IMF,TR,"Türkiye, Republic of"
+2025-08-31,40.98095,TRY,M,IMF,TR,"Türkiye, Republic of"
+2025-09-30,41.5358,TRY,M,IMF,TR,"Türkiye, Republic of"
+2025-10-31,41.93775,TRY,M,IMF,TR,"Türkiye, Republic of"
 1957-01-31,0.07143,UGX,M,IMF,UG,Uganda
 1957-02-28,0.07143,UGX,M,IMF,UG,Uganda
 1957-03-31,0.07143,UGX,M,IMF,UG,Uganda
