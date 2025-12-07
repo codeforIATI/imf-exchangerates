@@ -5777,6 +5777,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,382.52,AMD,M,IMF,AM,"Armenia, Republic of"
 2025-09-30,382.52,AMD,M,IMF,AM,"Armenia, Republic of"
 2025-10-31,382.65,AMD,M,IMF,AM,"Armenia, Republic of"
+2025-11-30,381.43,AMD,M,IMF,AM,"Armenia, Republic of"
 1986-01-31,1.79,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
 1986-02-28,1.79,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
 1986-03-31,1.79,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
@@ -7082,6 +7083,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,1.52951973080453,AUD,M,IMF,AU,Australia
 2025-09-30,1.51469251741896,AUD,M,IMF,AU,Australia
 2025-10-31,1.52648450618226,AUD,M,IMF,AU,Australia
+2025-11-30,1.53069034134395,AUD,M,IMF,AU,Australia
 1957-01-31,26.049999999,ATS,M,IMF,AT,Austria
 1957-02-28,26.049999999,ATS,M,IMF,AT,Austria
 1957-03-31,26.049999999,ATS,M,IMF,AT,Austria
@@ -18323,7 +18325,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,5.4258,BRL,M,IMF,BR,Brazil
 2025-09-30,5.318,BRL,M,IMF,BR,Brazil
 2025-10-31,5.3837,BRL,M,IMF,BR,Brazil
-2025-11-30,5.3688,BRL,M,IMF,BR,Brazil
+2025-11-30,5.3332,BRL,M,IMF,BR,Brazil
 1957-01-31,3.06122000206122,BND,M,IMF,BN,Brunei Darussalam
 1957-02-28,3.06122000206122,BND,M,IMF,BN,Brunei Darussalam
 1957-03-31,3.06122000206122,BND,M,IMF,BN,Brunei Darussalam
@@ -65084,6 +65086,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,339.93,HUF,M,IMF,HU,Hungary
 2025-09-30,332.69,HUF,M,IMF,HU,Hungary
 2025-10-31,335.27,HUF,M,IMF,HU,Hungary
+2025-11-30,329.63,HUF,M,IMF,HU,Hungary
 1940-01-31,1,XDR,M,IMF,XDR,IMF Special Drawing Rights
 1940-02-29,1,XDR,M,IMF,XDR,IMF Special Drawing Rights
 1940-03-31,1,XDR,M,IMF,XDR,IMF Special Drawing Rights
@@ -66940,6 +66943,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,122.66,ISK,M,IMF,IS,Iceland
 2025-09-30,121.28,ISK,M,IMF,IS,Iceland
 2025-10-31,125.32,ISK,M,IMF,IS,Iceland
+2025-11-30,128.13,ISK,M,IMF,IS,Iceland
 1957-01-31,4.78499999841288,INR,M,IMF,IN,India
 1957-02-28,4.78499999841288,INR,M,IMF,IN,India
 1957-03-31,4.79999999841104,INR,M,IMF,IN,India
@@ -78093,6 +78097,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,1.52951973080453,AUD,M,IMF,KI,Kiribati
 2025-09-30,1.51469251741896,AUD,M,IMF,KI,Kiribati
 2025-10-31,1.52648450618226,AUD,M,IMF,KI,Kiribati
+2025-11-30,1.53069034134395,AUD,M,IMF,KI,Kiribati
 1957-01-31,50,KRW,M,IMF,KR,"Korea, Republic of"
 1957-02-28,50,KRW,M,IMF,KR,"Korea, Republic of"
 1957-03-31,50,KRW,M,IMF,KR,"Korea, Republic of"
@@ -93940,7 +93945,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,46.0622,MUR,M,IMF,MU,Mauritius
 2025-09-30,45.8295,MUR,M,IMF,MU,Mauritius
 2025-10-31,46.1175,MUR,M,IMF,MU,Mauritius
-2025-11-30,46.251,MUR,M,IMF,MU,Mauritius
+2025-11-30,46.2108,MUR,M,IMF,MU,Mauritius
 1957-01-31,0.0125,MXN,M,IMF,MX,Mexico
 1957-02-28,0.0125,MXN,M,IMF,MX,Mexico
 1957-03-31,0.0125,MXN,M,IMF,MX,Mexico
@@ -101807,6 +101812,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,1.52951973080453,AUD,M,IMF,NR,"Nauru, Republic of"
 2025-09-30,1.51469251741896,AUD,M,IMF,NR,"Nauru, Republic of"
 2025-10-31,1.52648450618226,AUD,M,IMF,NR,"Nauru, Republic of"
+2025-11-30,1.53069034134395,AUD,M,IMF,NR,"Nauru, Republic of"
 1957-01-31,6.451999999,NPR,M,IMF,NP,Nepal
 1957-02-28,6.451999999,NPR,M,IMF,NP,Nepal
 1957-03-31,6.213999999,NPR,M,IMF,NP,Nepal
@@ -116131,7 +116137,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,3.6559,PLN,M,IMF,PL,"Poland, Republic of"
 2025-09-30,3.6315,PLN,M,IMF,PL,"Poland, Republic of"
 2025-10-31,3.6751,PLN,M,IMF,PL,"Poland, Republic of"
-2025-11-30,3.6578,PLN,M,IMF,PL,"Poland, Republic of"
+2025-11-30,3.6624,PLN,M,IMF,PL,"Poland, Republic of"
 1957-01-31,28.749999999,PTE,M,IMF,PT,Portugal
 1957-02-28,28.749999999,PTE,M,IMF,PT,Portugal
 1957-03-31,28.749999999,PTE,M,IMF,PT,Portugal
@@ -146198,6 +146204,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,1.52951973080453,AUD,M,IMF,TV,Tuvalu
 2025-09-30,1.51469251741896,AUD,M,IMF,TV,Tuvalu
 2025-10-31,1.52648450618226,AUD,M,IMF,TV,Tuvalu
+2025-11-30,1.53069034134395,AUD,M,IMF,TV,Tuvalu
 1957-01-31,0.000003379999999,TRY,M,IMF,TR,"Türkiye, Republic of"
 1957-02-28,0.000003379999999,TRY,M,IMF,TR,"Türkiye, Republic of"
 1957-03-31,0.000003379999999,TRY,M,IMF,TR,"Türkiye, Republic of"
@@ -147850,6 +147857,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,3550.36,UGX,M,IMF,UG,Uganda
 2025-09-30,3490,UGX,M,IMF,UG,Uganda
 2025-10-31,3478.95,UGX,M,IMF,UG,Uganda
+2025-11-30,3630.09,UGX,M,IMF,UG,Uganda
 1992-12-31,0.00638,UAH,M,IMF,UA,Ukraine
 1993-01-31,0.00931,UAH,M,IMF,UA,Ukraine
 1993-02-28,0.01036,UAH,M,IMF,UA,Ukraine
