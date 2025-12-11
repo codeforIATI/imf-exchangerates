@@ -2029,7 +2029,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,129.7069,DZD,M,IMF,DZ,Algeria
 2025-09-30,129.4693,DZD,M,IMF,DZ,Algeria
 2025-10-31,130.3731,DZD,M,IMF,DZ,Algeria
-2025-11-30,130.3268,DZD,M,IMF,DZ,Algeria
+2025-11-30,130.3094,DZD,M,IMF,DZ,Algeria
 2020-10-31,0.8548469823901522,EUR,M,IMF,AD,"Andorra, Principality of"
 2020-11-30,0.8347245409015025,EUR,M,IMF,AD,"Andorra, Principality of"
 2020-12-31,0.8149295085975063,EUR,M,IMF,AD,"Andorra, Principality of"
@@ -10363,6 +10363,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,121.64,BDT,M,IMF,BD,Bangladesh
 2025-09-30,121.8,BDT,M,IMF,BD,Bangladesh
 2025-10-31,122.29,BDT,M,IMF,BD,Bangladesh
+2025-11-30,122.26,BDT,M,IMF,BD,Bangladesh
 1957-01-31,1.7154,BBD,M,IMF,BB,Barbados
 1957-02-28,1.715799999,BBD,M,IMF,BB,Barbados
 1957-03-31,1.721999999,BBD,M,IMF,BB,Barbados
@@ -19799,6 +19800,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,1.67767,BGN,M,IMF,BG,Bulgaria
 2025-09-30,1.6658,BGN,M,IMF,BG,Bulgaria
 2025-10-31,1.6928,BGN,M,IMF,BG,Bulgaria
+2025-11-30,1.691,BGN,M,IMF,BG,Bulgaria
 1957-01-31,174.999876211486,XOF,M,IMF,BF,Burkina Faso
 1957-02-28,174.999876211486,XOF,M,IMF,BF,Burkina Faso
 1957-03-31,174.999876211486,XOF,M,IMF,BF,Burkina Faso
@@ -33674,6 +33676,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,506.12,CRC,M,IMF,CR,Costa Rica
 2025-09-30,502.325,CRC,M,IMF,CR,Costa Rica
 2025-10-31,501.315,CRC,M,IMF,CR,Costa Rica
+2025-11-30,492.47,CRC,M,IMF,CR,Costa Rica
 1992-01-31,0.088193,HRD,M,IMF,HR,"Croatia, Republic of"
 1992-02-29,0.09031,HRD,M,IMF,HR,"Croatia, Republic of"
 1992-03-31,0.110316,HRD,M,IMF,HR,"Croatia, Republic of"
@@ -35520,7 +35523,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,20.967,CZK,M,IMF,CZ,Czech Republic
 2025-09-30,20.727,CZK,M,IMF,CZ,Czech Republic
 2025-10-31,21.062,CZK,M,IMF,CZ,Czech Republic
-2025-11-30,20.874,CZK,M,IMF,CZ,Czech Republic
+2025-11-30,20.895,CZK,M,IMF,CZ,Czech Republic
 1946-12-31,50,CSJ,M,IMF,CSH,Czechoslovakia
 1947-01-31,50,CSJ,M,IMF,CSH,Czechoslovakia
 1947-02-28,50,CSJ,M,IMF,CSH,Czechoslovakia
@@ -63565,6 +63568,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,26.0334,HNL,M,IMF,HN,Honduras
 2025-09-30,26.1658,HNL,M,IMF,HN,Honduras
 2025-10-31,26.2944,HNL,M,IMF,HN,Honduras
+2025-11-30,26.3178,HNL,M,IMF,HN,Honduras
 1957-01-31,5.72020934168168,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 1957-02-28,5.7216406719911,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 1957-03-31,5.74216673718946,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
@@ -76445,6 +76449,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,538.54,KZT,M,IMF,KZ,"Kazakhstan, Republic of"
 2025-09-30,549.06,KZT,M,IMF,KZ,"Kazakhstan, Republic of"
 2025-10-31,530.47,KZT,M,IMF,KZ,"Kazakhstan, Republic of"
+2025-11-30,512.53,KZT,M,IMF,KZ,"Kazakhstan, Republic of"
 1957-01-31,7.1429,KES,M,IMF,KE,Kenya
 1957-02-28,7.1429,KES,M,IMF,KE,Kenya
 1957-03-31,7.1429,KES,M,IMF,KE,Kenya
@@ -87078,6 +87083,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,8.0259,MOP,M,IMF,MO,"Macao Special Administrative Region, People's Republic of China"
 2025-09-30,8.0162,MOP,M,IMF,MO,"Macao Special Administrative Region, People's Republic of China"
 2025-10-31,8.0029,MOP,M,IMF,MO,"Macao Special Administrative Region, People's Republic of China"
+2025-11-30,8.0133,MOP,M,IMF,MO,"Macao Special Administrative Region, People's Republic of China"
 1957-01-31,35,MGA,M,IMF,MG,"Madagascar, Republic of"
 1957-02-28,35,MGA,M,IMF,MG,"Madagascar, Republic of"
 1957-03-31,35,MGA,M,IMF,MG,"Madagascar, Republic of"
@@ -89543,7 +89549,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,4.218,MYR,M,IMF,MY,Malaysia
 2025-09-30,4.215,MYR,M,IMF,MY,Malaysia
 2025-10-31,4.192,MYR,M,IMF,MY,Malaysia
-2025-11-30,4.1325,MYR,M,IMF,MY,Malaysia
+2025-11-30,4.129,MYR,M,IMF,MY,Malaysia
 1957-01-31,4.772999999,MVR,M,IMF,MV,Maldives
 1957-02-28,4.772999999,MVR,M,IMF,MV,Maldives
 1957-03-31,4.772999999,MVR,M,IMF,MV,Maldives
@@ -125986,7 +125992,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,1.2835,SGD,M,IMF,SG,Singapore
 2025-09-30,1.2913,SGD,M,IMF,SG,Singapore
 2025-10-31,1.3001,SGD,M,IMF,SG,Singapore
-2025-11-30,1.3004,SGD,M,IMF,SG,Singapore
+2025-11-30,1.2965,SGD,M,IMF,SG,Singapore
 2010-10-31,1.79,XCG,M,IMF,SX,"Sint Maarten, Kingdom of the Netherlands"
 2010-11-30,1.79,XCG,M,IMF,SX,"Sint Maarten, Kingdom of the Netherlands"
 2010-12-31,1.79,XCG,M,IMF,SX,"Sint Maarten, Kingdom of the Netherlands"
