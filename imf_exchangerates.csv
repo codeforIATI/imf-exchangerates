@@ -90376,6 +90376,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,15.42,MVR,M,IMF,MV,Maldives
 2025-09-30,15.42,MVR,M,IMF,MV,Maldives
 2025-10-31,15.42,MVR,M,IMF,MV,Maldives
+2025-11-30,15.42,MVR,M,IMF,MV,Maldives
 1957-01-31,174.999876211486,XOF,M,IMF,ML,Mali
 1957-02-28,174.999876211486,XOF,M,IMF,ML,Mali
 1957-03-31,174.999876211486,XOF,M,IMF,ML,Mali
@@ -109124,7 +109125,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,10.08,NOK,M,IMF,NO,Norway
 2025-09-30,9.99,NOK,M,IMF,NO,Norway
 2025-10-31,10.08,NOK,M,IMF,NO,Norway
-2025-11-30,10.233,NOK,M,IMF,NO,Norway
+2025-11-30,10.17,NOK,M,IMF,NO,Norway
 1957-01-31,0.35714,OMR,M,IMF,OM,Oman
 1957-02-28,0.35714,OMR,M,IMF,OM,Oman
 1957-03-31,0.35714,OMR,M,IMF,OM,Oman
@@ -140951,7 +140952,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,32.3113,THB,M,IMF,TH,Thailand
 2025-09-30,32.2993,THB,M,IMF,TH,Thailand
 2025-10-31,32.3442,THB,M,IMF,TH,Thailand
-2025-11-30,32.247,THB,M,IMF,TH,Thailand
+2025-11-30,32.2037,THB,M,IMF,TH,Thailand
 1940-01-31,1,USD,M,IMF,TL,"Timor-Leste, Democratic Republic of"
 1940-02-29,1,USD,M,IMF,TL,"Timor-Leste, Democratic Republic of"
 1940-03-31,1,USD,M,IMF,TL,"Timor-Leste, Democratic Republic of"
