@@ -66121,6 +66121,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,0.7306509999999999,XDR,M,IMF,XDR,IMF Special Drawing Rights
 2025-09-30,0.7294089999999998,XDR,M,IMF,XDR,IMF Special Drawing Rights
 2025-10-31,0.736163,XDR,M,IMF,XDR,IMF Special Drawing Rights
+2025-11-30,0.73607,XDR,M,IMF,XDR,IMF Special Drawing Rights
 1957-01-31,0.16319999993873,ISK,M,IMF,IS,Iceland
 1957-02-28,0.16319999993873,ISK,M,IMF,IS,Iceland
 1957-03-31,0.16319999993873,ISK,M,IMF,IS,Iceland
@@ -108299,6 +108300,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,52.744,MKD,M,IMF,MK,"North Macedonia, Republic of"
 2025-09-30,52.627,MKD,M,IMF,MK,"North Macedonia, Republic of"
 2025-10-31,53.3096,MKD,M,IMF,MK,"North Macedonia, Republic of"
+2025-11-30,53.3417,MKD,M,IMF,MK,"North Macedonia, Republic of"
 1957-01-31,7.149999999,NOK,M,IMF,NO,Norway
 1957-02-28,7.149999999,NOK,M,IMF,NO,Norway
 1957-03-31,7.149999999,NOK,M,IMF,NO,Norway
@@ -115317,7 +115319,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,57.085,PHP,M,IMF,PH,Philippines
 2025-09-30,58.042,PHP,M,IMF,PH,Philippines
 2025-10-31,59.003,PHP,M,IMF,PH,Philippines
-2025-11-30,58.893,PHP,M,IMF,PH,Philippines
+2025-11-30,58.792,PHP,M,IMF,PH,Philippines
 1957-01-31,0.000399228623010011,PLN,M,IMF,PL,"Poland, Republic of"
 1957-02-28,0.000399228623010011,PLN,M,IMF,PL,"Poland, Republic of"
 1957-03-31,0.000399228623010011,PLN,M,IMF,PL,"Poland, Republic of"
@@ -139306,6 +139308,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,9.4601,TJS,M,IMF,TJ,"Tajikistan, Republic of"
 2025-09-30,9.3983,TJS,M,IMF,TJ,"Tajikistan, Republic of"
 2025-10-31,9.2822,TJS,M,IMF,TJ,"Tajikistan, Republic of"
+2025-11-30,9.2733,TJS,M,IMF,TJ,"Tajikistan, Republic of"
 1957-01-31,7.142899999,TZS,M,IMF,TZ,"Tanzania, United Republic of"
 1957-02-28,7.142899999,TZS,M,IMF,TZ,"Tanzania, United Republic of"
 1957-03-31,7.142899999,TZS,M,IMF,TZ,"Tanzania, United Republic of"
