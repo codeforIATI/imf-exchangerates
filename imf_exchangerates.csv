@@ -5374,6 +5374,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,1337.5,ARS,M,IMF,AR,Argentina
 2025-09-30,1375.5,ARS,M,IMF,AR,Argentina
 2025-10-31,1440.5,ARS,M,IMF,AR,Argentina
+2025-11-30,1447,ARS,M,IMF,AR,Argentina
 1992-04-30,0.55,AMD,M,IMF,AM,"Armenia, Republic of"
 1992-05-31,0.5,AMD,M,IMF,AM,"Armenia, Republic of"
 1992-06-30,0.59,AMD,M,IMF,AM,"Armenia, Republic of"
@@ -73585,6 +73586,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,160.3115,JMD,M,IMF,JM,Jamaica
 2025-09-30,160.2312,JMD,M,IMF,JM,Jamaica
 2025-10-31,160.5254,JMD,M,IMF,JM,Jamaica
+2025-11-30,160.2719,JMD,M,IMF,JM,Jamaica
 1957-01-31,360.799999998,JPY,M,IMF,JP,Japan
 1957-02-28,360.799999998,JPY,M,IMF,JP,Japan
 1957-03-31,360.799999998,JPY,M,IMF,JP,Japan
@@ -110783,6 +110785,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,281.7779,PKR,M,IMF,PK,Pakistan
 2025-09-30,281.2963,PKR,M,IMF,PK,Pakistan
 2025-10-31,280.91285,PKR,M,IMF,PK,Pakistan
+2025-11-30,280.46925,PKR,M,IMF,PK,Pakistan
 2005-01-31,1,USD,M,IMF,PW,"Palau, Republic of"
 2005-02-28,1,USD,M,IMF,PW,"Palau, Republic of"
 2005-03-31,1,USD,M,IMF,PW,"Palau, Republic of"
