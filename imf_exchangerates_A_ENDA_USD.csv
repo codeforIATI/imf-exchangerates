@@ -320,6 +320,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,2.7,XCD,A,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 2023-12-31,2.7,XCD,A,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 2024-12-31,2.7,XCD,A,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
+2025-12-31,2.7,XCD,A,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 1950-12-31,1.71429000071429,XCD,A,IMF,AG,Antigua and Barbuda
 1951-12-31,1.71429000071429,XCD,A,IMF,AG,Antigua and Barbuda
 1952-12-31,1.71429000071429,XCD,A,IMF,AG,Antigua and Barbuda
@@ -395,6 +396,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,2.7,XCD,A,IMF,AG,Antigua and Barbuda
 2023-12-31,2.7,XCD,A,IMF,AG,Antigua and Barbuda
 2024-12-31,2.7,XCD,A,IMF,AG,Antigua and Barbuda
+2025-12-31,2.7,XCD,A,IMF,AG,Antigua and Barbuda
 1963-12-31,0.000000000013871666666625,ARS,A,IMF,AR,Argentina
 1964-12-31,0.00000000001403916666661667,ARS,A,IMF,AR,Argentina
 1965-12-31,0.00000000001695666666664166,ARS,A,IMF,AR,Argentina
@@ -528,6 +530,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,1.79,AWG,A,IMF,AW,"Aruba, Kingdom of the Netherlands"
 2023-12-31,1.79,AWG,A,IMF,AW,"Aruba, Kingdom of the Netherlands"
 2024-12-31,1.79,AWG,A,IMF,AW,"Aruba, Kingdom of the Netherlands"
+2025-12-31,1.79,AWG,A,IMF,AW,"Aruba, Kingdom of the Netherlands"
 1950-12-31,0.892856999892857,AUD,A,IMF,AU,Australia
 1951-12-31,0.892856999892857,AUD,A,IMF,AU,Australia
 1952-12-31,0.892856999892857,AUD,A,IMF,AU,Australia
@@ -770,6 +773,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,1,BSD,A,IMF,BS,"Bahamas, The"
 2023-12-31,1,BSD,A,IMF,BS,"Bahamas, The"
 2024-12-31,1,BSD,A,IMF,BS,"Bahamas, The"
+2025-12-31,1,BSD,A,IMF,BS,"Bahamas, The"
 1966-12-31,0.47618999947619,BHD,A,IMF,BH,"Bahrain, Kingdom of"
 1967-12-31,0.47618999947619,BHD,A,IMF,BH,"Bahrain, Kingdom of"
 1968-12-31,0.47618999947619,BHD,A,IMF,BH,"Bahrain, Kingdom of"
@@ -829,6 +833,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,0.376,BHD,A,IMF,BH,"Bahrain, Kingdom of"
 2023-12-31,0.376,BHD,A,IMF,BH,"Bahrain, Kingdom of"
 2024-12-31,0.376,BHD,A,IMF,BH,"Bahrain, Kingdom of"
+2025-12-31,0.376,BHD,A,IMF,BH,"Bahrain, Kingdom of"
 1971-12-31,7.86884258502912,BDT,A,IMF,BD,Bangladesh
 1972-12-31,7.7001841681495,BDT,A,IMF,BD,Bangladesh
 1973-12-31,7.849815999317422,BDT,A,IMF,BD,Bangladesh
@@ -958,6 +963,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,2,BBD,A,IMF,BB,Barbados
 2023-12-31,2,BBD,A,IMF,BB,Barbados
 2024-12-31,2,BBD,A,IMF,BB,Barbados
+2025-12-31,2,BBD,A,IMF,BB,Barbados
 1994-12-31,0.00036411125,BYN,A,IMF,BY,"Belarus, Republic of"
 1995-12-31,0.001152096666666667,BYN,A,IMF,BY,"Belarus, Republic of"
 1996-12-31,0.001322987666666667,BYN,A,IMF,BY,"Belarus, Republic of"
@@ -1113,6 +1119,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,2,BZD,A,IMF,BZ,Belize
 2023-12-31,2,BZD,A,IMF,BZ,Belize
 2024-12-31,2,BZD,A,IMF,BZ,Belize
+2025-12-31,2,BZD,A,IMF,BZ,Belize
 1950-12-31,50.000000049,BEF,A,IMF,R1,Benelux
 1951-12-31,50.000000049,BEF,A,IMF,R1,Benelux
 1952-12-31,50.000000049,BEF,A,IMF,R1,Benelux
@@ -1322,6 +1329,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,1,BMD,A,IMF,BM,Bermuda
 2023-12-31,1,BMD,A,IMF,BM,Bermuda
 2024-12-31,1,BMD,A,IMF,BM,Bermuda
+2025-12-31,1,BMD,A,IMF,BM,Bermuda
 1950-12-31,4.7619000037619,BTN,A,IMF,BT,Bhutan
 1951-12-31,4.7619000037619,BTN,A,IMF,BT,Bhutan
 1952-12-31,4.7619000037619,BTN,A,IMF,BT,Bhutan
@@ -2286,6 +2294,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,0.83333,KYD,A,IMF,KY,Cayman Islands
 2023-12-31,0.83333,KYD,A,IMF,KY,Cayman Islands
 2024-12-31,0.83333,KYD,A,IMF,KY,Cayman Islands
+2025-12-31,0.83333,KYD,A,IMF,KY,Cayman Islands
 1957-12-31,180.820416629167,XAF,A,IMF,5X,Central African Economic and Monetary Community (CEMAC)
 1958-12-31,210.237916633333,XAF,A,IMF,5X,Central African Economic and Monetary Community (CEMAC)
 1959-12-31,245.2124999625,XAF,A,IMF,5X,Central African Economic and Monetary Community (CEMAC)
@@ -3085,6 +3094,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,1.79,ANG,A,IMF,1C_355,Curaçao and Sint Maarten
 2023-12-31,1.79,ANG,A,IMF,1C_355,Curaçao and Sint Maarten
 2024-12-31,1.79,ANG,A,IMF,1C_355,Curaçao and Sint Maarten
+2025-12-31,1.79,ANG,A,IMF,1C_355,Curaçao and Sint Maarten
 2011-12-31,1.79,XCG,A,IMF,CW,"Curaçao, Kingdom of the Netherlands"
 2012-12-31,1.79,XCG,A,IMF,CW,"Curaçao, Kingdom of the Netherlands"
 2013-12-31,1.79,XCG,A,IMF,CW,"Curaçao, Kingdom of the Netherlands"
@@ -3099,6 +3109,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,1.79,XCG,A,IMF,CW,"Curaçao, Kingdom of the Netherlands"
 2023-12-31,1.79,XCG,A,IMF,CW,"Curaçao, Kingdom of the Netherlands"
 2024-12-31,1.79,XCG,A,IMF,CW,"Curaçao, Kingdom of the Netherlands"
+2025-12-31,1.79,XCG,A,IMF,CW,"Curaçao, Kingdom of the Netherlands"
 1950-12-31,0.357142999357143,CYP,A,IMF,CY,Cyprus
 1951-12-31,0.357142999357143,CYP,A,IMF,CY,Cyprus
 1952-12-31,0.357142999357143,CYP,A,IMF,CY,Cyprus
@@ -3434,6 +3445,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,177.721,DJF,A,IMF,DJ,Djibouti
 2023-12-31,177.721,DJF,A,IMF,DJ,Djibouti
 2024-12-31,177.721,DJF,A,IMF,DJ,Djibouti
+2025-12-31,177.721,DJF,A,IMF,DJ,Djibouti
 1950-12-31,1.71429000071429,XCD,A,IMF,DM,Dominica
 1951-12-31,1.71429000071429,XCD,A,IMF,DM,Dominica
 1952-12-31,1.71429000071429,XCD,A,IMF,DM,Dominica
@@ -3509,6 +3521,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,2.7,XCD,A,IMF,DM,Dominica
 2023-12-31,2.7,XCD,A,IMF,DM,Dominica
 2024-12-31,2.7,XCD,A,IMF,DM,Dominica
+2025-12-31,2.7,XCD,A,IMF,DM,Dominica
 1950-12-31,1,DOP,A,IMF,DO,Dominican Republic
 1951-12-31,1,DOP,A,IMF,DO,Dominican Republic
 1952-12-31,1,DOP,A,IMF,DO,Dominican Republic
@@ -3652,6 +3665,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,2.7,XCD,A,IMF,5Y,Eastern Caribbean Currency Union (ECCU)
 2023-12-31,2.7,XCD,A,IMF,5Y,Eastern Caribbean Currency Union (ECCU)
 2024-12-31,2.7,XCD,A,IMF,5Y,Eastern Caribbean Currency Union (ECCU)
+2025-12-31,2.7,XCD,A,IMF,5Y,Eastern Caribbean Currency Union (ECCU)
 1950-12-31,15.000000015,USD,A,IMF,EC,Ecuador
 1951-12-31,15.000000015,USD,A,IMF,EC,Ecuador
 1952-12-31,15.000000015,USD,A,IMF,EC,Ecuador
@@ -3727,6 +3741,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,1,USD,A,IMF,EC,Ecuador
 2023-12-31,1,USD,A,IMF,EC,Ecuador
 2024-12-31,1,USD,A,IMF,EC,Ecuador
+2025-12-31,1,USD,A,IMF,EC,Ecuador
 1950-12-31,0.348241999348242,EGP,A,IMF,EG,"Egypt, Arab Republic of"
 1951-12-31,0.348241999348242,EGP,A,IMF,EG,"Egypt, Arab Republic of"
 1952-12-31,0.348241999348242,EGP,A,IMF,EG,"Egypt, Arab Republic of"
@@ -3877,6 +3892,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,1,USD,A,IMF,SV,El Salvador
 2023-12-31,1,USD,A,IMF,SV,El Salvador
 2024-12-31,1,USD,A,IMF,SV,El Salvador
+2025-12-31,1,USD,A,IMF,SV,El Salvador
 1960-12-31,245.195101398359,XAF,A,IMF,GQ,"Equatorial Guinea, Republic of"
 1961-12-31,245.26010162116,XAF,A,IMF,GQ,"Equatorial Guinea, Republic of"
 1962-12-31,245.013850686544,XAF,A,IMF,GQ,"Equatorial Guinea, Republic of"
@@ -4009,6 +4025,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,15.075,ERN,A,IMF,ER,"Eritrea, The State of"
 2023-12-31,15.075,ERN,A,IMF,ER,"Eritrea, The State of"
 2024-12-31,15.075,ERN,A,IMF,ER,"Eritrea, The State of"
+2025-12-31,15.075,ERN,A,IMF,ER,"Eritrea, The State of"
 1993-12-31,13.22275,EEK,A,IMF,EE,"Estonia, Republic of"
 1994-12-31,12.99125,EEK,A,IMF,EE,"Estonia, Republic of"
 1995-12-31,11.46475,EEK,A,IMF,EE,"Estonia, Republic of"
@@ -5153,6 +5170,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,2.7,XCD,A,IMF,GD,Grenada
 2023-12-31,2.7,XCD,A,IMF,GD,Grenada
 2024-12-31,2.7,XCD,A,IMF,GD,Grenada
+2025-12-31,2.7,XCD,A,IMF,GD,Grenada
 1950-12-31,3.4968,FRF,A,IMF,GP,Guadeloupe
 1951-12-31,3.4996,FRF,A,IMF,GP,Guadeloupe
 1952-12-31,3.4997,FRF,A,IMF,GP,Guadeloupe
@@ -6813,6 +6831,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,0.71,JOD,A,IMF,JO,Jordan
 2023-12-31,0.71,JOD,A,IMF,JO,Jordan
 2024-12-31,0.71,JOD,A,IMF,JO,Jordan
+2025-12-31,0.71,JOD,A,IMF,JO,Jordan
 1994-12-31,35.53833333333332,KZT,A,IMF,KZ,"Kazakhstan, Republic of"
 1995-12-31,60.95,KZT,A,IMF,KZ,"Kazakhstan, Republic of"
 1996-12-31,67.30333333333332,KZT,A,IMF,KZ,"Kazakhstan, Republic of"
@@ -8579,6 +8598,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,1,USD,A,IMF,FM,"Micronesia, Federated States of"
 2023-12-31,1,USD,A,IMF,FM,"Micronesia, Federated States of"
 2024-12-31,1,USD,A,IMF,FM,"Micronesia, Federated States of"
+2025-12-31,1,USD,A,IMF,FM,"Micronesia, Federated States of"
 1995-12-31,4.4958,MDL,A,IMF,MD,"Moldova, Republic of"
 1996-12-31,4.604483333333335,MDL,A,IMF,MD,"Moldova, Republic of"
 1997-12-31,4.623583333333332,MDL,A,IMF,MD,"Moldova, Republic of"
@@ -8737,6 +8757,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,2.7,XCD,A,IMF,MS,"Montserrat, United Kingdom-British Overseas Territory"
 2023-12-31,2.7,XCD,A,IMF,MS,"Montserrat, United Kingdom-British Overseas Territory"
 2024-12-31,2.7,XCD,A,IMF,MS,"Montserrat, United Kingdom-British Overseas Territory"
+2025-12-31,2.7,XCD,A,IMF,MS,"Montserrat, United Kingdom-British Overseas Territory"
 1950-12-31,3.498999999,MAD,A,IMF,MA,Morocco
 1951-12-31,3.499999999,MAD,A,IMF,MA,Morocco
 1952-12-31,3.499999999,MAD,A,IMF,MA,Morocco
@@ -9834,6 +9855,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,0.3845,OMR,A,IMF,OM,Oman
 2023-12-31,0.3845,OMR,A,IMF,OM,Oman
 2024-12-31,0.3845,OMR,A,IMF,OM,Oman
+2025-12-31,0.3845,OMR,A,IMF,OM,Oman
 1950-12-31,3.30852000230852,PKR,A,IMF,PK,Pakistan
 1951-12-31,3.30852000230852,PKR,A,IMF,PK,Pakistan
 1952-12-31,3.30852000230852,PKR,A,IMF,PK,Pakistan
@@ -9929,6 +9951,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,1,USD,A,IMF,PW,"Palau, Republic of"
 2023-12-31,1,USD,A,IMF,PW,"Palau, Republic of"
 2024-12-31,1,USD,A,IMF,PW,"Palau, Republic of"
+2025-12-31,1,USD,A,IMF,PW,"Palau, Republic of"
 1940-12-31,1,USD,A,IMF,PA,Panama
 1941-12-31,1,USD,A,IMF,PA,Panama
 1942-12-31,1,USD,A,IMF,PA,Panama
@@ -10014,6 +10037,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,1,USD,A,IMF,PA,Panama
 2023-12-31,1,USD,A,IMF,PA,Panama
 2024-12-31,1,USD,A,IMF,PA,Panama
+2025-12-31,1,USD,A,IMF,PA,Panama
 1950-12-31,0.892856999892857,PGK,A,IMF,PG,Papua New Guinea
 1951-12-31,0.892856999892857,PGK,A,IMF,PG,Papua New Guinea
 1952-12-31,0.892856999892857,PGK,A,IMF,PG,Papua New Guinea
@@ -10497,6 +10521,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,3.64,QAR,A,IMF,QA,Qatar
 2023-12-31,3.64,QAR,A,IMF,QA,Qatar
 2024-12-31,3.64,QAR,A,IMF,QA,Qatar
+2025-12-31,3.64,QAR,A,IMF,QA,Qatar
 1957-12-31,0.0005999999999,RON,A,IMF,RO,Romania
 1958-12-31,0.0005999999999,RON,A,IMF,RO,Romania
 1959-12-31,0.0005999999999,RON,A,IMF,RO,Romania
@@ -10920,6 +10945,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,3.75,SAR,A,IMF,SA,Saudi Arabia
 2023-12-31,3.75,SAR,A,IMF,SA,Saudi Arabia
 2024-12-31,3.75,SAR,A,IMF,SA,Saudi Arabia
+2025-12-31,3.75,SAR,A,IMF,SA,Saudi Arabia
 1950-12-31,174.840666544651,XOF,A,IMF,SN,Senegal
 1951-12-31,174.980667078374,XOF,A,IMF,SN,Senegal
 1952-12-31,174.985667097436,XOF,A,IMF,SN,Senegal
@@ -11261,6 +11287,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,1.79,XCG,A,IMF,SX,"Sint Maarten, Kingdom of the Netherlands"
 2023-12-31,1.79,XCG,A,IMF,SX,"Sint Maarten, Kingdom of the Netherlands"
 2024-12-31,1.79,XCG,A,IMF,SX,"Sint Maarten, Kingdom of the Netherlands"
+2025-12-31,1.79,XCG,A,IMF,SX,"Sint Maarten, Kingdom of the Netherlands"
 1993-12-31,30.7695833333333,SKK,A,IMF,SK,Slovak Republic
 1994-12-31,32.0448333333333,SKK,A,IMF,SK,Slovak Republic
 1995-12-31,29.7134166666667,SKK,A,IMF,SK,Slovak Republic
@@ -11704,6 +11731,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,2.7,XCD,A,IMF,KN,St. Kitts and Nevis
 2023-12-31,2.7,XCD,A,IMF,KN,St. Kitts and Nevis
 2024-12-31,2.7,XCD,A,IMF,KN,St. Kitts and Nevis
+2025-12-31,2.7,XCD,A,IMF,KN,St. Kitts and Nevis
 1950-12-31,1.71429000071429,XCD,A,IMF,LC,St. Lucia
 1951-12-31,1.71429000071429,XCD,A,IMF,LC,St. Lucia
 1952-12-31,1.71429000071429,XCD,A,IMF,LC,St. Lucia
@@ -11779,6 +11807,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,2.7,XCD,A,IMF,LC,St. Lucia
 2023-12-31,2.7,XCD,A,IMF,LC,St. Lucia
 2024-12-31,2.7,XCD,A,IMF,LC,St. Lucia
+2025-12-31,2.7,XCD,A,IMF,LC,St. Lucia
 1950-12-31,3.4968,FRF,A,IMF,PM,St. Pierre and Miquelon
 1951-12-31,3.4996,FRF,A,IMF,PM,St. Pierre and Miquelon
 1952-12-31,3.4997,FRF,A,IMF,PM,St. Pierre and Miquelon
@@ -11903,6 +11932,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,2.7,XCD,A,IMF,VC,St. Vincent and the Grenadines
 2023-12-31,2.7,XCD,A,IMF,VC,St. Vincent and the Grenadines
 2024-12-31,2.7,XCD,A,IMF,VC,St. Vincent and the Grenadines
+2025-12-31,2.7,XCD,A,IMF,VC,St. Vincent and the Grenadines
 1950-12-31,0.0348241999348242,SDG,A,IMF,SD,Sudan
 1951-12-31,0.0348241999348242,SDG,A,IMF,SD,Sudan
 1952-12-31,0.0348241999348242,SDG,A,IMF,SD,Sudan
@@ -12691,6 +12721,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,1,USD,A,IMF,TL,"Timor-Leste, Democratic Republic of"
 2023-12-31,1,USD,A,IMF,TL,"Timor-Leste, Democratic Republic of"
 2024-12-31,1,USD,A,IMF,TL,"Timor-Leste, Democratic Republic of"
+2025-12-31,1,USD,A,IMF,TL,"Timor-Leste, Democratic Republic of"
 1950-12-31,174.840666544651,XOF,A,IMF,TG,Togo
 1951-12-31,174.980667078374,XOF,A,IMF,TG,Togo
 1952-12-31,174.985667097436,XOF,A,IMF,TG,Togo
@@ -13333,6 +13364,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,3.6725,AED,A,IMF,AE,United Arab Emirates
 2023-12-31,3.6725,AED,A,IMF,AE,United Arab Emirates
 2024-12-31,3.6725,AED,A,IMF,AE,United Arab Emirates
+2025-12-31,3.6725,AED,A,IMF,AE,United Arab Emirates
 1950-12-31,0.357142999357143,GBP,A,IMF,GB,United Kingdom
 1951-12-31,0.357142999357143,GBP,A,IMF,GB,United Kingdom
 1952-12-31,0.357142999357143,GBP,A,IMF,GB,United Kingdom
@@ -13493,6 +13525,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,1,USD,A,IMF,US,United States
 2023-12-31,1,USD,A,IMF,US,United States
 2024-12-31,1,USD,A,IMF,US,United States
+2025-12-31,1,USD,A,IMF,US,United States
 1950-12-31,0.000000002069999999,UYW,A,IMF,UY,Uruguay
 1951-12-31,0.000000002399999999,UYW,A,IMF,UY,Uruguay
 1952-12-31,0.00000000275,UYW,A,IMF,UY,Uruguay
