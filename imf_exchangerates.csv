@@ -2030,6 +2030,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,129.4693,DZD,M,IMF,DZ,Algeria
 2025-10-31,130.3731,DZD,M,IMF,DZ,Algeria
 2025-11-30,130.3094,DZD,M,IMF,DZ,Algeria
+2025-12-31,129.5679,DZD,M,IMF,DZ,Algeria
 2020-10-31,0.8548469823901522,EUR,M,IMF,AD,"Andorra, Principality of"
 2020-11-30,0.8347245409015025,EUR,M,IMF,AD,"Andorra, Principality of"
 2020-12-31,0.8149295085975063,EUR,M,IMF,AD,"Andorra, Principality of"
@@ -2918,6 +2919,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,911.955,AOA,M,IMF,AO,Angola
 2025-09-30,911.978,AOA,M,IMF,AO,Angola
 2025-10-31,911.978,AOA,M,IMF,AO,Angola
+2025-11-30,911.545,AOA,M,IMF,AO,Angola
 1957-01-31,1.71538,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 1957-02-28,1.71583,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 1957-03-31,1.72197,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
@@ -5781,6 +5783,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,382.52,AMD,M,IMF,AM,"Armenia, Republic of"
 2025-10-31,382.65,AMD,M,IMF,AM,"Armenia, Republic of"
 2025-11-30,381.43,AMD,M,IMF,AM,"Armenia, Republic of"
+2025-12-31,381.36,AMD,M,IMF,AM,"Armenia, Republic of"
 1986-01-31,1.79,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
 1986-02-28,1.79,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
 1986-03-31,1.79,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
@@ -7971,6 +7974,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
 2025-09-30,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
 2025-10-31,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
+2025-11-30,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
 1940-01-31,1.02041,BSD,M,IMF,BS,"Bahamas, The"
 1940-02-29,1.02041,BSD,M,IMF,BS,"Bahamas, The"
 1940-03-31,1.02041,BSD,M,IMF,BS,"Bahamas, The"
@@ -11603,6 +11607,8 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,3.023,BYN,M,IMF,BY,"Belarus, Republic of"
 2025-08-31,2.9769,BYN,M,IMF,BY,"Belarus, Republic of"
 2025-09-30,3.0247,BYN,M,IMF,BY,"Belarus, Republic of"
+2025-10-31,2.9772,BYN,M,IMF,BY,"Belarus, Republic of"
+2025-11-30,2.9153,BYN,M,IMF,BY,"Belarus, Republic of"
 1957-01-31,50.244999999,BEF,M,IMF,BE,Belgium
 1957-02-28,50.252499999,BEF,M,IMF,BE,Belgium
 1957-03-31,50.322499999,BEF,M,IMF,BE,Belgium
@@ -15621,6 +15627,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,88.7923,BTN,M,IMF,BT,Bhutan
 2025-10-31,88.7241,BTN,M,IMF,BT,Bhutan
 2025-11-30,89.4557,BTN,M,IMF,BT,Bhutan
+2025-12-31,89.9198,BTN,M,IMF,BT,Bhutan
 1959-03-31,0.00001188,BOB,M,IMF,BO,Bolivia
 1959-04-30,0.00001188,BOB,M,IMF,BO,Bolivia
 1959-05-31,0.00001188,BOB,M,IMF,BO,Bolivia
@@ -16421,6 +16428,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,6.91,BOB,M,IMF,BO,Bolivia
 2025-09-30,6.91,BOB,M,IMF,BO,Bolivia
 2025-10-31,6.91,BOB,M,IMF,BO,Bolivia
+2025-11-30,6.91,BOB,M,IMF,BO,Bolivia
 1997-01-31,1.6336,BAM,M,IMF,BA,Bosnia and Herzegovina
 1997-02-28,1.6912,BAM,M,IMF,BA,Bosnia and Herzegovina
 1997-03-31,1.6778,BAM,M,IMF,BA,Bosnia and Herzegovina
@@ -35537,6 +35545,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,20.727,CZK,M,IMF,CZ,Czech Republic
 2025-10-31,21.062,CZK,M,IMF,CZ,Czech Republic
 2025-11-30,20.895,CZK,M,IMF,CZ,Czech Republic
+2025-12-31,20.632,CZK,M,IMF,CZ,Czech Republic
 1946-12-31,50,CSJ,M,IMF,CSH,Czechoslovakia
 1947-01-31,50,CSJ,M,IMF,CSH,Czechoslovakia
 1947-02-28,50,CSJ,M,IMF,CSH,Czechoslovakia
@@ -39902,6 +39911,8 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,63.3845,DOP,M,IMF,DO,Dominican Republic
 2025-09-30,62.7841,DOP,M,IMF,DO,Dominican Republic
 2025-10-31,64.5236,DOP,M,IMF,DO,Dominican Republic
+2025-11-30,63.566,DOP,M,IMF,DO,Dominican Republic
+2025-12-31,63.3035,DOP,M,IMF,DO,Dominican Republic
 1957-01-31,1.715379999,XCD,M,IMF,5Y,Eastern Caribbean Currency Union (ECCU)
 1957-02-28,1.715829999,XCD,M,IMF,5Y,Eastern Caribbean Currency Union (ECCU)
 1957-03-31,1.721969999,XCD,M,IMF,5Y,Eastern Caribbean Currency Union (ECCU)
@@ -42382,6 +42393,8 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-06-30,49.5476,EGP,M,IMF,EG,"Egypt, Arab Republic of"
 2025-07-31,48.6244,EGP,M,IMF,EG,"Egypt, Arab Republic of"
 2025-08-31,48.5353,EGP,M,IMF,EG,"Egypt, Arab Republic of"
+2025-09-30,47.8306,EGP,M,IMF,EG,"Egypt, Arab Republic of"
+2025-10-31,47.1714,EGP,M,IMF,EG,"Egypt, Arab Republic of"
 1957-01-31,2.499999999,USD,M,IMF,SV,El Salvador
 1957-02-28,2.499999999,USD,M,IMF,SV,El Salvador
 1957-03-31,2.499999999,USD,M,IMF,SV,El Salvador
@@ -53028,6 +53041,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,2.7088,GEL,M,IMF,GE,Georgia
 2025-10-31,2.7139,GEL,M,IMF,GE,Georgia
 2025-11-30,2.7029,GEL,M,IMF,GE,Georgia
+2025-12-31,2.6951,GEL,M,IMF,GE,Georgia
 1967-01-31,2.22,DDM,M,IMF,DE2,German Democratic Republic
 1967-02-28,2.22,DDM,M,IMF,DE2,German Democratic Republic
 1967-03-31,2.22,DDM,M,IMF,DE2,German Democratic Republic
@@ -66969,6 +66983,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,121.28,ISK,M,IMF,IS,Iceland
 2025-10-31,125.32,ISK,M,IMF,IS,Iceland
 2025-11-30,128.13,ISK,M,IMF,IS,Iceland
+2025-12-31,125.2,ISK,M,IMF,IS,Iceland
 1957-01-31,4.78499999841288,INR,M,IMF,IN,India
 1957-02-28,4.78499999841288,INR,M,IMF,IN,India
 1957-03-31,4.79999999841104,INR,M,IMF,IN,India
@@ -67796,6 +67811,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,88.7923,INR,M,IMF,IN,India
 2025-10-31,88.7241,INR,M,IMF,IN,India
 2025-11-30,89.4557,INR,M,IMF,IN,India
+2025-12-31,89.9198,INR,M,IMF,IN,India
 1967-01-31,137,IDR,M,IMF,ID,Indonesia
 1967-02-28,137,IDR,M,IMF,ID,Indonesia
 1967-03-31,137,IDR,M,IMF,ID,Indonesia
@@ -68503,6 +68519,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,16680,IDR,M,IMF,ID,Indonesia
 2025-10-31,16640,IDR,M,IMF,ID,Indonesia
 2025-11-30,16644,IDR,M,IMF,ID,Indonesia
+2025-12-31,16782,IDR,M,IMF,ID,Indonesia
 1957-01-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
 1957-02-28,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
 1957-03-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
@@ -70117,6 +70134,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,1300,IQD,M,IMF,IQ,Iraq
 2025-08-31,1300,IQD,M,IMF,IQ,Iraq
 2025-09-30,1300,IQD,M,IMF,IQ,Iraq
+2025-10-31,1300,IQD,M,IMF,IQ,Iraq
 1957-01-31,0.357372596797003,IEP,M,IMF,IE,Ireland
 1957-02-28,0.35746201978819,IEP,M,IMF,IE,Ireland
 1957-03-31,0.358744394747532,IEP,M,IMF,IE,Ireland
@@ -78952,7 +78970,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,1388.6,KRW,M,IMF,KR,"Korea, Republic of"
 2025-09-30,1402.2,KRW,M,IMF,KR,"Korea, Republic of"
 2025-10-31,1423.2,KRW,M,IMF,KR,"Korea, Republic of"
-2025-11-30,1473.5,KRW,M,IMF,KR,"Korea, Republic of"
+2025-11-30,1464.8,KRW,M,IMF,KR,"Korea, Republic of"
 2002-01-31,1.157809424568716,EUR,M,IMF,XK,"Kosovo, Republic of"
 2002-02-28,1.155935729973413,EUR,M,IMF,XK,"Kosovo, Republic of"
 2002-03-31,1.146263182026593,EUR,M,IMF,XK,"Kosovo, Republic of"
@@ -85632,7 +85650,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,0.8007,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 2025-09-30,0.7961,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 2025-10-31,0.8017,CHF,M,IMF,LI,"Liechtenstein, Principality of"
-2025-11-30,0.8065,CHF,M,IMF,LI,"Liechtenstein, Principality of"
+2025-11-30,0.80635,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 1992-01-31,1.225,LTL,M,IMF,LT,"Lithuania, Republic of"
 1992-02-29,0.778,LTL,M,IMF,LT,"Lithuania, Republic of"
 1992-03-31,1.25,LTL,M,IMF,LT,"Lithuania, Republic of"
@@ -98647,6 +98665,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,9.0187,MAD,M,IMF,MA,Morocco
 2025-09-30,9.0947,MAD,M,IMF,MA,Morocco
 2025-10-31,9.2843,MAD,M,IMF,MA,Morocco
+2025-11-30,9.2782,MAD,M,IMF,MA,Morocco
 1957-01-31,0.028749999999,MZN,M,IMF,MZ,"Mozambique, Republic of"
 1957-02-28,0.028749999999,MZN,M,IMF,MZ,"Mozambique, Republic of"
 1957-03-31,0.028749999999,MZN,M,IMF,MZ,"Mozambique, Republic of"
@@ -113733,6 +113752,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,7320.45,PYG,M,IMF,PY,Paraguay
 2025-09-30,6961.375,PYG,M,IMF,PY,Paraguay
 2025-10-31,7074.525,PYG,M,IMF,PY,Paraguay
+2025-11-30,6990.09,PYG,M,IMF,PY,Paraguay
 1960-01-31,0.000000027699999999,PEN,M,IMF,PE,Peru
 1960-02-29,0.000000027699999999,PEN,M,IMF,PE,Peru
 1960-03-31,0.000000027699999999,PEN,M,IMF,PE,Peru
@@ -134847,6 +134867,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,38.5035,SRD,M,IMF,SR,Suriname
 2025-09-30,38.278,SRD,M,IMF,SR,Suriname
 2025-10-31,38.8005,SRD,M,IMF,SR,Suriname
+2025-11-30,38.5145,SRD,M,IMF,SR,Suriname
 1957-01-31,5.179999999,SEK,M,IMF,SE,Sweden
 1957-02-28,5.179999999,SEK,M,IMF,SE,Sweden
 1957-03-31,5.179999999,SEK,M,IMF,SE,Sweden
@@ -136500,7 +136521,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,0.8007,CHF,M,IMF,CH,Switzerland
 2025-09-30,0.7961,CHF,M,IMF,CH,Switzerland
 2025-10-31,0.8017,CHF,M,IMF,CH,Switzerland
-2025-11-30,0.8065,CHF,M,IMF,CH,Switzerland
+2025-11-30,0.80635,CHF,M,IMF,CH,Switzerland
 1957-01-31,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
 1957-02-28,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
 1957-03-31,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
@@ -151708,7 +151729,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,39.995,UYW,M,IMF,UY,Uruguay
 2025-09-30,39.845,UYW,M,IMF,UY,Uruguay
 2025-10-31,39.799,UYW,M,IMF,UY,Uruguay
-2025-11-30,39.671,UYW,M,IMF,UY,Uruguay
+2025-11-30,39.264,UYW,M,IMF,UY,Uruguay
 1999-06-30,123.62,UZS,M,IMF,UZ,"Uzbekistan, Republic of"
 1999-07-31,130.43,UZS,M,IMF,UZ,"Uzbekistan, Republic of"
 1999-08-31,133.69,UZS,M,IMF,UZ,"Uzbekistan, Republic of"
