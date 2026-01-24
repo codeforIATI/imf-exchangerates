@@ -2921,6 +2921,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,911.978,AOA,M,IMF,AO,Angola
 2025-10-31,911.978,AOA,M,IMF,AO,Angola
 2025-11-30,911.545,AOA,M,IMF,AO,Angola
+2025-12-31,912.286,AOA,M,IMF,AO,Angola
 1957-01-31,1.71538,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 1957-02-28,1.71583,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 1957-03-31,1.72197,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
@@ -52711,6 +52712,13 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-03-31,71.1450638119182,GMD,M,IMF,GM,"Gambia, The"
 2025-04-30,71.2507816401067,GMD,M,IMF,GM,"Gambia, The"
 2025-05-31,71.45,GMD,M,IMF,GM,"Gambia, The"
+2025-06-30,71.74,GMD,M,IMF,GM,"Gambia, The"
+2025-07-31,71.92,GMD,M,IMF,GM,"Gambia, The"
+2025-08-31,71.83809487,GMD,M,IMF,GM,"Gambia, The"
+2025-09-30,71.86,GMD,M,IMF,GM,"Gambia, The"
+2025-10-31,71.9402108418736,GMD,M,IMF,GM,"Gambia, The"
+2025-11-30,72.64,GMD,M,IMF,GM,"Gambia, The"
+2025-12-31,72.22,GMD,M,IMF,GM,"Gambia, The"
 1995-10-31,1.25,GEL,M,IMF,GE,Georgia
 1995-11-30,1.25,GEL,M,IMF,GE,Georgia
 1995-12-31,1.23,GEL,M,IMF,GE,Georgia
@@ -96323,6 +96331,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,16.7322,MDL,M,IMF,MD,"Moldova, Republic of"
 2025-10-31,17.0295,MDL,M,IMF,MD,"Moldova, Republic of"
 2025-11-30,16.9958,MDL,M,IMF,MD,"Moldova, Republic of"
+2025-12-31,16.7925,MDL,M,IMF,MD,"Moldova, Republic of"
 1990-07-31,5.63,MNT,M,IMF,MN,Mongolia
 1990-08-31,5.5596,MNT,M,IMF,MN,Mongolia
 1990-09-30,5.5859,MNT,M,IMF,MN,Mongolia
@@ -102757,6 +102766,8 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,140.09,NPR,M,IMF,NP,Nepal
 2025-09-30,141.14,NPR,M,IMF,NP,Nepal
 2025-10-31,140.52,NPR,M,IMF,NP,Nepal
+2025-11-30,142,NPR,M,IMF,NP,Nepal
+2025-12-31,144.67,NPR,M,IMF,NP,Nepal
 1957-01-31,1.90024845767472,NLG,M,IMF,AN,Netherlands Antilles
 1957-02-28,1.89975217967572,NLG,M,IMF,AN,Netherlands Antilles
 1957-03-31,1.89875962367772,NLG,M,IMF,AN,Netherlands Antilles
@@ -110901,6 +110912,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,281.2963,PKR,M,IMF,PK,Pakistan
 2025-10-31,280.91285,PKR,M,IMF,PK,Pakistan
 2025-11-30,280.46925,PKR,M,IMF,PK,Pakistan
+2025-12-31,280.06645,PKR,M,IMF,PK,Pakistan
 2005-01-31,1,USD,M,IMF,PW,"Palau, Republic of"
 2005-02-28,1,USD,M,IMF,PW,"Palau, Republic of"
 2005-03-31,1,USD,M,IMF,PW,"Palau, Republic of"
@@ -113006,6 +113018,13 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-03-31,4.05844155844156,PGK,M,IMF,PG,Papua New Guinea
 2025-04-30,4.07830342577488,PGK,M,IMF,PG,Papua New Guinea
 2025-05-31,4.10172272354389,PGK,M,IMF,PG,Papua New Guinea
+2025-06-30,4.12201154163232,PGK,M,IMF,PG,Papua New Guinea
+2025-07-31,4.14421881475342,PGK,M,IMF,PG,Papua New Guinea
+2025-08-31,4.1649312786339,PGK,M,IMF,PG,Papua New Guinea
+2025-09-30,4.18760469011725,PGK,M,IMF,PG,Papua New Guinea
+2025-10-31,4.212299915754,PGK,M,IMF,PG,Papua New Guinea
+2025-11-30,4.23370025402202,PGK,M,IMF,PG,Papua New Guinea
+2025-12-31,4.25531914893617,PGK,M,IMF,PG,Papua New Guinea
 1957-09-30,111.299999999,PYG,M,IMF,PY,Paraguay
 1957-10-31,111.299999999,PYG,M,IMF,PY,Paraguay
 1957-11-30,111.299999999,PYG,M,IMF,PY,Paraguay
@@ -134950,6 +134969,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,38.278,SRD,M,IMF,SR,Suriname
 2025-10-31,38.8005,SRD,M,IMF,SR,Suriname
 2025-11-30,38.5145,SRD,M,IMF,SR,Suriname
+2025-12-31,38.1265,SRD,M,IMF,SR,Suriname
 1957-01-31,5.179999999,SEK,M,IMF,SE,Sweden
 1957-02-28,5.179999999,SEK,M,IMF,SE,Sweden
 1957-03-31,5.179999999,SEK,M,IMF,SE,Sweden
@@ -139457,6 +139477,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,9.3983,TJS,M,IMF,TJ,"Tajikistan, Republic of"
 2025-10-31,9.2822,TJS,M,IMF,TJ,"Tajikistan, Republic of"
 2025-11-30,9.2733,TJS,M,IMF,TJ,"Tajikistan, Republic of"
+2025-12-31,9.2513,TJS,M,IMF,TJ,"Tajikistan, Republic of"
 1957-01-31,7.142899999,TZS,M,IMF,TZ,"Tanzania, United Republic of"
 1957-02-28,7.142899999,TZS,M,IMF,TZ,"Tanzania, United Republic of"
 1957-03-31,7.142899999,TZS,M,IMF,TZ,"Tanzania, United Republic of"
@@ -154374,6 +154395,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-05-31,24978,VND,M,IMF,VN,Vietnam
 2025-06-30,25052,VND,M,IMF,VN,Vietnam
 2025-07-31,25240,VND,M,IMF,VN,Vietnam
+2025-08-31,25240,VND,M,IMF,VN,Vietnam
 2025-09-30,25187,VND,M,IMF,VN,Vietnam
 2025-10-31,25093,VND,M,IMF,VN,Vietnam
 1957-01-31,175,XOF,M,IMF,7A,West African Economic and Monetary Union (WAEMU)
