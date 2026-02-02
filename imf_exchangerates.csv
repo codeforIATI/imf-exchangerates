@@ -16435,6 +16435,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,6.91,BOB,M,IMF,BO,Bolivia
 2025-10-31,6.91,BOB,M,IMF,BO,Bolivia
 2025-11-30,6.91,BOB,M,IMF,BO,Bolivia
+2025-12-31,6.91,BOB,M,IMF,BO,Bolivia
 1997-01-31,1.6336,BAM,M,IMF,BA,Bosnia and Herzegovina
 1997-02-28,1.6912,BAM,M,IMF,BA,Bosnia and Herzegovina
 1997-03-31,1.6778,BAM,M,IMF,BA,Bosnia and Herzegovina
@@ -85716,7 +85717,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,0.7961,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 2025-10-31,0.8017,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 2025-11-30,0.80635,CHF,M,IMF,LI,"Liechtenstein, Principality of"
-2025-12-31,0.79255,CHF,M,IMF,LI,"Liechtenstein, Principality of"
+2025-12-31,0.7933,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 1992-01-31,1.225,LTL,M,IMF,LT,"Lithuania, Republic of"
 1992-02-29,0.778,LTL,M,IMF,LT,"Lithuania, Republic of"
 1992-03-31,1.25,LTL,M,IMF,LT,"Lithuania, Republic of"
@@ -98741,6 +98742,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,9.0947,MAD,M,IMF,MA,Morocco
 2025-10-31,9.2843,MAD,M,IMF,MA,Morocco
 2025-11-30,9.2782,MAD,M,IMF,MA,Morocco
+2025-12-31,9.1283,MAD,M,IMF,MA,Morocco
 1957-01-31,0.028749999999,MZN,M,IMF,MZ,"Mozambique, Republic of"
 1957-02-28,0.028749999999,MZN,M,IMF,MZ,"Mozambique, Republic of"
 1957-03-31,0.028749999999,MZN,M,IMF,MZ,"Mozambique, Republic of"
@@ -136646,7 +136648,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,0.7961,CHF,M,IMF,CH,Switzerland
 2025-10-31,0.8017,CHF,M,IMF,CH,Switzerland
 2025-11-30,0.80635,CHF,M,IMF,CH,Switzerland
-2025-12-31,0.79255,CHF,M,IMF,CH,Switzerland
+2025-12-31,0.7933,CHF,M,IMF,CH,Switzerland
 1957-01-31,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
 1957-02-28,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
 1957-03-31,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
