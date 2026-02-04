@@ -7982,6 +7982,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
 2025-10-31,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
 2025-11-30,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
+2025-12-31,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
 1940-01-31,1.02041,BSD,M,IMF,BS,"Bahamas, The"
 1940-02-29,1.02041,BSD,M,IMF,BS,"Bahamas, The"
 1940-03-31,1.02041,BSD,M,IMF,BS,"Bahamas, The"
@@ -68589,6 +68590,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-10-31,16640,IDR,M,IMF,ID,Indonesia
 2025-11-30,16644,IDR,M,IMF,ID,Indonesia
 2025-12-31,16782,IDR,M,IMF,ID,Indonesia
+2026-01-31,16786,IDR,M,IMF,ID,Indonesia
 1957-01-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
 1957-02-28,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
 1957-03-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
@@ -108083,6 +108085,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,1475.3473,NGN,M,IMF,NG,Nigeria
 2025-10-31,1421.7343,NGN,M,IMF,NG,Nigeria
 2025-11-30,1446.7421,NGN,M,IMF,NG,Nigeria
+2025-12-31,1435.7571,NGN,M,IMF,NG,Nigeria
 1993-12-31,44.4556,MKD,M,IMF,MK,"North Macedonia, Republic of"
 1994-01-31,46.6559,MKD,M,IMF,MK,"North Macedonia, Republic of"
 1994-02-28,47.0247,MKD,M,IMF,MK,"North Macedonia, Republic of"
@@ -113886,6 +113889,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,6961.375,PYG,M,IMF,PY,Paraguay
 2025-10-31,7074.525,PYG,M,IMF,PY,Paraguay
 2025-11-30,6990.09,PYG,M,IMF,PY,Paraguay
+2025-12-31,6579.005,PYG,M,IMF,PY,Paraguay
 1960-01-31,0.000000027699999999,PEN,M,IMF,PE,Peru
 1960-02-29,0.000000027699999999,PEN,M,IMF,PE,Peru
 1960-03-31,0.000000027699999999,PEN,M,IMF,PE,Peru
@@ -135850,7 +135854,8 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,9.417,SEK,M,IMF,SE,Sweden
 2025-10-31,9.4556,SEK,M,IMF,SE,Sweden
 2025-11-30,9.4843,SEK,M,IMF,SE,Sweden
-2025-12-31,9.20133,SEK,M,IMF,SE,Sweden
+2025-12-31,9.2098,SEK,M,IMF,SE,Sweden
+2026-01-31,8.8267,SEK,M,IMF,SE,Sweden
 1957-01-31,4.285999999,CHF,M,IMF,CH,Switzerland
 1957-02-28,4.290999999,CHF,M,IMF,CH,Switzerland
 1957-03-31,4.284999999,CHF,M,IMF,CH,Switzerland
