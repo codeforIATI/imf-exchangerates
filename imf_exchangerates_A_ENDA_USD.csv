@@ -3628,7 +3628,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,55.14099166666668,DOP,A,IMF,DO,Dominican Republic
 2023-12-31,56.1576,DOP,A,IMF,DO,Dominican Republic
 2024-12-31,59.56513333333332,DOP,A,IMF,DO,Dominican Republic
-2025-12-31,61.9865625,DOP,A,IMF,DO,Dominican Republic
+2025-12-31,61.98656666666668,DOP,A,IMF,DO,Dominican Republic
 1957-12-31,1.71826960856376,XCD,A,IMF,5Y,Eastern Caribbean Currency Union (ECCU)
 1958-12-31,1.70825660983554,XCD,A,IMF,5Y,Eastern Caribbean Currency Union (ECCU)
 1959-12-31,1.70887657152788,XCD,A,IMF,5Y,Eastern Caribbean Currency Union (ECCU)
@@ -10910,6 +10910,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,2.688997647340588,WST,A,IMF,WS,Samoa
 2023-12-31,2.738439130263235,WST,A,IMF,WS,Samoa
 2024-12-31,2.753953705124332,WST,A,IMF,WS,Samoa
+2025-12-31,2.79150381915391,WST,A,IMF,WS,Samoa
 1972-12-31,583.217499999417,ITL,A,IMF,SM,"San Marino, Republic of"
 1973-12-31,582.995833331917,ITL,A,IMF,SM,"San Marino, Republic of"
 1974-12-31,650.343333331833,ITL,A,IMF,SM,"San Marino, Republic of"
@@ -13813,13 +13814,13 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 1954-12-31,0.003667999999,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 1955-12-31,0.003226999999,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 1956-12-31,0.003240999999,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-1957-12-31,0.00335033333233333,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+1957-12-31,0.003350333332333332,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 1958-12-31,0.003349999999,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-1959-12-31,0.00334966666566667,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-1960-12-31,0.00334958333233333,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-1961-12-31,0.00334983333233333,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-1962-12-31,0.00334966666566667,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-1963-12-31,0.00334966666566667,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+1959-12-31,0.003349666665666668,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+1960-12-31,0.003349583332333335,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+1961-12-31,0.003349833332333335,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+1962-12-31,0.003349666665666668,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+1963-12-31,0.003349666665666665,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 1964-12-31,0.00435,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 1965-12-31,0.0044,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 1966-12-31,0.0044,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
@@ -13840,40 +13841,45 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 1981-12-31,0.0043,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 1982-12-31,0.0043,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 1983-12-31,0.0043,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-1984-12-31,0.00701666666666667,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+1984-12-31,0.007016666666666668,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 1985-12-31,0.0075,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-1986-12-31,0.00808333333333333,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+1986-12-31,0.008083333333333332,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 1987-12-31,0.0145,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 1988-12-31,0.0145,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-1989-12-31,0.0346916666666667,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-1990-12-31,0.0468916666666667,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+1989-12-31,0.03469166666666668,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+1990-12-31,0.04689166666666665,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 1991-12-31,0.056825,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-1992-12-31,0.0683833333333333,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-1993-12-31,0.0908416666666667,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-1994-12-31,0.146858333333333,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-1995-12-31,0.176841666666667,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+1992-12-31,0.06838333333333332,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+1993-12-31,0.09084166666666665,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+1994-12-31,0.1468583333333333,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+1995-12-31,0.1768416666666667,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 1996-12-31,0.41735,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-1997-12-31,0.488633333333333,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-1998-12-31,0.547566666666667,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+1997-12-31,0.4886333333333332,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+1998-12-31,0.5475666666666668,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 1999-12-31,0.605725,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-2000-12-31,0.679966666666667,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-2001-12-31,0.723658333333333,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+2000-12-31,0.6799666666666668,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+2001-12-31,0.7236583333333335,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 2002-12-31,1.16095,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-2003-12-31,1.60695833333333,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-2004-12-31,1.89133333333333,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+2003-12-31,1.606958333333333,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+2004-12-31,1.891333333333333,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 2005-12-31,2.08975,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 2006-12-31,2.147,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 2007-12-31,2.147,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 2008-12-31,2.147,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 2009-12-31,2.147,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-2010-12-31,2.58206031746032,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+2010-12-31,2.582060317460318,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 2011-12-31,4.2893,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 2012-12-31,4.2893,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-2013-12-31,6.04796184166667,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+2013-12-31,6.047961841666668,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 2014-12-31,6.2842,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 2015-12-31,6.2842,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
-2016-12-31,9.25734444444167,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+2016-12-31,9.257344444441668,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 2017-12-31,9.975,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+2020-12-31,315575.8016832055,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+2021-12-31,2104580.835286594,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+2022-12-31,6.683882386363638,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+2023-12-31,28.63536097150358,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
+2024-12-31,38.37835975898442,VED,A,IMF,VE,"Venezuela, República Bolivariana de"
 1983-12-31,1.00177092268493,VND,A,IMF,VN,Vietnam
 1986-12-31,22.9367282608695,VND,A,IMF,VN,Vietnam
 1987-12-31,78.95331572463755,VND,A,IMF,VN,Vietnam
@@ -14196,6 +14202,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,16.93759432529886,ZMW,A,IMF,ZM,Zambia
 2023-12-31,20.21201786619496,ZMW,A,IMF,ZM,Zambia
 2024-12-31,26.16641878122565,ZMW,A,IMF,ZM,Zambia
+2025-12-31,25.1262423377158,ZMW,A,IMF,ZM,Zambia
 1950-12-31,0.000714286000714286,ZWG,A,IMF,ZW,Zimbabwe
 1951-12-31,0.000714286000714286,ZWG,A,IMF,ZW,Zimbabwe
 1952-12-31,0.000714286000714286,ZWG,A,IMF,ZW,Zimbabwe
