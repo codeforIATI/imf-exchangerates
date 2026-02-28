@@ -2924,6 +2924,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-10-31,911.978,AOA,M,IMF,AO,Angola
 2025-11-30,911.545,AOA,M,IMF,AO,Angola
 2025-12-31,912.286,AOA,M,IMF,AO,Angola
+2026-01-31,912.133,AOA,M,IMF,AO,Angola
 1957-01-31,1.71538,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 1957-02-28,1.71583,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 1957-03-31,1.72197,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
@@ -11627,6 +11628,8 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,3.0247,BYN,M,IMF,BY,"Belarus, Republic of"
 2025-10-31,2.9772,BYN,M,IMF,BY,"Belarus, Republic of"
 2025-11-30,2.9153,BYN,M,IMF,BY,"Belarus, Republic of"
+2025-12-31,2.9027,BYN,M,IMF,BY,"Belarus, Republic of"
+2026-01-31,2.8496,BYN,M,IMF,BY,"Belarus, Republic of"
 1957-01-31,50.244999999,BEF,M,IMF,BE,Belgium
 1957-02-28,50.252499999,BEF,M,IMF,BE,Belgium
 1957-03-31,50.322499999,BEF,M,IMF,BE,Belgium
@@ -62058,6 +62061,8 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-08-31,208.5,GYD,M,IMF,GY,Guyana
 2025-09-30,208.5,GYD,M,IMF,GY,Guyana
 2025-10-31,208.5,GYD,M,IMF,GY,Guyana
+2025-11-30,208.5,GYD,M,IMF,GY,Guyana
+2025-12-31,208.5,GYD,M,IMF,GY,Guyana
 1957-01-31,4.99910538457899,USD,M,IMF,HT,Haiti
 1957-02-28,4.99910538457899,USD,M,IMF,HT,Haiti
 1957-03-31,4.99910538457899,USD,M,IMF,HT,Haiti
@@ -152971,7 +152976,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2020-11-30,110.5,VUV,M,IMF,VU,Vanuatu
 2020-12-31,107.7,VUV,M,IMF,VU,Vanuatu
 2021-01-31,107.93,VUV,M,IMF,VU,Vanuatu
-2021-02-28,106.3,VUV,M,IMF,VU,Vanuatu
+2021-02-28,106.34,VUV,M,IMF,VU,Vanuatu
 2021-03-31,109.23,VUV,M,IMF,VU,Vanuatu
 2021-04-30,107.25,VUV,M,IMF,VU,Vanuatu
 2021-05-31,107.55,VUV,M,IMF,VU,Vanuatu
@@ -153010,8 +153015,8 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2024-02-29,119.9,VUV,M,IMF,VU,Vanuatu
 2024-03-31,119.8,VUV,M,IMF,VU,Vanuatu
 2024-04-30,119.7,VUV,M,IMF,VU,Vanuatu
-2024-05-31,118.8,VUV,M,IMF,VU,Vanuatu
-2024-06-30,118.9,VUV,M,IMF,VU,Vanuatu
+2024-05-31,118.76,VUV,M,IMF,VU,Vanuatu
+2024-06-30,118.85,VUV,M,IMF,VU,Vanuatu
 2024-07-31,119.9,VUV,M,IMF,VU,Vanuatu
 2024-08-31,116.9,VUV,M,IMF,VU,Vanuatu
 2024-09-30,115.9,VUV,M,IMF,VU,Vanuatu
@@ -153027,6 +153032,8 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-07-31,117.9,VUV,M,IMF,VU,Vanuatu
 2025-08-31,119.1,VUV,M,IMF,VU,Vanuatu
 2025-09-30,118.4,VUV,M,IMF,VU,Vanuatu
+2025-10-31,120.6,VUV,M,IMF,VU,Vanuatu
+2025-11-30,120.7,VUV,M,IMF,VU,Vanuatu
 1957-01-31,0.003219999999,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 1957-02-28,0.003219999999,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 1957-03-31,0.003219999999,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
