@@ -17629,6 +17629,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-11-30,13.3097,BWP,M,IMF,BW,Botswana
 2025-12-31,13.0745,BWP,M,IMF,BW,Botswana
 2026-01-31,12.7565,BWP,M,IMF,BW,Botswana
+2026-02-28,12.8275,BWP,M,IMF,BW,Botswana
 1964-01-31,0.000000000000225454545462831,BRL,M,IMF,BR,Brazil
 1964-02-29,0.000000000000424800000013794,BRL,M,IMF,BR,Brazil
 1964-03-31,0.000000000000497636363654652,BRL,M,IMF,BR,Brazil
@@ -63717,6 +63718,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-10-31,26.2944,HNL,M,IMF,HN,Honduras
 2025-11-30,26.3178,HNL,M,IMF,HN,Honduras
 2025-12-31,26.3727,HNL,M,IMF,HN,Honduras
+2026-01-31,26.4491,HNL,M,IMF,HN,Honduras
 1957-01-31,5.72020934168168,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 1957-02-28,5.7216406719911,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 1957-03-31,5.74216673718946,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
@@ -85821,7 +85823,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-10-31,0.8017,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 2025-11-30,0.80635,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 2025-12-31,0.7933,CHF,M,IMF,LI,"Liechtenstein, Principality of"
-2026-01-31,0.7673,CHF,M,IMF,LI,"Liechtenstein, Principality of"
+2026-01-31,0.7698,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 1992-01-31,1.225,LTL,M,IMF,LT,"Lithuania, Republic of"
 1992-02-29,0.778,LTL,M,IMF,LT,"Lithuania, Republic of"
 1992-03-31,1.25,LTL,M,IMF,LT,"Lithuania, Republic of"
@@ -98860,6 +98862,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-10-31,9.2843,MAD,M,IMF,MA,Morocco
 2025-11-30,9.2782,MAD,M,IMF,MA,Morocco
 2025-12-31,9.1283,MAD,M,IMF,MA,Morocco
+2026-01-31,9.084,MAD,M,IMF,MA,Morocco
 1957-01-31,0.028749999999,MZN,M,IMF,MZ,"Mozambique, Republic of"
 1957-02-28,0.028749999999,MZN,M,IMF,MZ,"Mozambique, Republic of"
 1957-03-31,0.028749999999,MZN,M,IMF,MZ,"Mozambique, Republic of"
@@ -136805,7 +136808,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-10-31,0.8017,CHF,M,IMF,CH,Switzerland
 2025-11-30,0.80635,CHF,M,IMF,CH,Switzerland
 2025-12-31,0.7933,CHF,M,IMF,CH,Switzerland
-2026-01-31,0.7673,CHF,M,IMF,CH,Switzerland
+2026-01-31,0.7698,CHF,M,IMF,CH,Switzerland
 1957-01-31,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
 1957-02-28,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
 1957-03-31,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
