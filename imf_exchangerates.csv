@@ -10399,6 +10399,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-11-30,122.26,BDT,M,IMF,BD,Bangladesh
 2025-12-31,122.325,BDT,M,IMF,BD,Bangladesh
 2026-01-31,122.35,BDT,M,IMF,BD,Bangladesh
+2026-02-28,122.3,BDT,M,IMF,BD,Bangladesh
 1957-01-31,1.7154,BBD,M,IMF,BB,Barbados
 1957-02-28,1.715799999,BBD,M,IMF,BB,Barbados
 1957-03-31,1.721999999,BBD,M,IMF,BB,Barbados
@@ -19866,6 +19867,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-11-30,1.691,EUR,M,IMF,BG,Bulgaria
 2025-12-31,1.6636,EUR,M,IMF,BG,Bulgaria
 2026-01-31,0.839,EUR,M,IMF,BG,Bulgaria
+2026-02-28,0.8471,EUR,M,IMF,BG,Bulgaria
 1957-01-31,174.999876211486,XOF,M,IMF,BF,Burkina Faso
 1957-02-28,174.999876211486,XOF,M,IMF,BF,Burkina Faso
 1957-03-31,174.999876211486,XOF,M,IMF,BF,Burkina Faso
@@ -109464,6 +109466,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-11-30,10.17,NOK,M,IMF,NO,Norway
 2025-12-31,10.08,NOK,M,IMF,NO,Norway
 2026-01-31,9.55,NOK,M,IMF,NO,Norway
+2026-02-28,9.49,NOK,M,IMF,NO,Norway
 1957-01-31,0.35714,OMR,M,IMF,OM,Oman
 1957-02-28,0.35714,OMR,M,IMF,OM,Oman
 1957-03-31,0.35714,OMR,M,IMF,OM,Oman
@@ -141386,7 +141389,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-11-30,32.2037,THB,M,IMF,TH,Thailand
 2025-12-31,31.5826,THB,M,IMF,TH,Thailand
 2026-01-31,31.3558,THB,M,IMF,TH,Thailand
-2026-02-28,31.058,THB,M,IMF,TH,Thailand
+2026-02-28,31.0983,THB,M,IMF,TH,Thailand
 1940-01-31,1,USD,M,IMF,TL,"Timor-Leste, Democratic Republic of"
 1940-02-29,1,USD,M,IMF,TL,"Timor-Leste, Democratic Republic of"
 1940-03-31,1,USD,M,IMF,TL,"Timor-Leste, Democratic Republic of"
