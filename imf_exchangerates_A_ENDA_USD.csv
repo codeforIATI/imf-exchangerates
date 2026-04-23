@@ -7451,6 +7451,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,1507.5,LBP,A,IMF,LB,Lebanon
 2023-12-31,13875.625,LBP,A,IMF,LB,Lebanon
 2024-12-31,89500,LBP,A,IMF,LB,Lebanon
+2025-12-31,89500,LBP,A,IMF,LB,Lebanon
 1950-12-31,0.714285999714286,ZAR,A,IMF,LS,"Lesotho, Kingdom of"
 1951-12-31,0.714285999714286,ZAR,A,IMF,LS,"Lesotho, Kingdom of"
 1952-12-31,0.714285999714286,ZAR,A,IMF,LS,"Lesotho, Kingdom of"
@@ -7677,6 +7678,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2022-12-31,4.813175,LYD,A,IMF,LY,Libya
 2023-12-31,4.812883333333335,LYD,A,IMF,LY,Libya
 2024-12-31,4.832208333333335,LYD,A,IMF,LY,Libya
+2025-12-31,5.302566666666665,LYD,A,IMF,LY,Libya
 1950-12-31,4.37295000337295,CHF,A,IMF,LI,"Liechtenstein, Principality of"
 1951-12-31,4.37295000337295,CHF,A,IMF,LI,"Liechtenstein, Principality of"
 1952-12-31,4.37295000337295,CHF,A,IMF,LI,"Liechtenstein, Principality of"
