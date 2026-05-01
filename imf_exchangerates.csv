@@ -2930,6 +2930,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-12-31,912.286,AOA,M,IMF,AO,Angola
 2026-01-31,912.133,AOA,M,IMF,AO,Angola
 2026-02-28,912.131,AOA,M,IMF,AO,Angola
+2026-03-31,912.13,AOA,M,IMF,AO,Angola
 1957-01-31,1.71538,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 1957-02-28,1.71583,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 1957-03-31,1.72197,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
@@ -11658,6 +11659,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-12-31,2.9027,BYN,M,IMF,BY,"Belarus, Republic of"
 2026-01-31,2.8496,BYN,M,IMF,BY,"Belarus, Republic of"
 2026-02-28,2.8523,BYN,M,IMF,BY,"Belarus, Republic of"
+2026-03-31,2.9508,BYN,M,IMF,BY,"Belarus, Republic of"
 1957-01-31,50.244999999,BEF,M,IMF,BE,Belgium
 1957-02-28,50.252499999,BEF,M,IMF,BE,Belgium
 1957-03-31,50.322499999,BEF,M,IMF,BE,Belgium
@@ -22395,6 +22397,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-11-30,95.171,CVE,M,IMF,CV,Cabo Verde
 2025-12-31,93.787,CVE,M,IMF,CV,Cabo Verde
 2026-01-31,92.133,CVE,M,IMF,CV,Cabo Verde
+2026-02-28,93.334,CVE,M,IMF,CV,Cabo Verde
 1957-01-31,35,KHR,M,IMF,KH,Cambodia
 1957-02-28,35,KHR,M,IMF,KH,Cambodia
 1957-03-31,35,KHR,M,IMF,KH,Cambodia
@@ -40089,6 +40092,8 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-11-30,63.566,DOP,M,IMF,DO,Dominican Republic
 2025-12-31,63.3035,DOP,M,IMF,DO,Dominican Republic
 2026-01-31,63.4346,DOP,M,IMF,DO,Dominican Republic
+2026-02-28,60.146,DOP,M,IMF,DO,Dominican Republic
+2026-03-31,61.1933,DOP,M,IMF,DO,Dominican Republic
 1957-01-31,1.715379999,XCD,M,IMF,5Y,Eastern Caribbean Currency Union (ECCU)
 1957-02-28,1.715829999,XCD,M,IMF,5Y,Eastern Caribbean Currency Union (ECCU)
 1957-03-31,1.721969999,XCD,M,IMF,5Y,Eastern Caribbean Currency Union (ECCU)
@@ -108421,6 +108426,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-12-31,1435.7571,NGN,M,IMF,NG,Nigeria
 2026-01-31,1386.5532,NGN,M,IMF,NG,Nigeria
 2026-02-28,1363.3954,NGN,M,IMF,NG,Nigeria
+2026-03-31,1386.7156,NGN,M,IMF,NG,Nigeria
 1993-12-31,44.4556,MKD,M,IMF,MK,"North Macedonia, Republic of"
 1994-01-31,46.6559,MKD,M,IMF,MK,"North Macedonia, Republic of"
 1994-02-28,47.0247,MKD,M,IMF,MK,"North Macedonia, Republic of"
