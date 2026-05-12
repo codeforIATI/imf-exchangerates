@@ -30230,6 +30230,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-01-31,9.547475133847266,CNY,M,IMF,CN,"China, People's Republic of"
 2026-02-28,9.504933029610228,CNY,M,IMF,CN,"China, People's Republic of"
 2026-03-31,9.392248208741088,CNY,M,IMF,CN,"China, People's Republic of"
+2026-04-30,9.360161996640278,CNY,M,IMF,CN,"China, People's Republic of"
 1957-01-31,2.51,COP,M,IMF,CO,Colombia
 1957-02-28,2.51,COP,M,IMF,CO,Colombia
 1957-03-31,2.51,COP,M,IMF,CO,Colombia
@@ -65134,6 +65135,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-01-31,10.68494162509293,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 2026-02-28,10.75597390401202,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 2026-03-31,10.66316446381802,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
+2026-04-30,10.72494318960962,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 1968-01-31,59.999999999,HUF,M,IMF,HU,Hungary
 1968-02-29,59.999999999,HUF,M,IMF,HU,Hungary
 1968-03-31,59.999999999,HUF,M,IMF,HU,Hungary
@@ -65833,6 +65835,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-01-31,448.6771140211184,HUF,M,IMF,HU,Hungary
 2026-02-28,440.2685097240838,HUF,M,IMF,HU,Hungary
 2026-03-31,458.6877069368218,HUF,M,IMF,HU,Hungary
+2026-04-30,431.8589901917737,HUF,M,IMF,HU,Hungary
 1957-01-31,0.162856999994107,ISK,M,IMF,IS,Iceland
 1957-02-28,0.162856999994107,ISK,M,IMF,IS,Iceland
 1957-03-31,0.162856999994107,ISK,M,IMF,IS,Iceland
@@ -118161,6 +118164,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-01-31,5.942899309611833,RON,M,IMF,RO,Romania
 2026-02-28,5.926654436390763,RON,M,IMF,RO,Romania
 2026-03-31,6.006679869654054,RON,M,IMF,RO,Romania
+2026-04-30,5.971140185831162,RON,M,IMF,RO,Romania
 1992-06-30,0.1948189454365773,RUB,M,IMF,RU,Russian Federation
 1992-07-31,0.2425502425502419,RUB,M,IMF,RU,Russian Federation
 1992-08-31,0.3160501019516462,RUB,M,IMF,RU,Russian Federation
@@ -125799,7 +125803,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-01-31,1.754287094460949,SGD,M,IMF,SG,Singapore
 2026-02-28,1.743271237371915,SGD,M,IMF,SG,Singapore
 2026-03-31,1.742503830111907,SGD,M,IMF,SG,Singapore
-2026-04-30,1.747964819164605,SGD,M,IMF,SG,Singapore
+2026-04-30,1.747971338332086,SGD,M,IMF,SG,Singapore
 2010-10-31,2.810183284149755,XCG,M,IMF,SX,"Sint Maarten, Kingdom of the Netherlands"
 2010-11-30,2.795844855838633,XCG,M,IMF,SX,"Sint Maarten, Kingdom of the Netherlands"
 2010-12-31,2.748737851437915,XCG,M,IMF,SX,"Sint Maarten, Kingdom of the Netherlands"
