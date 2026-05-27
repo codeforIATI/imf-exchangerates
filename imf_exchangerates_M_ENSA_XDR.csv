@@ -11613,6 +11613,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-01-31,3.968966646735598,BYN,M,IMF,BY,"Belarus, Republic of"
 2026-02-28,3.933125888563516,BYN,M,IMF,BY,"Belarus, Republic of"
 2026-03-31,4.001547257142541,BYN,M,IMF,BY,"Belarus, Republic of"
+2026-04-30,3.917602429332,BYN,M,IMF,BY,"Belarus, Republic of"
 1957-01-31,50.000000049,BEF,M,IMF,BE,Belgium
 1957-02-28,50.000000049,BEF,M,IMF,BE,Belgium
 1957-03-31,50.000000049,BEF,M,IMF,BE,Belgium
@@ -53860,6 +53861,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-01-31,3.693416279871506,GEL,M,IMF,GE,Georgia
 2026-02-28,3.689609978994556,GEL,M,IMF,GE,Georgia
 2026-03-31,3.703501730228465,GEL,M,IMF,GE,Georgia
+2026-04-30,3.690207348428993,GEL,M,IMF,GE,Georgia
 1967-01-31,2.22,DDM,M,IMF,DE2,German Democratic Republic
 1967-02-28,2.22,DDM,M,IMF,DE2,German Democratic Republic
 1967-03-31,2.22,DDM,M,IMF,DE2,German Democratic Republic
@@ -98517,6 +98519,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-01-31,12.55583407122039,MAD,M,IMF,MA,Morocco
 2026-02-28,12.59169863925419,MAD,M,IMF,MA,Morocco
 2026-03-31,12.7275520142672,MAD,M,IMF,MA,Morocco
+2026-04-30,12.702823636886,MAD,M,IMF,MA,Morocco
 1957-01-31,0.02875000002875,MZN,M,IMF,MZ,"Mozambique, Republic of"
 1957-02-28,0.02875000002875,MZN,M,IMF,MZ,"Mozambique, Republic of"
 1957-03-31,0.02875000002875,MZN,M,IMF,MZ,"Mozambique, Republic of"
@@ -153679,84 +153682,6 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2018-04-30,82224.16460639836,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 2018-05-31,104825.9517542642,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 2018-06-30,118479.3857238059,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2019-06-30,8561.100933710856,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2019-07-31,10518.82377377037,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2019-08-31,19822.61322289302,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2019-09-30,28803.18322674823,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2019-10-31,27397.45147959834,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2019-11-30,40216.2329759548,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2019-12-31,60630.04728698703,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2020-01-31,92775.78959921573,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2020-02-29,100385.3743825664,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2020-03-31,100699.8353835939,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2020-04-30,168969.9335017749,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2020-05-31,248041.588944593,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2020-06-30,276321.3480570021,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2020-07-31,311214.2985838532,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2020-08-31,408493.9497548797,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2020-09-30,521501.324986936,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2020-10-31,642351.4756245591,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2020-11-30,950650.6687441663,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2020-12-31,1526191.214759672,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2021-01-31,2169592.339613408,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2021-02-28,2581527.741089232,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2021-03-31,2651773.52677659,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2021-04-30,3400772.798656715,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2021-05-31,4217303.370669434,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2021-06-30,4487102.362646421,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2021-07-31,5013970.250630369,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2021-08-31,5810950.047711214,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2021-09-30,5762918.279447684,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2021-10-31,5.934228375406121,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2021-11-30,6.302603914336939,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2021-12-31,6.432877329239788,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2022-01-31,6.435469299872395,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2022-02-28,6.231632477389576,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2022-03-31,5.963885925573652,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2022-04-30,6.032365641972213,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2022-05-31,6.361232633646803,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2022-06-30,7.098149042030105,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2022-07-31,7.444054350453861,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2022-08-31,8.320173268666101,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2022-09-30,10.34038934804117,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2022-10-31,10.6123473553782,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2022-11-30,12.30777951405203,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2022-12-31,19.45010063119474,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2023-01-31,26.42244538563025,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2023-02-28,31.79051289144156,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2023-03-31,32.3387443635534,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2023-04-30,33.03726313095036,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2023-05-31,34.17093177875234,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2023-06-30,36.07400027235875,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2023-07-31,38.49282381709913,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2023-08-31,41.75503520247034,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2023-09-30,44.12105623516933,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2023-10-31,45.58585582599024,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2023-11-30,46.66990161477602,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2023-12-31,47.46706274877912,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2024-01-31,47.94656814168074,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2024-02-29,47.93126798922359,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2024-03-31,48.04063121570378,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2024-04-30,47.7882210452192,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2024-05-31,48.21343784731967,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2024-06-30,47.96002017459275,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2024-07-31,48.25116443535799,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2024-08-31,48.98058041818196,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2024-09-30,49.48061778799906,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2024-10-31,51.83606811792184,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2024-11-30,59.54290936855681,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2024-12-31,65.17745280503869,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2025-01-31,71.29259405636616,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2025-02-28,80.37384271631595,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2025-03-31,88.70911280737272,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2025-04-30,105.0838419384181,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2025-05-31,126.1638894910428,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2025-06-30,138.5043935425309,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2025-07-31,158.839113601525,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2025-08-31,184.6612311882895,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2025-09-30,220.8310650170903,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2025-10-31,274.4203296765629,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
-2025-11-30,318.1133849206696,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 1983-01-31,1.073207221933395,VND,M,IMF,VN,Vietnam
 1983-02-28,1.063450792632449,VND,M,IMF,VN,Vietnam
 1983-03-31,1.058972035815961,VND,M,IMF,VN,Vietnam
