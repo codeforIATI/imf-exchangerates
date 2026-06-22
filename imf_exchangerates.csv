@@ -2936,6 +2936,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-02-28,912.131,AOA,M,IMF,AO,Angola
 2026-03-31,912.13,AOA,M,IMF,AO,Angola
 2026-04-30,913.116,AOA,M,IMF,AO,Angola
+2026-05-31,913.116,AOA,M,IMF,AO,Angola
 1957-01-31,1.71538,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 1957-02-28,1.71583,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 1957-03-31,1.72197,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
@@ -5820,6 +5821,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-02-28,377,AMD,M,IMF,AM,"Armenia, Republic of"
 2026-03-31,377.16,AMD,M,IMF,AM,"Armenia, Republic of"
 2026-04-30,370.78,AMD,M,IMF,AM,"Armenia, Republic of"
+2026-05-31,368.18,AMD,M,IMF,AM,"Armenia, Republic of"
 1986-01-31,1.79,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
 1986-02-28,1.79,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
 1986-03-31,1.79,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
@@ -63988,6 +63990,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-02-28,26.4932,HNL,M,IMF,HN,Honduras
 2026-03-31,26.5631,HNL,M,IMF,HN,Honduras
 2026-04-30,26.5988,HNL,M,IMF,HN,Honduras
+2026-05-31,26.6608,HNL,M,IMF,HN,Honduras
 1957-01-31,5.72020934168168,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 1957-02-28,5.7216406719911,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 1957-03-31,5.74216673718946,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
@@ -87666,6 +87669,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-02-28,8.0585,MOP,M,IMF,MO,"Macao Special Administrative Region, People's Republic of China"
 2026-03-31,8.0717,MOP,M,IMF,MO,"Macao Special Administrative Region, People's Republic of China"
 2026-04-30,8.071,MOP,M,IMF,MO,"Macao Special Administrative Region, People's Republic of China"
+2026-05-31,8.0688,MOP,M,IMF,MO,"Macao Special Administrative Region, People's Republic of China"
 1957-01-31,35,MGA,M,IMF,MG,"Madagascar, Republic of"
 1957-02-28,35,MGA,M,IMF,MG,"Madagascar, Republic of"
 1957-03-31,35,MGA,M,IMF,MG,"Madagascar, Republic of"
@@ -96844,6 +96848,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-02-28,17.1201,MDL,M,IMF,MD,"Moldova, Republic of"
 2026-03-31,17.6491,MDL,M,IMF,MD,"Moldova, Republic of"
 2026-04-30,17.2762,MDL,M,IMF,MD,"Moldova, Republic of"
+2026-05-31,17.3317,MDL,M,IMF,MD,"Moldova, Republic of"
 1990-07-31,5.63,MNT,M,IMF,MN,Mongolia
 1990-08-31,5.5596,MNT,M,IMF,MN,Mongolia
 1990-09-30,5.5859,MNT,M,IMF,MN,Mongolia
@@ -106127,7 +106132,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-02-28,1.6728,NZD,M,IMF,NZ,New Zealand
 2026-03-31,1.747,NZD,M,IMF,NZ,New Zealand
 2026-04-30,1.7141,NZD,M,IMF,NZ,New Zealand
-2026-05-31,1.680248676804167,NZD,M,IMF,NZ,New Zealand
+2026-05-31,1.6801,NZD,M,IMF,NZ,New Zealand
 1957-01-31,0.00000000136525971515314,NIO,M,IMF,NI,Nicaragua
 1957-02-28,0.00000000136525971515314,NIO,M,IMF,NI,Nicaragua
 1957-03-31,0.00000000136525971515314,NIO,M,IMF,NI,Nicaragua
@@ -108623,6 +108628,8 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-01-31,1386.5532,NGN,M,IMF,NG,Nigeria
 2026-02-28,1363.3954,NGN,M,IMF,NG,Nigeria
 2026-03-31,1386.7156,NGN,M,IMF,NG,Nigeria
+2026-04-30,1374.9431,NGN,M,IMF,NG,Nigeria
+2026-05-31,1373.2545,NGN,M,IMF,NG,Nigeria
 1993-12-31,44.4556,MKD,M,IMF,MK,"North Macedonia, Republic of"
 1994-01-31,46.6559,MKD,M,IMF,MK,"North Macedonia, Republic of"
 1994-02-28,47.0247,MKD,M,IMF,MK,"North Macedonia, Republic of"
@@ -109012,6 +109019,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-02-28,52.2616,MKD,M,IMF,MK,"North Macedonia, Republic of"
 2026-03-31,53.7234,MKD,M,IMF,MK,"North Macedonia, Republic of"
 2026-04-30,52.7037,MKD,M,IMF,MK,"North Macedonia, Republic of"
+2026-05-31,53.1075,MKD,M,IMF,MK,"North Macedonia, Republic of"
 1957-01-31,7.149999999,NOK,M,IMF,NO,Norway
 1957-02-28,7.149999999,NOK,M,IMF,NO,Norway
 1957-03-31,7.149999999,NOK,M,IMF,NO,Norway
@@ -118979,6 +118987,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-02-28,4.3179,RON,M,IMF,RO,Romania
 2026-03-31,4.4463,RON,M,IMF,RO,Romania
 2026-04-30,4.3965,RON,M,IMF,RO,Romania
+2026-05-31,4.5099,RON,M,IMF,RO,Romania
 1992-06-30,0.1,RUB,M,IMF,RU,Russian Federation
 1992-07-31,0.161,RUB,M,IMF,RU,Russian Federation
 1992-08-31,0.205,RUB,M,IMF,RU,Russian Federation
@@ -149217,6 +149226,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-02-28,43.2081,UAH,M,IMF,UA,Ukraine
 2026-03-31,43.7955,UAH,M,IMF,UA,Ukraine
 2026-04-30,44.082,UAH,M,IMF,UA,Ukraine
+2026-05-31,44.2653,UAH,M,IMF,UA,Ukraine
 1967-01-31,0.899999999,SUR,M,IMF,SUH,Union of Soviet Socialist Republics (USSR)
 1967-02-28,0.899999999,SUR,M,IMF,SUH,Union of Soviet Socialist Republics (USSR)
 1967-03-31,0.899999999,SUR,M,IMF,SUH,Union of Soviet Socialist Republics (USSR)
