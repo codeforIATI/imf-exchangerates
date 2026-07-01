@@ -78836,7 +78836,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-02-28,1993.96880257901,KRW,M,IMF,KR,"Korea, Republic of"
 2026-03-31,2025.074964038122,KRW,M,IMF,KR,"Korea, Republic of"
 2026-04-30,2036.274349092859,KRW,M,IMF,KR,"Korea, Republic of"
-2026-05-31,2042.335293926474,KRW,M,IMF,KR,"Korea, Republic of"
+2026-05-31,2042.341385471946,KRW,M,IMF,KR,"Korea, Republic of"
 2002-01-31,1.418290668688201,EUR,M,IMF,XK,"Kosovo, Republic of"
 2002-02-28,1.43055439239802,EUR,M,IMF,XK,"Kosovo, Republic of"
 2002-03-31,1.42736554045788,EUR,M,IMF,XK,"Kosovo, Republic of"
@@ -85576,7 +85576,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-02-28,1.063146435702902,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 2026-03-31,1.071737932657478,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 2026-04-30,1.07760078284879,CHF,M,IMF,LI,"Liechtenstein, Principality of"
-2026-05-31,1.075375875014372,CHF,M,IMF,LI,"Liechtenstein, Principality of"
+2026-05-31,1.074123736086939,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 1992-12-31,4.47203588739357,LTL,M,IMF,LT,"Lithuania, Republic of"
 1993-01-31,5.396659276497886,LTL,M,IMF,LT,"Lithuania, Republic of"
 1993-02-28,5.835768744354751,LTL,M,IMF,LT,"Lithuania, Republic of"
@@ -98623,6 +98623,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-02-28,12.59169863925419,MAD,M,IMF,MA,Morocco
 2026-03-31,12.7275520142672,MAD,M,IMF,MA,Morocco
 2026-04-30,12.702823636886,MAD,M,IMF,MA,Morocco
+2026-05-31,12.59812316731146,MAD,M,IMF,MA,Morocco
 1957-01-31,0.02875000002875,MZN,M,IMF,MZ,"Mozambique, Republic of"
 1957-02-28,0.02875000002875,MZN,M,IMF,MZ,"Mozambique, Republic of"
 1957-03-31,0.02875000002875,MZN,M,IMF,MZ,"Mozambique, Republic of"
@@ -136520,7 +136521,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-02-28,1.063146435702902,CHF,M,IMF,CH,Switzerland
 2026-03-31,1.071737932657478,CHF,M,IMF,CH,Switzerland
 2026-04-30,1.07760078284879,CHF,M,IMF,CH,Switzerland
-2026-05-31,1.075375875014372,CHF,M,IMF,CH,Switzerland
+2026-05-31,1.074123736086939,CHF,M,IMF,CH,Switzerland
 1957-01-31,3.58,SYP,M,IMF,SY,Syrian Arab Republic
 1957-02-28,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
 1957-03-31,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
