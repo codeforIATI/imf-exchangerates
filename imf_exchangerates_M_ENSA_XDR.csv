@@ -10425,6 +10425,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-03-31,167.036870004525,BDT,M,IMF,BD,Bangladesh
 2026-04-30,168.0346760366146,BDT,M,IMF,BD,Bangladesh
 2026-05-31,168.240871524036,BDT,M,IMF,BD,Bangladesh
+2026-06-30,167.2693910848824,BDT,M,IMF,BD,Bangladesh
 1957-01-31,1.71429000071429,BBD,M,IMF,BB,Barbados
 1957-02-28,1.71429000071429,BBD,M,IMF,BB,Barbados
 1957-03-31,1.71429000071429,BBD,M,IMF,BB,Barbados
@@ -46787,6 +46788,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-03-31,22.80139138464181,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 2026-04-30,22.64228772609981,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 2026-05-31,22.58827393081579,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
+2026-06-30,22.34215757488124,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 1957-01-31,2.48447000148447,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
 1957-02-28,2.48447000148447,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
 1957-03-31,2.48447000148447,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
@@ -83162,6 +83164,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-03-31,22.80139138464181,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 2026-04-30,22.64228772609981,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 2026-05-31,22.58827393081579,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
+2026-06-30,22.34215757488124,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 1957-01-31,1,LRD,M,IMF,LR,Liberia
 1957-02-28,1,LRD,M,IMF,LR,Liberia
 1957-03-31,1,LRD,M,IMF,LR,Liberia
@@ -128850,6 +128853,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-03-31,22.80139138464181,ZAR,M,IMF,ZA,South Africa
 2026-04-30,22.64228772609981,ZAR,M,IMF,ZA,South Africa
 2026-05-31,22.58827393081579,ZAR,M,IMF,ZA,South Africa
+2026-06-30,22.34215757488124,ZAR,M,IMF,ZA,South Africa
 2011-07-31,4.443286316749797,SSP,M,IMF,SS,"South Sudan, Republic of"
 2011-08-31,5.296615829615773,SSP,M,IMF,SS,"South Sudan, Republic of"
 2011-09-30,4.72284037439161,SSP,M,IMF,SS,"South Sudan, Republic of"
