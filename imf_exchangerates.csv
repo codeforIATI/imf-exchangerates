@@ -2946,6 +2946,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-03-31,912.13,AOA,M,IMF,AO,Angola
 2026-04-30,913.116,AOA,M,IMF,AO,Angola
 2026-05-31,913.116,AOA,M,IMF,AO,Angola
+2026-06-30,912.57,AOA,M,IMF,AO,Angola
 1957-01-31,1.71538,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 1957-02-28,1.71583,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 1957-03-31,1.72197,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
@@ -16911,6 +16912,8 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-01-31,1.6342,BAM,M,IMF,BA,Bosnia and Herzegovina
 2026-02-28,1.6555,BAM,M,IMF,BA,Bosnia and Herzegovina
 2026-03-31,1.7031,BAM,M,IMF,BA,Bosnia and Herzegovina
+2026-04-30,1.6708,BAM,M,IMF,BA,Bosnia and Herzegovina
+2026-05-31,1.6836,BAM,M,IMF,BA,Bosnia and Herzegovina
 1957-01-31,0.715883669416524,BWP,M,IMF,BW,Botswana
 1957-02-28,0.715883669416524,BWP,M,IMF,BW,Botswana
 1957-03-31,0.718455321575208,BWP,M,IMF,BW,Botswana
@@ -23135,6 +23138,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-03-31,4004,KHR,M,IMF,KH,Cambodia
 2026-04-30,4009,KHR,M,IMF,KH,Cambodia
 2026-05-31,4027,KHR,M,IMF,KH,Cambodia
+2026-06-30,4028.5,KHR,M,IMF,KH,Cambodia
 1957-01-31,175,XAF,M,IMF,CM,Cameroon
 1957-02-28,175,XAF,M,IMF,CM,Cameroon
 1957-03-31,175,XAF,M,IMF,CM,Cameroon
@@ -155369,6 +155373,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-02-28,25044,VND,M,IMF,VN,Vietnam
 2026-03-31,25102,VND,M,IMF,VN,Vietnam
 2026-04-30,25113,VND,M,IMF,VN,Vietnam
+2026-05-31,25139,VND,M,IMF,VN,Vietnam
 1957-01-31,175,XOF,M,IMF,7A,West African Economic and Monetary Union (WAEMU)
 1957-02-28,175,XOF,M,IMF,7A,West African Economic and Monetary Union (WAEMU)
 1957-03-31,175,XOF,M,IMF,7A,West African Economic and Monetary Union (WAEMU)
