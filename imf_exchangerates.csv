@@ -77870,6 +77870,12 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-10-31,129.2394,KES,M,IMF,KE,Kenya
 2025-11-30,129.8194,KES,M,IMF,KE,Kenya
 2025-12-31,129.0101,KES,M,IMF,KE,Kenya
+2026-01-31,129.03,KES,M,IMF,KE,Kenya
+2026-02-28,129.02,KES,M,IMF,KE,Kenya
+2026-03-31,129.93,KES,M,IMF,KE,Kenya
+2026-04-30,129.19,KES,M,IMF,KE,Kenya
+2026-05-31,129.55,KES,M,IMF,KE,Kenya
+2026-06-30,129.5,KES,M,IMF,KE,Kenya
 1957-01-31,0.892856999892857,AUD,M,IMF,KI,Kiribati
 1957-02-28,0.892856999892857,AUD,M,IMF,KI,Kiribati
 1957-03-31,0.892856999892857,AUD,M,IMF,KI,Kiribati
@@ -86281,7 +86287,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-03-31,0.8,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 2026-04-30,0.7898,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 2026-05-31,0.7845,CHF,M,IMF,LI,"Liechtenstein, Principality of"
-2026-06-30,0.8089,CHF,M,IMF,LI,"Liechtenstein, Principality of"
+2026-06-30,0.8095,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 1992-01-31,1.225,LTL,M,IMF,LT,"Lithuania, Republic of"
 1992-02-29,0.778,LTL,M,IMF,LT,"Lithuania, Republic of"
 1992-03-31,1.25,LTL,M,IMF,LT,"Lithuania, Republic of"
@@ -99379,6 +99385,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-03-31,9.3374,MAD,M,IMF,MA,Morocco
 2026-04-30,9.2477,MAD,M,IMF,MA,Morocco
 2026-05-31,9.1927,MAD,M,IMF,MA,Morocco
+2026-06-30,9.3959,MAD,M,IMF,MA,Morocco
 1957-01-31,0.028749999999,MZN,M,IMF,MZ,"Mozambique, Republic of"
 1957-02-28,0.028749999999,MZN,M,IMF,MZ,"Mozambique, Republic of"
 1957-03-31,0.028749999999,MZN,M,IMF,MZ,"Mozambique, Republic of"
@@ -108740,6 +108747,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-03-31,1386.7156,NGN,M,IMF,NG,Nigeria
 2026-04-30,1374.9431,NGN,M,IMF,NG,Nigeria
 2026-05-31,1373.2545,NGN,M,IMF,NG,Nigeria
+2026-06-30,1379.6842,NGN,M,IMF,NG,Nigeria
 1993-12-31,44.4556,MKD,M,IMF,MK,"North Macedonia, Republic of"
 1994-01-31,46.6559,MKD,M,IMF,MK,"North Macedonia, Republic of"
 1994-02-28,47.0247,MKD,M,IMF,MK,"North Macedonia, Republic of"
@@ -137498,7 +137506,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-03-31,0.8,CHF,M,IMF,CH,Switzerland
 2026-04-30,0.7898,CHF,M,IMF,CH,Switzerland
 2026-05-31,0.7845,CHF,M,IMF,CH,Switzerland
-2026-06-30,0.8089,CHF,M,IMF,CH,Switzerland
+2026-06-30,0.8095,CHF,M,IMF,CH,Switzerland
 1957-01-31,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
 1957-02-28,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
 1957-03-31,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
@@ -159238,4 +159246,8 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-12-31,25.9807,ZWG,M,IMF,ZW,Zimbabwe
 2026-01-31,25.5806,ZWG,M,IMF,ZW,Zimbabwe
 2026-02-28,25.773,ZWG,M,IMF,ZW,Zimbabwe
+2026-03-31,25.3209,ZWG,M,IMF,ZW,Zimbabwe
+2026-04-30,25.3419,ZWG,M,IMF,ZW,Zimbabwe
+2026-05-31,26.9181,ZWG,M,IMF,ZW,Zimbabwe
+2026-06-30,26.7698,ZWG,M,IMF,ZW,Zimbabwe
 2027-03-31,25.3209,ZWG,M,IMF,ZW,Zimbabwe
