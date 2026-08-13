@@ -1210,6 +1210,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,81.76,ALL,M,IMF,AL,Albania
 2026-05-31,82.04,ALL,M,IMF,AL,Albania
 2026-06-30,82.64,ALL,M,IMF,AL,Albania
+2026-07-31,81.28,ALL,M,IMF,AL,Albania
 1957-01-31,3.49999999928862,DZD,M,IMF,DZ,Algeria
 1957-02-28,3.49999999928862,DZD,M,IMF,DZ,Algeria
 1957-03-31,3.49999999928862,DZD,M,IMF,DZ,Algeria
@@ -2044,6 +2045,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,132.5429,DZD,M,IMF,DZ,Algeria
 2026-05-31,133.1054,DZD,M,IMF,DZ,Algeria
 2026-06-30,133.227,DZD,M,IMF,DZ,Algeria
+2026-07-31,132.7815,DZD,M,IMF,DZ,Algeria
 2020-10-31,0.8548469823901522,EUR,M,IMF,AD,"Andorra, Principality of"
 2020-11-30,0.8347245409015025,EUR,M,IMF,AD,"Andorra, Principality of"
 2020-12-31,0.8149295085975063,EUR,M,IMF,AD,"Andorra, Principality of"
@@ -2113,6 +2115,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,0.8545547769612032,EUR,M,IMF,AD,"Andorra, Principality of"
 2026-05-31,0.8588114050154586,EUR,M,IMF,AD,"Andorra, Principality of"
 2026-06-30,0.877654906090925,EUR,M,IMF,AD,"Andorra, Principality of"
+2026-07-31,0.8707009142359599,EUR,M,IMF,AD,"Andorra, Principality of"
 1957-01-31,0.00000002875,AOA,M,IMF,AO,Angola
 1957-02-28,0.00000002875,AOA,M,IMF,AO,Angola
 1957-03-31,0.00000002875,AOA,M,IMF,AO,Angola
@@ -5838,6 +5841,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,370.78,AMD,M,IMF,AM,"Armenia, Republic of"
 2026-05-31,368.18,AMD,M,IMF,AM,"Armenia, Republic of"
 2026-06-30,367.89,AMD,M,IMF,AM,"Armenia, Republic of"
+2026-07-31,366.2,AMD,M,IMF,AM,"Armenia, Republic of"
 1986-01-31,1.79,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
 1986-02-28,1.79,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
 1986-03-31,1.79,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
@@ -7159,6 +7163,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,1.40587656403768,AUD,M,IMF,AU,Australia
 2026-05-31,1.39586823003908,AUD,M,IMF,AU,Australia
 2026-06-30,1.45581598485951,AUD,M,IMF,AU,Australia
+2026-07-31,1.42247510668563,AUD,M,IMF,AU,Australia
 1957-01-31,26.049999999,ATS,M,IMF,AT,Austria
 1957-02-28,26.049999999,ATS,M,IMF,AT,Austria
 1957-03-31,26.049999999,ATS,M,IMF,AT,Austria
@@ -8049,6 +8054,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-03-31,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
 2026-04-30,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
 2026-05-31,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
+2026-06-30,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
 1940-01-31,1.02041,BSD,M,IMF,BS,"Bahamas, The"
 1940-02-29,1.02041,BSD,M,IMF,BS,"Bahamas, The"
 1940-03-31,1.02041,BSD,M,IMF,BS,"Bahamas, The"
@@ -10469,6 +10475,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,122.75,BDT,M,IMF,BD,Bangladesh
 2026-05-31,122.75,BDT,M,IMF,BD,Bangladesh
 2026-06-30,122.85,BDT,M,IMF,BD,Bangladesh
+2026-07-31,123.82,BDT,M,IMF,BD,Bangladesh
 1957-01-31,1.7154,BBD,M,IMF,BB,Barbados
 1957-02-28,1.715799999,BBD,M,IMF,BB,Barbados
 1957-03-31,1.721999999,BBD,M,IMF,BB,Barbados
@@ -13891,6 +13898,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,560.55118783114,XOF,M,IMF,BJ,Benin
 2026-05-31,563.3433527997252,XOF,M,IMF,BJ,Benin
 2026-06-30,575.7038792346849,XOF,M,IMF,BJ,Benin
+2026-07-31,571.1423595994775,XOF,M,IMF,BJ,Benin
 1940-01-31,0.85714,BMD,M,IMF,BM,Bermuda
 1940-02-29,0.85714,BMD,M,IMF,BM,Bermuda
 1940-03-31,0.85714,BMD,M,IMF,BM,Bermuda
@@ -15764,6 +15772,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,95.2417,BTN,M,IMF,BT,Bhutan
 2026-05-31,95.3845,BTN,M,IMF,BT,Bhutan
 2026-06-30,94.5975,BTN,M,IMF,BT,Bhutan
+2026-07-31,95.3706,BTN,M,IMF,BT,Bhutan
 1959-03-31,0.00001188,BOB,M,IMF,BO,Bolivia
 1959-04-30,0.00001188,BOB,M,IMF,BO,Bolivia
 1959-05-31,0.00001188,BOB,M,IMF,BO,Bolivia
@@ -18507,6 +18516,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,4.988,BRL,M,IMF,BR,Brazil
 2026-05-31,5.0563,BRL,M,IMF,BR,Brazil
 2026-06-30,5.176,BRL,M,IMF,BR,Brazil
+2026-07-31,5.0767,BRL,M,IMF,BR,Brazil
 1957-01-31,3.06122000206122,BND,M,IMF,BN,Brunei Darussalam
 1957-02-28,3.06122000206122,BND,M,IMF,BN,Brunei Darussalam
 1957-03-31,3.06122000206122,BND,M,IMF,BN,Brunei Darussalam
@@ -19341,6 +19351,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,1.281,BND,M,IMF,BN,Brunei Darussalam
 2026-05-31,1.2772,BND,M,IMF,BN,Brunei Darussalam
 2026-06-30,1.2943,BND,M,IMF,BN,Brunei Darussalam
+2026-07-31,1.2838,BND,M,IMF,BN,Brunei Darussalam
 1957-01-31,0.001169999999,EUR,M,IMF,BG,Bulgaria
 1957-02-28,0.001169999999,EUR,M,IMF,BG,Bulgaria
 1957-03-31,0.001169999999,EUR,M,IMF,BG,Bulgaria
@@ -20823,6 +20834,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,560.55118783114,XOF,M,IMF,BF,Burkina Faso
 2026-05-31,563.3433527997252,XOF,M,IMF,BF,Burkina Faso
 2026-06-30,575.7038792346849,XOF,M,IMF,BF,Burkina Faso
+2026-07-31,571.1423595994775,XOF,M,IMF,BF,Burkina Faso
 1957-01-31,50,BIF,M,IMF,BI,Burundi
 1957-02-28,50,BIF,M,IMF,BI,Burundi
 1957-03-31,50,BIF,M,IMF,BI,Burundi
@@ -23982,6 +23994,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,560.55118783114,XAF,M,IMF,CM,Cameroon
 2026-05-31,563.3433527997252,XAF,M,IMF,CM,Cameroon
 2026-06-30,575.7038792346849,XAF,M,IMF,CM,Cameroon
+2026-07-31,571.1423595994775,XAF,M,IMF,CM,Cameroon
 1957-01-31,0.95875,CAD,M,IMF,CA,Canada
 1957-02-28,0.9575,CAD,M,IMF,CA,Canada
 1957-03-31,0.9565625,CAD,M,IMF,CA,Canada
@@ -24816,6 +24829,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,1.3624,CAD,M,IMF,CA,Canada
 2026-05-31,1.3798,CAD,M,IMF,CA,Canada
 2026-06-30,1.421,CAD,M,IMF,CA,Canada
+2026-07-31,1.4029,CAD,M,IMF,CA,Canada
 1957-01-31,0.357372596797003,KYD,M,IMF,KY,Cayman Islands
 1957-02-28,0.35746201978819,KYD,M,IMF,KY,Cayman Islands
 1957-03-31,0.358744394747532,KYD,M,IMF,KY,Cayman Islands
@@ -26485,6 +26499,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,560.55118783114,XAF,M,IMF,5X,Central African Economic and Monetary Community (CEMAC)
 2026-05-31,563.3433527997252,XAF,M,IMF,5X,Central African Economic and Monetary Community (CEMAC)
 2026-06-30,575.7038792346849,XAF,M,IMF,5X,Central African Economic and Monetary Community (CEMAC)
+2026-07-31,571.1423595994775,XAF,M,IMF,5X,Central African Economic and Monetary Community (CEMAC)
 1957-01-31,174.999876211486,XAF,M,IMF,CF,Central African Republic
 1957-02-28,174.999876211486,XAF,M,IMF,CF,Central African Republic
 1957-03-31,174.999876211486,XAF,M,IMF,CF,Central African Republic
@@ -27319,6 +27334,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,560.55118783114,XAF,M,IMF,CF,Central African Republic
 2026-05-31,563.3433527997252,XAF,M,IMF,CF,Central African Republic
 2026-06-30,575.7038792346849,XAF,M,IMF,CF,Central African Republic
+2026-07-31,571.1423595994775,XAF,M,IMF,CF,Central African Republic
 1957-01-31,175.000000124642,XAF,M,IMF,TD,Chad
 1957-02-28,175.000000124642,XAF,M,IMF,TD,Chad
 1957-03-31,175.000000124642,XAF,M,IMF,TD,Chad
@@ -28153,6 +28169,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,560.55118783114,XAF,M,IMF,TD,Chad
 2026-05-31,563.3433527997252,XAF,M,IMF,TD,Chad
 2026-06-30,575.7038792346849,XAF,M,IMF,TD,Chad
+2026-07-31,571.1423595994775,XAF,M,IMF,TD,Chad
 1957-01-31,0.000544,CLP,M,IMF,CL,Chile
 1957-02-28,0.000564,CLP,M,IMF,CL,Chile
 1957-03-31,0.000575,CLP,M,IMF,CL,Chile
@@ -28987,6 +29004,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,901.76,CLP,M,IMF,CL,Chile
 2026-05-31,892.89,CLP,M,IMF,CL,Chile
 2026-06-30,922.34,CLP,M,IMF,CL,Chile
+2026-07-31,924.78,CLP,M,IMF,CL,Chile
 1957-01-31,2.461799999,CNY,M,IMF,CN,"China, People's Republic of"
 1957-02-28,2.461799999,CNY,M,IMF,CN,"China, People's Republic of"
 1957-03-31,2.461799999,CNY,M,IMF,CN,"China, People's Republic of"
@@ -29821,6 +29839,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,6.8348,CNY,M,IMF,CN,"China, People's Republic of"
 2026-05-31,6.7685,CNY,M,IMF,CN,"China, People's Republic of"
 2026-06-30,6.7845,CNY,M,IMF,CN,"China, People's Republic of"
+2026-07-31,6.7469,CNY,M,IMF,CN,"China, People's Republic of"
 1957-01-31,2.51,COP,M,IMF,CO,Colombia
 1957-02-28,2.51,COP,M,IMF,CO,Colombia
 1957-03-31,2.51,COP,M,IMF,CO,Colombia
@@ -31483,6 +31502,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,420.413390873355,KMF,M,IMF,KM,"Comoros, Union of the"
 2026-05-31,422.5075145997939,KMF,M,IMF,KM,"Comoros, Union of the"
 2026-06-30,431.7779094260137,KMF,M,IMF,KM,"Comoros, Union of the"
+2026-07-31,428.3567696996082,KMF,M,IMF,KM,"Comoros, Union of the"
 1957-01-31,0.00000000000017,CDF,M,IMF,CD,"Congo, Democratic Republic of the"
 1957-02-28,0.00000000000017,CDF,M,IMF,CD,"Congo, Democratic Republic of the"
 1957-03-31,0.00000000000017,CDF,M,IMF,CD,"Congo, Democratic Republic of the"
@@ -33143,6 +33163,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,560.55118783114,XAF,M,IMF,CG,"Congo, Republic of"
 2026-05-31,563.3433527997252,XAF,M,IMF,CG,"Congo, Republic of"
 2026-06-30,575.7038792346849,XAF,M,IMF,CG,"Congo, Republic of"
+2026-07-31,571.1423595994775,XAF,M,IMF,CG,"Congo, Republic of"
 1957-01-31,5.634999999,CRC,M,IMF,CR,Costa Rica
 1957-02-28,5.634999999,CRC,M,IMF,CR,Costa Rica
 1957-03-31,5.634999999,CRC,M,IMF,CR,Costa Rica
@@ -33977,6 +33998,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,454.6,CRC,M,IMF,CR,Costa Rica
 2026-05-31,456.37,CRC,M,IMF,CR,Costa Rica
 2026-06-30,454.53,CRC,M,IMF,CR,Costa Rica
+2026-07-31,451.375,CRC,M,IMF,CR,Costa Rica
 1992-01-31,0.088193,HRD,M,IMF,HR,"Croatia, Republic of"
 1992-02-29,0.09031,HRD,M,IMF,HR,"Croatia, Republic of"
 1992-03-31,0.110316,HRD,M,IMF,HR,"Croatia, Republic of"
@@ -35847,6 +35869,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,20.813,CZK,M,IMF,CZ,Czech Republic
 2026-05-31,20.851,CZK,M,IMF,CZ,Czech Republic
 2026-06-30,21.287,CZK,M,IMF,CZ,Czech Republic
+2026-07-31,21.076,CZK,M,IMF,CZ,Czech Republic
 1946-12-31,50,CSJ,M,IMF,CSH,Czechoslovakia
 1947-01-31,50,CSJ,M,IMF,CSH,Czechoslovakia
 1947-02-28,50,CSJ,M,IMF,CSH,Czechoslovakia
@@ -36910,6 +36933,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,560.55118783114,XOF,M,IMF,CI,Côte d'Ivoire
 2026-05-31,563.3433527997252,XOF,M,IMF,CI,Côte d'Ivoire
 2026-06-30,575.7038792346849,XOF,M,IMF,CI,Côte d'Ivoire
+2026-07-31,571.1423595994775,XOF,M,IMF,CI,Côte d'Ivoire
 1957-01-31,6.913999999,DKK,M,IMF,DK,Denmark
 1957-02-28,6.913999999,DKK,M,IMF,DK,Denmark
 1957-03-31,6.913999999,DKK,M,IMF,DK,Denmark
@@ -37744,6 +37768,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,6.3849,DKK,M,IMF,DK,Denmark
 2026-05-31,6.418,DKK,M,IMF,DK,Denmark
 2026-06-30,6.5599,DKK,M,IMF,DK,Denmark
+2026-07-31,6.5087,DKK,M,IMF,DK,Denmark
 1957-01-31,214.391999999,DJF,M,IMF,DJ,Djibouti
 1957-02-28,214.391999999,DJF,M,IMF,DJ,Djibouti
 1957-03-31,214.391999999,DJF,M,IMF,DJ,Djibouti
@@ -44381,6 +44406,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,560.55118783114,XAF,M,IMF,GQ,"Equatorial Guinea, Republic of"
 2026-05-31,563.3433527997252,XAF,M,IMF,GQ,"Equatorial Guinea, Republic of"
 2026-06-30,575.7038792346849,XAF,M,IMF,GQ,"Equatorial Guinea, Republic of"
+2026-07-31,571.1423595994775,XAF,M,IMF,GQ,"Equatorial Guinea, Republic of"
 1957-02-28,2.48645210714286,ERN,M,IMF,ER,"Eritrea, The State of"
 1957-03-31,2.48645210714286,ERN,M,IMF,ER,"Eritrea, The State of"
 1957-04-30,2.48645210714286,ERN,M,IMF,ER,"Eritrea, The State of"
@@ -46272,6 +46298,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,16.7813109895771,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 2026-05-31,16.2260483244171,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 2026-06-30,16.3703630946534,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
+2026-07-31,16.5695415373552,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 1957-01-31,2.4845,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
 1957-02-28,2.4845,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
 1957-03-31,2.4845,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
@@ -47427,6 +47454,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,0.8545547769612032,EUR,M,IMF,U2,Euro Area (EA)
 2026-05-31,0.8588114050154586,EUR,M,IMF,U2,Euro Area (EA)
 2026-06-30,0.877654906090925,EUR,M,IMF,U2,Euro Area (EA)
+2026-07-31,0.8707009142359599,EUR,M,IMF,U2,Euro Area (EA)
 1957-01-31,6.913999999,DKK,M,IMF,FO,Faroe Islands
 1957-02-28,6.913999999,DKK,M,IMF,FO,Faroe Islands
 1957-03-31,6.913999999,DKK,M,IMF,FO,Faroe Islands
@@ -49087,6 +49115,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,2.2282,FJD,M,IMF,FJ,"Fiji, Republic of"
 2026-05-31,2.2202,FJD,M,IMF,FJ,"Fiji, Republic of"
 2026-06-30,2.2676,FJD,M,IMF,FJ,"Fiji, Republic of"
+2026-07-31,2.2346,FJD,M,IMF,FJ,"Fiji, Republic of"
 1957-01-31,2.30000000157844,FIM,M,IMF,FI,Finland
 1957-02-28,2.30000000157844,FIM,M,IMF,FI,Finland
 1957-03-31,2.30000000157844,FIM,M,IMF,FI,Finland
@@ -51434,6 +51463,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,101.9754742779012,XPF,M,IMF,PF,French Polynesia
 2026-05-31,102.4834249398832,XPF,M,IMF,PF,French Polynesia
 2026-06-30,104.7320519571704,XPF,M,IMF,PF,French Polynesia
+2026-07-31,103.9022202873313,XPF,M,IMF,PF,French Polynesia
 1957-01-31,174.999876211486,XAF,M,IMF,GA,Gabon
 1957-02-28,174.999876211486,XAF,M,IMF,GA,Gabon
 1957-03-31,174.999876211486,XAF,M,IMF,GA,Gabon
@@ -52268,6 +52298,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,560.55118783114,XAF,M,IMF,GA,Gabon
 2026-05-31,563.3433527997252,XAF,M,IMF,GA,Gabon
 2026-06-30,575.7038792346849,XAF,M,IMF,GA,Gabon
+2026-07-31,571.1423595994775,XAF,M,IMF,GA,Gabon
 1957-01-31,2.39138134830325,GMD,M,IMF,GM,"Gambia, The"
 1957-02-28,2.39078311838979,GMD,M,IMF,GM,"Gambia, The"
 1957-03-31,2.3822369767691,GMD,M,IMF,GM,"Gambia, The"
@@ -53465,6 +53496,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,2.692,GEL,M,IMF,GE,Georgia
 2026-05-31,2.6693,GEL,M,IMF,GE,Georgia
 2026-06-30,2.6453,GEL,M,IMF,GE,Georgia
+2026-07-31,2.6266,GEL,M,IMF,GE,Georgia
 1967-01-31,2.22,DDM,M,IMF,DE2,German Democratic Republic
 1967-02-28,2.22,DDM,M,IMF,DE2,German Democratic Republic
 1967-03-31,2.22,DDM,M,IMF,DE2,German Democratic Republic
@@ -55716,6 +55748,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,0.7392075694855115,GIP,M,IMF,GI,Gibraltar
 2026-05-31,0.7452953232718465,GIP,M,IMF,GI,Gibraltar
 2026-06-30,0.7555438026519587,GIP,M,IMF,GI,Gibraltar
+2026-07-31,0.743853907092647,GIP,M,IMF,GI,Gibraltar
 1957-01-31,29.999999999,GRD,M,IMF,GR,Greece
 1957-02-28,29.999999999,GRD,M,IMF,GR,Greece
 1957-03-31,29.999999999,GRD,M,IMF,GR,Greece
@@ -59145,6 +59178,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,7.638695,GTQ,M,IMF,GT,Guatemala
 2026-05-31,7.61973,GTQ,M,IMF,GT,Guatemala
 2026-06-30,7.61798,GTQ,M,IMF,GT,Guatemala
+2026-07-31,7.62778,GTQ,M,IMF,GT,Guatemala
 1957-01-31,0.357372596797003,GBP,M,IMF,GG,Guernsey
 1957-02-28,0.35746201978819,GBP,M,IMF,GG,Guernsey
 1957-03-31,0.358744394747532,GBP,M,IMF,GG,Guernsey
@@ -59979,6 +60013,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,0.7392075694855115,GBP,M,IMF,GG,Guernsey
 2026-05-31,0.7452953232718465,GBP,M,IMF,GG,Guernsey
 2026-06-30,0.7555438026519587,GBP,M,IMF,GG,Guernsey
+2026-07-31,0.743853907092647,GBP,M,IMF,GG,Guernsey
 1957-01-31,17.5000014389658,GNF,M,IMF,GN,Guinea
 1957-02-28,17.5000014389658,GNF,M,IMF,GN,Guinea
 1957-03-31,17.5000014389658,GNF,M,IMF,GN,Guinea
@@ -61586,6 +61621,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,560.55118783114,XOF,M,IMF,GW,Guinea-Bissau
 2026-05-31,563.3433527997252,XOF,M,IMF,GW,Guinea-Bissau
 2026-06-30,575.7038792346849,XOF,M,IMF,GW,Guinea-Bissau
+2026-07-31,571.1423595994775,XOF,M,IMF,GW,Guinea-Bissau
 1957-01-31,1.71538846426824,GYD,M,IMF,GY,Guyana
 1957-02-28,1.71581769462585,GYD,M,IMF,GY,Guyana
 1957-03-31,1.72197309442941,GYD,M,IMF,GY,Guyana
@@ -65620,6 +65656,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,313.36,HUF,M,IMF,HU,Hungary
 2026-05-31,304.86,HUF,M,IMF,HU,Hungary
 2026-06-30,311.61,HUF,M,IMF,HU,Hungary
+2026-07-31,314.99,HUF,M,IMF,HU,Hungary
 1940-01-31,1,XDR,M,IMF,XDR,IMF Special Drawing Rights
 1940-02-29,1,XDR,M,IMF,XDR,IMF Special Drawing Rights
 1940-03-31,1,XDR,M,IMF,XDR,IMF Special Drawing Rights
@@ -66658,6 +66695,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,0.7288539999999998,XDR,M,IMF,XDR,IMF Special Drawing Rights
 2026-05-31,0.7305919999999999,XDR,M,IMF,XDR,IMF Special Drawing Rights
 2026-06-30,0.7374069999999999,XDR,M,IMF,XDR,IMF Special Drawing Rights
+2026-07-31,0.7333109999999998,XDR,M,IMF,XDR,IMF Special Drawing Rights
 1957-01-31,0.16319999993873,ISK,M,IMF,IS,Iceland
 1957-02-28,0.16319999993873,ISK,M,IMF,IS,Iceland
 1957-03-31,0.16319999993873,ISK,M,IMF,IS,Iceland
@@ -67492,6 +67530,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,123.06,ISK,M,IMF,IS,Iceland
 2026-05-31,123.15,ISK,M,IMF,IS,Iceland
 2026-06-30,126.38,ISK,M,IMF,IS,Iceland
+2026-07-31,124.16,ISK,M,IMF,IS,Iceland
 1957-01-31,4.78499999841288,INR,M,IMF,IN,India
 1957-02-28,4.78499999841288,INR,M,IMF,IN,India
 1957-03-31,4.79999999841104,INR,M,IMF,IN,India
@@ -68326,6 +68365,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,95.2417,INR,M,IMF,IN,India
 2026-05-31,95.3845,INR,M,IMF,IN,India
 2026-06-30,94.5975,INR,M,IMF,IN,India
+2026-07-31,95.3706,INR,M,IMF,IN,India
 1967-01-31,137,IDR,M,IMF,ID,Indonesia
 1967-02-28,137,IDR,M,IMF,ID,Indonesia
 1967-03-31,137,IDR,M,IMF,ID,Indonesia
@@ -69040,797 +69080,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,17324,IDR,M,IMF,ID,Indonesia
 2026-05-31,17789,IDR,M,IMF,ID,Indonesia
 2026-06-30,17856,IDR,M,IMF,ID,Indonesia
-1957-01-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1957-02-28,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1957-03-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1957-04-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1957-05-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1957-06-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1957-07-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1957-08-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1957-09-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1957-10-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1957-11-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1957-12-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1958-01-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1958-02-28,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1958-03-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1958-04-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1958-05-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1958-06-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1958-07-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1958-08-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1958-09-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1958-10-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1958-11-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1958-12-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1959-01-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1959-02-28,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1959-03-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1959-04-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1959-05-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1959-06-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1959-07-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1959-08-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1959-09-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1959-10-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1959-11-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1959-12-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1960-01-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1960-02-29,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1960-03-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1960-04-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1960-05-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1960-06-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1960-07-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1960-08-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1960-09-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1960-10-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1960-11-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1960-12-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1961-01-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1961-02-28,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1961-03-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1961-04-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1961-05-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1961-06-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1961-07-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1961-08-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1961-09-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1961-10-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1961-11-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1961-12-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1962-01-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1962-02-28,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1962-03-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1962-04-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1962-05-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1962-06-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1962-07-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1962-08-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1962-09-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1962-10-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1962-11-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1962-12-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1963-01-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1963-02-28,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1963-03-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1963-04-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1963-05-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1963-06-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1963-07-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1963-08-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1963-09-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1963-10-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1963-11-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1963-12-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1964-01-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1964-02-29,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1964-03-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1964-04-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1964-05-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1964-06-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1964-07-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1964-08-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1964-09-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1964-10-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1964-11-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1964-12-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1965-01-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1965-02-28,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1965-03-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1965-04-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1965-05-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1965-06-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1965-07-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1965-08-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1965-09-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1965-10-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1965-11-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1965-12-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1966-01-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1966-02-28,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1966-03-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1966-04-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1966-05-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1966-06-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1966-07-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1966-08-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1966-09-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1966-10-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1966-11-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1966-12-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1967-01-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1967-02-28,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1967-03-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1967-04-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1967-05-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1967-06-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1967-07-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1967-08-31,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1967-09-30,75.75,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1967-10-31,75.25,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1967-11-30,75.25,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1967-12-31,75.25,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1968-01-31,75.25,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1968-02-29,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1968-03-31,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1968-04-30,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1968-05-31,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1968-06-30,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1968-07-31,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1968-08-31,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1968-09-30,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1968-10-31,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1968-11-30,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1968-12-31,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1969-01-31,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1969-02-28,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1969-03-31,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1969-04-30,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1969-05-31,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1969-06-30,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1969-07-31,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1969-08-31,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1969-09-30,75.089999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1969-10-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1969-11-30,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1969-12-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1970-01-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1970-02-28,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1970-03-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1970-04-30,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1970-05-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1970-06-30,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1970-07-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1970-08-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1970-09-30,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1970-10-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1970-11-30,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1970-12-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1971-01-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1971-02-28,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1971-03-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1971-04-30,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1971-05-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1971-06-30,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1971-07-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1971-08-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1971-09-30,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1971-10-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1971-11-30,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1971-12-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1972-01-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1972-02-29,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1972-03-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1972-04-30,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1972-05-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1972-06-30,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1972-07-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1972-08-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1972-09-30,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1972-10-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1972-11-30,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1972-12-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1973-01-31,76.379999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1973-02-28,68.719999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1973-03-31,68.719999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1973-04-30,68.719999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1973-05-31,68.719999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1973-06-30,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1973-07-31,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1973-08-31,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1973-09-30,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1973-10-31,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1973-11-30,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1973-12-31,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1974-01-31,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1974-02-28,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1974-03-31,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1974-04-30,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1974-05-31,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1974-06-30,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1974-07-31,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1974-08-31,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1974-09-30,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1974-10-31,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1974-11-30,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1974-12-31,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1975-01-31,67.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1975-02-28,66.640999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1975-03-31,66.640999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1975-04-30,66.640999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1975-05-31,66.640999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1975-06-30,66.640999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1975-07-31,67.375,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1975-08-31,67.875,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1975-09-30,69.274999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1975-10-31,69.274999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1975-11-30,69.274999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1975-12-31,69.274999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1976-01-31,69.274999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1976-02-29,69.274999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1976-03-31,69.825,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1976-04-30,70.125,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1976-05-31,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1976-06-30,70.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1976-07-31,70.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1976-08-31,70.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1976-09-30,70.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1976-10-31,70.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1976-11-30,70.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1976-12-31,70.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1977-01-31,70.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1977-02-28,70.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1977-03-31,70.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1977-04-30,70.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1977-05-31,70.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1977-06-30,70.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1977-07-31,70.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1977-08-31,70.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1977-09-30,70.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1977-10-31,70.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1977-11-30,70.625,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1977-12-31,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1978-01-31,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1978-02-28,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1978-03-31,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1978-04-30,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1978-05-31,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1978-06-30,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1978-07-31,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1978-08-31,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1978-09-30,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1978-10-31,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1978-11-30,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1978-12-31,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1979-01-31,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1979-02-28,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1979-03-31,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1979-04-30,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1979-05-31,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1979-06-30,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1979-07-31,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1979-08-31,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1979-09-30,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1979-10-31,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1979-11-30,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1979-12-31,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1980-01-31,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1980-02-29,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1980-03-31,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1980-04-30,70.474999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1980-05-31,70.358,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1980-06-30,69.877999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1980-07-31,69.867999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1980-08-31,70.305999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1980-09-30,70.356999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1980-10-31,71.316999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1980-11-30,72.294999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1980-12-31,72.315999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1981-01-31,74.184999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1981-02-28,75.452999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1981-03-31,75.399,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1981-04-30,76.854,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1981-05-31,78.878999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1981-06-30,80.29,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1981-07-31,81.742999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1981-08-31,81.728999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1981-09-30,80.455,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1981-10-31,80.177999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1981-11-30,78.600999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1981-12-31,79.45,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1982-01-31,80.411999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1982-02-28,81.906999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1982-03-31,82.899,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1982-04-30,81.989,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1982-05-31,82.109999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1982-06-30,84.787999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1982-07-31,84.518,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1982-08-31,84.455,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1982-09-30,86.029,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1982-10-31,86.881,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1982-11-30,85.512,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1982-12-31,83.433,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1983-01-31,84.706999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1983-02-28,84.548999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1983-03-31,85.707999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1983-04-30,85.333999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1983-05-31,85.571999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1983-06-30,86.336999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1983-07-31,87.435999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1983-08-31,88.160999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1983-09-30,87.310999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1983-10-31,87.003999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1983-11-30,88.172,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1983-12-31,88.160999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1984-01-31,89.229999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1984-02-29,87.010999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1984-03-31,86.853,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1984-04-30,87.905999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1984-05-31,88.616999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1984-06-30,89.507,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1984-07-31,91.108,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1984-08-31,90.723,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1984-09-30,92.391999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1984-10-31,92.890999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1984-11-30,93.103,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1984-12-31,93.992999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1985-01-31,94.646,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1985-02-28,96.185999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1985-03-31,93.112999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1985-04-30,94.184,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1985-05-31,93.219,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1985-06-30,92.458999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1985-07-31,89.43,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1985-08-31,89.148,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1985-09-30,87.192999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1985-10-31,86.098,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1985-11-30,84.754999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1985-12-31,84.228,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1986-01-31,83.154,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1986-02-28,80.155,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1986-03-31,81.149,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1986-04-30,78.274,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1986-05-31,79.794999999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1986-06-30,78.799,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1986-07-31,77.154,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1986-08-31,76.478,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1986-09-30,76.244,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1986-10-31,76.872,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1986-11-30,76.462,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1986-12-31,75.644,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1987-01-31,72.815,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1987-02-28,73.011,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1987-03-31,71.792,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1987-04-30,70.999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1987-05-31,71.741,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1987-06-30,72.195,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1987-07-31,72.881,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1987-08-31,71.654,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1987-09-30,72.18,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1987-10-31,69.867,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1987-11-30,68.149,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1987-12-31,65.622,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1988-01-31,67.549,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1988-02-29,67.829,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1988-03-31,66.833,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1988-04-30,66.683,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1988-05-31,67.309,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1988-06-30,70.437,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1988-07-31,71.193,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1988-08-31,71.381,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1988-09-30,71.484,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1988-10-31,69.003,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1988-11-30,67.497,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1988-12-31,68.589,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1989-01-31,70.523,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1989-02-28,69.489,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1989-03-31,71.456,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1989-04-30,71.238,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1989-05-31,73.51,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1989-06-30,74.034,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1989-07-31,72.049,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1989-08-31,73.554,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1989-09-30,72.12,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1989-10-31,72.19,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1989-11-30,71.652,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1989-12-31,70.235,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1990-01-31,69.543,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1990-02-28,70.069,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1990-03-31,71.413,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1990-04-30,70.888,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1990-05-31,69.817,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1990-06-30,69.719,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1990-07-31,68.004,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1990-08-31,66.297,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1990-09-30,66.281,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1990-10-31,64.449,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1990-11-30,63.703,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1990-12-31,65.307,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1991-01-31,64.333,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1991-02-28,65.029,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1991-03-31,68.557,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1991-04-30,69.566,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1991-05-31,68.306,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1991-06-30,70.216,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1991-07-31,69.173,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1991-08-31,69.287,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1991-09-30,67.948,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1991-10-31,68.265,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1991-11-30,66.503,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1991-12-31,64.591,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1992-01-31,65.686,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1992-02-29,66.84,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1992-03-31,67.363,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1992-04-30,67.299,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1992-05-31,66.102,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1992-06-30,64.26,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1992-07-31,63.823,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1992-08-31,62.42,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1992-09-30,63.012,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1992-10-31,65.65,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1992-11-30,66.934,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1992-12-31,67.039,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1993-01-31,66.793,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1993-02-28,67.074,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1993-03-31,1540,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1993-04-30,1644,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1993-05-31,1624.006,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1993-06-30,1612,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1993-07-31,1584,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1993-08-31,1584,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1993-09-30,1584,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1993-10-31,1584,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1993-11-30,1720.4897,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1993-12-31,1758.563,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1994-01-31,1750.8043,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1994-02-28,1744.4915,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1994-03-31,1745.4659,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1994-04-30,1738.92,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1994-05-31,1746.3151,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1994-06-30,1751.6945,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1994-07-31,1763.4828,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1994-08-31,1751.3065,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1994-09-30,1748.7755,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1994-10-31,1757.1056,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1994-11-30,1752.0011,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1994-12-31,1735.9696,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1995-01-31,1747.0424,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1995-02-28,1750.6805,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1995-03-31,1743.7552,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1995-04-30,1750.6023,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1995-05-31,1747.1366,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1995-06-30,1744.6709,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1995-07-31,1742.2252,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1995-08-31,1737.3248,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1995-09-30,1733.0315,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1995-10-31,1751.1157,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1995-11-30,1749.5609,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1995-12-31,1747.4991,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1996-01-31,1750.4701,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1996-02-29,1753.173,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1996-03-31,1743.6987,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1996-04-30,1751.4999,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1996-05-31,1743.4803,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1996-06-30,1749.463,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1996-07-31,1747.3696,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1996-08-31,1753.5228,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1996-09-30,1760.3353,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1996-10-31,1749.86,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1996-11-30,1756.7942,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1996-12-31,1749.1377,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1997-01-31,1746.0098,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1997-02-28,1757.4768,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1997-03-31,1746.9662,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1997-04-30,1750.3314,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1997-05-31,1752.3262,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1997-06-30,1757.2723,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1997-07-31,1746.9049,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1997-08-31,1748.6982,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1997-09-30,1753.9353,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1997-10-31,1745.8912,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1997-11-30,1755.0447,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1997-12-31,1754.2635,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1998-01-31,1766.7539,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1998-02-28,1753.0199,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1998-03-31,1757.9441,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1998-04-30,1751.4814,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1998-05-31,1761.7646,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1998-06-30,1749.0349,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1998-07-31,1749.6779,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1998-08-31,1736.1685,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1998-09-30,1758.3496,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1998-10-31,1751.6526,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1998-11-30,1760.1672,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1998-12-31,1750.9286,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1999-01-31,1764.38,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1999-02-28,1753.3516,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1999-03-31,1754.5697,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1999-04-30,1750.9735,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1999-05-31,1756.2595,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1999-06-30,1754.4521,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1999-07-31,1741.9386,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1999-08-31,1741.46263,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1999-09-30,1742.7379,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1999-10-31,1758.848,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1999-11-30,1756.73722,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-1999-12-31,1752.29324,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2000-01-31,1760.89528,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2000-02-29,1752.17281,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2000-03-31,1747.80046,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2000-04-30,1763.0779,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2000-05-31,1758.72335,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2000-06-30,1741.60984,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2000-07-31,1758.72335,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2000-08-31,1748.96,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2000-09-30,1749.73,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2000-10-31,1760.67669,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2000-11-30,1744.25035,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2000-12-31,2262.93,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2001-01-31,1753.19359,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2001-02-28,1748.92277,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2001-03-31,1762.77188,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2001-04-30,1750.19642,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2001-05-31,1754.74074,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2001-06-30,1762.44812,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2001-07-31,1750.81819,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2001-08-31,1747.52653,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2001-09-30,1758.5918,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2001-10-31,1753.60445,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2001-11-30,1747.86284,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2001-12-31,1750.94919,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2002-01-31,1755.1886,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2002-02-28,1751.38998,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2002-03-31,7934.848133,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2002-04-30,7938.650205,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2002-05-31,7925.02522,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2002-06-30,7894.41374,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2002-07-31,7945.14154,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2002-08-31,7904.4769,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2002-09-30,7925.80391,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2002-10-31,7967.13628,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2002-11-30,7977.03,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2002-12-31,7951.97912,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2003-01-31,7979.34203,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2003-02-28,8000.55721,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2003-03-31,8078.75353,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2003-04-30,8104.44261,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2003-05-31,8113.43441,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2003-06-30,8198.5657,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2003-07-31,8289.37988,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2003-08-31,8326.42175,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2003-09-30,8241.87906,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2003-10-31,8384.15932,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2003-11-30,8308.90221,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2003-12-31,8272.11064,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2004-01-31,8386.15078,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2004-02-29,8471.81423,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2004-03-31,8485.33843,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2004-04-30,8555.04032,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2004-05-31,8526.20271,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2004-06-30,8652.94666,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2004-07-31,8664.29864,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2004-08-31,8719.29614,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2004-09-30,8751.99659,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2004-10-31,8768,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2004-11-30,8789,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2004-12-31,8793,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2005-01-31,8833,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2005-02-28,8854,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2005-03-31,8877,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2005-04-30,8903,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2005-05-31,8962,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2005-06-30,8985,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2005-07-31,8997,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2005-08-31,9009,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2005-09-30,9035,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2005-10-31,9061,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2005-11-30,9077,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2005-12-31,9091,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2006-01-31,9112,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2006-02-28,9131,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2006-03-31,9143,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2006-04-30,9149,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2006-05-31,9159,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2006-06-30,9178,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2006-07-31,9184,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2006-08-31,9185,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2006-09-30,9208,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2006-10-31,9216,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2006-11-30,9216,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2006-12-31,9223,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2007-01-31,9229,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2007-02-28,9239,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2007-03-31,9243,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2007-04-30,9250,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2007-05-31,9263,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2007-06-30,9277,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2007-07-31,9292,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2007-08-31,9310,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2007-09-30,9322,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2007-10-31,9326,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2007-11-30,9302,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2007-12-31,9282,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2008-01-31,9231,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2008-02-29,9207,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2008-03-31,8976,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2008-04-30,9136.5,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2008-05-31,9238,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2008-06-30,9148,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2008-07-31,9279,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2008-08-31,9563,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2008-09-30,9703,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2008-10-31,10009,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2008-11-30,10090,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2008-12-31,9825,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2009-01-31,9670,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2009-02-28,9310,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2009-03-31,9924,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2009-04-30,9791.5,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2009-05-31,9657,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2009-06-30,9929,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2009-07-31,9963,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2009-08-31,9925,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2009-09-30,9899,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2009-10-31,9948,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2009-11-30,9914,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2009-12-31,9984,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2010-01-31,10008,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2010-02-28,10038,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2010-03-31,10012,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2010-04-30,10075,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2010-05-31,10405,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2010-06-30,10483,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2010-07-31,10385,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2010-08-31,10464,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2010-09-30,10198,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2010-10-31,10407,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2010-11-30,10399,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2010-12-31,10353,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2011-01-31,10352,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2011-02-28,10304,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2011-03-31,10400,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2011-04-30,10441,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2011-05-31,10579,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2011-06-30,10671,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2011-07-31,10391,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2011-08-31,10580,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2011-09-30,10740,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2011-10-31,10770,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2011-11-30,10855,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2011-12-31,11165,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2012-01-31,12260,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2012-02-29,12260,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2012-03-31,12260,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2012-04-30,12260,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2012-05-31,12204.5,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2012-06-30,12260,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2012-07-31,12260,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2012-08-31,12260,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2012-09-30,12260,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2012-10-31,12260,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2012-11-30,12260,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2012-12-31,12260,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2013-01-31,12260,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2013-02-28,12260,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2013-03-31,12260,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2013-04-30,12260,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2013-05-31,12260,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2013-06-30,12260,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2013-07-31,24788,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2013-08-31,24807,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2013-09-30,24812,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2013-10-31,24919,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2013-11-30,24815,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2013-12-31,24774,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2014-01-31,24866,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2014-02-28,24898,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2014-03-31,25444,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2014-04-30,25403,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2014-05-31,25580,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2014-06-30,25651,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2014-07-31,26303,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2014-08-31,26601,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2014-09-30,26668,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2014-10-31,26706,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2014-11-30,26816,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2014-12-31,27138,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2015-01-31,27530,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2015-02-28,27708,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2015-03-31,28085,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2015-04-30,28241,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2015-05-31,28829,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2015-06-30,29319,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2015-07-31,29600,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2015-08-31,29958,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2015-09-30,29956,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2015-10-31,29960,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2015-11-30,30086,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2015-12-31,30130,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2016-01-31,30183,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2016-02-29,30197,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2016-03-31,30260,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2016-04-30,30310,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2016-05-31,30460,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2016-06-30,30700,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2016-07-31,30952,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2016-08-31,31253,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2016-09-30,31460,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2016-10-31,31778,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2016-11-30,32091,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2016-12-31,32376,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2017-01-31,32366,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2017-02-28,32403,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2017-03-31,32422,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2017-04-30,32293,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2017-05-31,32450,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2017-06-30,32489,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2017-07-31,32735,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2019-01-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2019-02-28,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2019-03-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2019-04-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2019-05-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2019-06-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2019-07-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2019-08-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2019-09-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2019-10-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2019-11-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2019-12-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2020-01-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2020-02-29,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2020-03-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2020-04-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2020-05-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2020-06-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2020-07-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2020-08-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2020-09-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2020-10-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2020-11-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2020-12-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2021-01-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2021-02-28,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2021-03-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2021-04-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2021-05-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2021-06-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2021-07-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2021-08-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2021-09-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2021-10-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2021-11-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2021-12-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2022-01-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2022-02-28,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2022-03-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2022-04-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2022-05-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2022-06-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2022-07-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2022-08-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2022-09-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2022-10-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2022-11-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2022-12-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2023-01-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2023-02-28,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2023-03-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2023-04-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2023-05-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2023-06-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2023-07-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2023-08-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2023-09-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2023-10-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2023-11-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2023-12-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2024-01-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2024-02-29,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2024-03-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
-2024-04-30,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
+2026-07-31,18078,IDR,M,IMF,ID,Indonesia
 2024-05-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
 1957-01-31,2236.02900848989,IQD,M,IMF,IQ,Iraq
 1957-02-28,2236.02900848989,IQD,M,IMF,IQ,Iraq
@@ -71994,6 +71244,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,0.7392075694855115,GBP,M,IMF,IM,Isle of Man
 2026-05-31,0.7452953232718465,GBP,M,IMF,IM,Isle of Man
 2026-06-30,0.7555438026519587,GBP,M,IMF,IM,Isle of Man
+2026-07-31,0.743853907092647,GBP,M,IMF,IM,Isle of Man
 1957-01-31,0.00017980592987098,ILS,M,IMF,IL,Israel
 1957-02-28,0.00017980592987098,ILS,M,IMF,IL,Israel
 1957-03-31,0.00017980592987098,ILS,M,IMF,IL,Israel
@@ -72828,6 +72079,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,2.951,ILS,M,IMF,IL,Israel
 2026-05-31,2.834,ILS,M,IMF,IL,Israel
 2026-06-30,2.978,ILS,M,IMF,IL,Israel
+2026-07-31,3.057,ILS,M,IMF,IL,Israel
 1957-01-31,624.929999999,ITL,M,IMF,IT,Italy
 1957-02-28,624.920000001,ITL,M,IMF,IT,Italy
 1957-03-31,624.869999997,ITL,M,IMF,IT,Italy
@@ -75000,6 +74252,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,160.27,JPY,M,IMF,JP,Japan
 2026-05-31,159.3,JPY,M,IMF,JP,Japan
 2026-06-30,162.2,JPY,M,IMF,JP,Japan
+2026-07-31,160.64,JPY,M,IMF,JP,Japan
 1957-01-31,0.357372596797003,GBP,M,IMF,JE,Jersey
 1957-02-28,0.35746201978819,GBP,M,IMF,JE,Jersey
 1957-03-31,0.358744394747532,GBP,M,IMF,JE,Jersey
@@ -75834,6 +75087,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,0.7392075694855115,GBP,M,IMF,JE,Jersey
 2026-05-31,0.7452953232718465,GBP,M,IMF,JE,Jersey
 2026-06-30,0.7555438026519587,GBP,M,IMF,JE,Jersey
+2026-07-31,0.743853907092647,GBP,M,IMF,JE,Jersey
 1957-01-31,0.357142857270408,JOD,M,IMF,JO,Jordan
 1957-02-28,0.357142857270408,JOD,M,IMF,JO,Jordan
 1957-03-31,0.357142857270408,JOD,M,IMF,JO,Jordan
@@ -77061,6 +76315,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,462.91,KZT,M,IMF,KZ,"Kazakhstan, Republic of"
 2026-05-31,485.95,KZT,M,IMF,KZ,"Kazakhstan, Republic of"
 2026-06-30,480.72,KZT,M,IMF,KZ,"Kazakhstan, Republic of"
+2026-07-31,473.59,KZT,M,IMF,KZ,"Kazakhstan, Republic of"
 1957-01-31,7.1429,KES,M,IMF,KE,Kenya
 1957-02-28,7.1429,KES,M,IMF,KE,Kenya
 1957-03-31,7.1429,KES,M,IMF,KE,Kenya
@@ -78729,6 +77984,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,1.40587656403768,AUD,M,IMF,KI,Kiribati
 2026-05-31,1.39586823003908,AUD,M,IMF,KI,Kiribati
 2026-06-30,1.45581598485951,AUD,M,IMF,KI,Kiribati
+2026-07-31,1.42247510668563,AUD,M,IMF,KI,Kiribati
 1957-01-31,50,KRW,M,IMF,KR,"Korea, Republic of"
 1957-02-28,50,KRW,M,IMF,KR,"Korea, Republic of"
 1957-03-31,50,KRW,M,IMF,KR,"Korea, Republic of"
@@ -79563,6 +78819,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,1476.1,KRW,M,IMF,KR,"Korea, Republic of"
 2026-05-31,1505.8,KRW,M,IMF,KR,"Korea, Republic of"
 2026-06-30,1541.5,KRW,M,IMF,KR,"Korea, Republic of"
+2026-07-31,1441.1,KRW,M,IMF,KR,"Korea, Republic of"
 2002-01-31,1.157809424568716,EUR,M,IMF,XK,"Kosovo, Republic of"
 2002-02-28,1.155935729973413,EUR,M,IMF,XK,"Kosovo, Republic of"
 2002-03-31,1.146263182026593,EUR,M,IMF,XK,"Kosovo, Republic of"
@@ -79857,6 +79114,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,0.8545547769612032,EUR,M,IMF,XK,"Kosovo, Republic of"
 2026-05-31,0.8588114050154586,EUR,M,IMF,XK,"Kosovo, Republic of"
 2026-06-30,0.877654906090925,EUR,M,IMF,XK,"Kosovo, Republic of"
+2026-07-31,0.8707009142359599,EUR,M,IMF,XK,"Kosovo, Republic of"
 1957-01-31,0.357142857142857,KWD,M,IMF,KW,Kuwait
 1957-02-28,0.357142857142857,KWD,M,IMF,KW,Kuwait
 1957-03-31,0.357142857142857,KWD,M,IMF,KW,Kuwait
@@ -80683,6 +79941,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,0.30675,KWD,M,IMF,KW,Kuwait
 2026-05-31,0.3068,KWD,M,IMF,KW,Kuwait
 2026-06-30,0.3079,KWD,M,IMF,KW,Kuwait
+2026-07-31,0.3077,KWD,M,IMF,KW,Kuwait
 1993-05-31,3.8,KGS,M,IMF,KG,Kyrgyz Republic
 1993-06-30,4.35,KGS,M,IMF,KG,Kyrgyz Republic
 1993-07-31,4.9,KGS,M,IMF,KG,Kyrgyz Republic
@@ -81889,6 +81148,17 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-05-31,20405,LAK,M,IMF,LA,Lao People's Democratic Republic
 2025-06-30,20357,LAK,M,IMF,LA,Lao People's Democratic Republic
 2025-07-31,20385,LAK,M,IMF,LA,Lao People's Democratic Republic
+2025-08-31,20458,LAK,M,IMF,LA,Lao People's Democratic Republic
+2025-09-30,20445,LAK,M,IMF,LA,Lao People's Democratic Republic
+2025-10-31,20473,LAK,M,IMF,LA,Lao People's Democratic Republic
+2025-11-30,20465,LAK,M,IMF,LA,Lao People's Democratic Republic
+2025-12-31,20390,LAK,M,IMF,LA,Lao People's Democratic Republic
+2026-01-31,20288,LAK,M,IMF,LA,Lao People's Democratic Republic
+2026-02-28,20217,LAK,M,IMF,LA,Lao People's Democratic Republic
+2026-03-31,20827,LAK,M,IMF,LA,Lao People's Democratic Republic
+2026-04-30,21871,LAK,M,IMF,LA,Lao People's Democratic Republic
+2026-05-31,21817,LAK,M,IMF,LA,Lao People's Democratic Republic
+2026-06-30,22323,LAK,M,IMF,LA,Lao People's Democratic Republic
 1992-02-29,0.5,LVL,M,IMF,LV,"Latvia, Republic of"
 1992-03-31,0.575,LVL,M,IMF,LV,"Latvia, Republic of"
 1992-04-30,0.625,LVL,M,IMF,LV,"Latvia, Republic of"
@@ -83817,6 +83087,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,16.7813109895771,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 2026-05-31,16.2260483244171,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 2026-06-30,16.3703630946534,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
+2026-07-31,16.5695415373552,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 1957-01-31,43.2590098577311,LRD,M,IMF,LR,Liberia
 1957-02-28,43.2590098577311,LRD,M,IMF,LR,Liberia
 1957-03-31,43.2590098577311,LRD,M,IMF,LR,Liberia
@@ -86307,6 +85578,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,0.7898,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 2026-05-31,0.7845,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 2026-06-30,0.8095,CHF,M,IMF,LI,"Liechtenstein, Principality of"
+2026-07-31,0.809,CHF,M,IMF,LI,"Liechtenstein, Principality of"
 1992-01-31,1.225,LTL,M,IMF,LT,"Lithuania, Republic of"
 1992-02-29,0.778,LTL,M,IMF,LT,"Lithuania, Republic of"
 1992-03-31,1.25,LTL,M,IMF,LT,"Lithuania, Republic of"
@@ -87790,6 +87062,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,8.071,MOP,M,IMF,MO,"Macao Special Administrative Region, People's Republic of China"
 2026-05-31,8.0688,MOP,M,IMF,MO,"Macao Special Administrative Region, People's Republic of China"
 2026-06-30,8.0771,MOP,M,IMF,MO,"Macao Special Administrative Region, People's Republic of China"
+2026-07-31,8.0791,MOP,M,IMF,MO,"Macao Special Administrative Region, People's Republic of China"
 1957-01-31,35,MGA,M,IMF,MG,"Madagascar, Republic of"
 1957-02-28,35,MGA,M,IMF,MG,"Madagascar, Republic of"
 1957-03-31,35,MGA,M,IMF,MG,"Madagascar, Republic of"
@@ -90265,6 +89538,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,3.9705,MYR,M,IMF,MY,Malaysia
 2026-05-31,3.9655,MYR,M,IMF,MY,Malaysia
 2026-06-30,4.07,MYR,M,IMF,MY,Malaysia
+2026-07-31,4.09,MYR,M,IMF,MY,Malaysia
 1957-01-31,4.772999999,MVR,M,IMF,MV,Maldives
 1957-02-28,4.772999999,MVR,M,IMF,MV,Maldives
 1957-03-31,4.772999999,MVR,M,IMF,MV,Maldives
@@ -91932,6 +91206,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,560.55118783114,XOF,M,IMF,ML,Mali
 2026-05-31,563.3433527997252,XOF,M,IMF,ML,Mali
 2026-06-30,575.7038792346849,XOF,M,IMF,ML,Mali
+2026-07-31,571.1423595994775,XOF,M,IMF,ML,Mali
 1957-01-31,0.357142857270408,MTL,M,IMF,MT,Malta
 1957-02-28,0.357142857270408,MTL,M,IMF,MT,Malta
 1957-03-31,0.357142857270408,MTL,M,IMF,MT,Malta
@@ -93049,783 +92324,6 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 1998-11-30,5.7023,FRF,M,IMF,MQ,Martinique
 1998-12-31,5.6221,FRF,M,IMF,MQ,Martinique
 1999-01-31,5.7621,FRF,M,IMF,MQ,Martinique
-1957-01-31,3.5,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1957-02-28,3.5,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1957-03-31,3.5,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1957-04-30,3.5,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1957-05-31,3.5,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1957-06-30,3.5,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1957-07-31,3.5,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1957-08-31,3.5,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1957-09-30,3.5,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1957-10-31,3.5,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1957-11-30,4.19899999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1957-12-31,4.19899999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1958-01-31,4.2,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1958-02-28,4.2,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1958-03-31,4.2,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1958-04-30,4.2,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1958-05-31,4.2,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1958-06-30,4.2,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1958-07-31,4.19099999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1958-08-31,4.19199999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1958-09-30,4.19399999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1958-10-31,4.195,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1958-11-30,4.19699999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1958-12-31,4.90599999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1959-01-31,4.90299999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1959-02-28,4.90399999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1959-03-31,4.90199999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1959-04-30,4.90299999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1959-05-31,4.90199999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1959-06-30,4.90199999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1959-07-31,4.90399999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1959-08-31,4.90299999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1959-09-30,4.91,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1959-10-31,4.90799999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1959-11-30,4.90399999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1959-12-31,4.90899999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1960-01-31,4.92,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1960-02-29,4.9083,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1960-03-31,4.906,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1960-04-30,4.9033,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1960-05-31,4.9002,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1960-06-30,4.9014,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1960-07-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1960-08-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1960-09-30,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1960-10-31,4.9015,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1960-11-30,4.9005,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1960-12-31,4.9026,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1961-01-31,4.9011,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1961-02-28,4.9013,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1961-03-31,4.9038,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1961-04-30,4.9035,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1961-05-31,4.9025,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1961-06-30,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1961-07-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1961-08-31,4.9158,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1961-09-30,4.9153,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1961-10-31,4.9158,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1961-11-30,4.9053,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1961-12-31,4.9013,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1962-01-31,4.9025,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1962-02-28,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1962-03-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1962-04-30,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1962-05-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1962-06-30,4.9003,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1962-07-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1962-08-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1962-09-30,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1962-10-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1962-11-30,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1962-12-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1963-01-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1963-02-28,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1963-03-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1963-04-30,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1963-05-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1963-06-30,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1963-07-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1963-08-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1963-09-30,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1963-10-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1963-11-30,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1963-12-31,4.901999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1964-01-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1964-02-29,4.9025,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1964-03-31,4.9005,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1964-04-30,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1964-05-31,4.9003,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1964-06-30,4.9004,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1964-07-31,4.9005,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1964-08-31,4.9004,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1964-09-30,4.9004,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1964-10-31,4.9003,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1964-11-30,4.9003,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1964-12-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1965-01-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1965-02-28,4.901,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1965-03-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1965-04-30,4.9038,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1965-05-31,4.9001,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1965-06-30,4.9004,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1965-07-31,4.901,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1965-08-31,4.900999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1965-09-30,4.904999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1965-10-31,4.9025,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1965-11-30,4.9006,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1965-12-31,4.9015,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1966-01-31,4.902999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1966-02-28,4.9075,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1966-03-31,4.9005,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1966-04-30,4.9005,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1966-05-31,4.9015,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1966-06-30,4.9005,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1966-07-31,4.9003,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1966-08-31,4.9076,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1966-09-30,4.9328,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1966-10-31,4.9423,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1966-11-30,4.9463,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1966-12-31,4.9518,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1967-01-31,4.9535,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1967-02-28,4.9508,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1967-03-31,4.9503,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1967-04-30,4.9336,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1967-05-31,4.912999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1967-06-30,4.901999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1967-07-31,4.9026,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1967-08-31,4.9048,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1967-09-30,4.9045,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1967-10-31,4.9018,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1967-11-30,4.9053,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1967-12-31,4.9085,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1968-01-31,4.9174,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1968-02-29,4.9236,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1968-03-31,4.9199,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1968-04-30,4.9356,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1968-05-31,4.973999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1968-06-30,4.9735,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1968-07-31,4.9739,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1968-08-31,4.9734,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1968-09-30,4.9739,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1968-10-31,4.973999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1968-11-30,4.9548,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1968-12-31,4.9481,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1969-01-31,4.9533,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1969-02-28,4.9515,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1969-03-31,4.959,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1969-04-30,4.9738,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1969-05-31,4.9739,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1969-06-30,4.9691,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1969-07-31,4.9724,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1969-08-31,5.5443,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1969-09-30,5.5745,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1969-10-31,5.5779,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1969-11-30,5.5715,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1969-12-31,5.5583,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1970-01-31,5.543375,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1970-02-28,5.54525,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1970-03-31,5.541375,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1970-04-30,5.52175,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1970-05-31,5.52,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1970-06-30,5.519,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1970-07-31,5.51925,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1970-08-31,5.5165,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1970-09-30,5.521125,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1970-10-31,5.52125,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1970-11-30,5.518,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1970-12-31,5.5205,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1971-01-31,5.517,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1971-02-28,5.515875,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1971-03-31,5.51375,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1971-04-30,5.513625,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1971-05-31,5.5355,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1971-06-30,5.57525,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1971-07-31,5.513125,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1971-08-31,5.513875,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1971-09-30,5.53,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1971-10-31,5.5345,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1971-11-30,5.512875,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1971-12-31,5.2245,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1972-01-31,5.12875,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1972-02-29,5.06975,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1972-03-31,5.0285,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1972-04-30,5.0315,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1972-05-31,5.0025,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1972-06-30,5.001875,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1972-07-31,5.001625,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1972-08-31,5.0055,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1972-09-30,5.012,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1972-10-31,5.04125,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1972-11-30,5.043,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1972-12-31,5.121,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1973-01-31,5.0255,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1973-02-28,4.5288,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1973-03-31,4.5412,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1973-04-30,4.5695,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1973-05-31,4.4105,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1973-06-30,4.104999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1973-07-31,4.1281,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1973-08-31,4.324999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1973-09-30,4.249999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1973-10-31,4.2515,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1973-11-30,4.4919,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1973-12-31,4.7085,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1974-01-31,4.6479999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1974-02-28,4.6049999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1974-03-31,4.5549999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1974-04-30,4.4549999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1974-05-31,4.5399999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1974-06-30,4.5379999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1974-07-31,4.4759999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1974-08-31,4.5949999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1974-09-30,4.5809999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1974-10-31,4.4929999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1974-11-30,4.3949999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1974-12-31,4.3299999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1975-01-31,4.2169999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1975-02-28,4.0959999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1975-03-31,4.1589999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1975-04-30,4.1859999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1975-05-31,4.1829999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1975-06-30,4.1329999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1975-07-31,4.4159999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1975-08-31,4.4349999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1975-09-30,4.5819999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1975-10-31,4.4199999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1975-11-30,4.4754999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1975-12-31,4.5149999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1976-01-31,4.5009999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1976-02-29,4.4784999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1976-03-31,4.5239999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1976-04-30,4.5039999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1976-05-31,4.5699999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1976-06-30,4.5739999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1976-07-31,4.5894999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1976-08-31,4.5349999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1976-09-30,4.4729999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1976-10-31,4.4209999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1976-11-30,4.4169999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1976-12-31,4.3639999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1977-01-31,4.4389999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1977-02-28,4.4139999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1977-03-31,4.4909999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1977-04-30,4.5609999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1977-05-31,4.6239999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1977-06-30,4.6169999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1977-07-31,4.6069999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1977-08-31,4.6179999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1977-09-30,4.6169999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1977-10-31,4.6149999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1977-11-30,4.6119999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1977-12-31,4.6049999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1978-01-31,4.6064999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1978-02-28,4.6084999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1978-03-31,4.6029999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1978-04-30,4.6259999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1978-05-31,4.6289999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1978-06-30,4.6219999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1978-07-31,4.6159999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1978-08-31,4.6154999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1978-09-30,4.6154999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1978-10-31,4.6154999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1978-11-30,4.6154999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1978-12-31,4.6154999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1979-01-31,4.5899999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1979-02-28,4.5879999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1979-03-31,4.5894999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1979-04-30,4.5909999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1979-05-31,4.5934999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1979-06-30,4.5869999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1979-07-31,4.5899999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1979-08-31,4.5904999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1979-09-30,4.5869999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1979-10-31,4.5904999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1979-11-30,4.5869999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1979-12-31,4.5844999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1980-01-31,4.5854999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1980-02-29,4.5869999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1980-03-31,4.5969999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1980-04-30,4.5909999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1980-05-31,4.5889999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1980-06-30,4.5864999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1980-07-31,4.5859999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1980-08-31,4.5889999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1980-09-30,4.5909999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1980-10-31,4.5949999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1980-11-30,4.5994999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1980-12-31,4.6029999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1981-01-31,4.6509999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1981-02-28,4.7029999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1981-03-31,4.7099999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1981-04-30,4.7579999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1981-05-31,4.8419999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1981-06-30,4.8839999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1981-07-31,4.9259999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1981-08-31,4.9299999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1981-09-30,4.8349999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1981-10-31,4.9109999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1981-11-30,4.8659999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1981-12-31,4.8939999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1982-01-31,4.9299999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1982-02-28,5.0699999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1982-03-31,5.1289999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1982-04-30,5.1049999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1982-05-31,5.0889999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1982-06-30,5.2869999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1982-07-31,5.2799999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1982-08-31,5.3179999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1982-09-30,5.3549999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1982-10-31,5.3719999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1982-11-30,5.3529999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1982-12-31,5.2959999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1983-01-31,5.2919999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1983-02-28,5.2859999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1983-03-31,5.3949999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1983-04-30,5.4129999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1983-05-31,5.4649999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1983-06-30,5.4819999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1983-07-31,5.5519999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1983-08-31,5.6019999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1983-09-30,5.5849999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1983-10-31,5.5759999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1983-11-30,5.6529999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1983-12-31,5.7029999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1984-01-31,5.7639999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1984-02-29,5.7979999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1984-03-31,5.9399999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1984-04-30,6.2154999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1984-05-31,6.4565,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1984-06-30,6.654,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1984-07-31,6.6929999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1984-08-31,6.695,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1984-09-30,6.715,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1984-10-31,6.715,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1984-11-30,6.7219999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1984-12-31,6.729,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1985-01-31,7.262,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1985-02-28,8.199,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1985-03-31,7.7509999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1985-04-30,7.7639999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1985-05-31,7.911,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1985-06-30,8.015,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1985-07-31,7.691,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1985-08-31,7.6219999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1985-09-30,7.7129999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1985-10-31,7.628,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1985-11-30,7.553,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1985-12-31,7.707,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1986-01-31,7.499,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1986-02-28,7.3299999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1986-03-31,7.552,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1986-04-30,7.3599999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1986-05-31,7.557,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1986-06-30,7.5799999999,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1986-07-31,7.44,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1986-08-31,7.327,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1986-09-30,7.37,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1986-10-31,7.412,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1986-11-30,7.344,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1986-12-31,7.408,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1987-01-31,7.14,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1987-02-28,7.225,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1987-03-31,7.337,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1987-04-30,7.352,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1987-05-31,7.401,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1987-06-30,7.526,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1987-07-31,7.584,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1987-08-31,7.583,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1987-09-30,7.531,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1987-10-31,7.333,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1987-11-30,7.33,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1987-12-31,7.16,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1988-01-31,7.302,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1988-02-29,7.341,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1988-03-31,7.273,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1988-04-30,7.292,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1988-05-31,7.383,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1988-06-30,7.684,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1988-07-31,7.78,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1988-08-31,7.896,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1988-09-30,7.892,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1988-10-31,7.62,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1988-11-30,7.469,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1988-12-31,7.573,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1989-01-31,7.769,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1989-02-28,7.651,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1989-03-31,7.835,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1989-04-30,8.174,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1989-05-31,8.61,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1989-06-30,8.49,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1989-07-31,8.332,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1989-08-31,8.66,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1989-09-30,8.514,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1989-10-31,8.552,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1989-11-30,8.546,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1989-12-31,8.355,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1990-01-31,8.303,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1990-02-28,8.342,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1990-03-31,8.387,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1990-04-30,8.259,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1990-05-31,8.216,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1990-06-30,8.161,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1990-07-31,7.991,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1990-08-31,7.817,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1990-09-30,7.871,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1990-10-31,7.719,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1990-11-30,7.637,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1990-12-31,7.784,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1991-01-31,7.663,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1991-02-28,7.76,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1991-03-31,8.378,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1991-04-30,8.549,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1991-05-31,8.32,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1991-06-30,8.656,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1991-07-31,8.499,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1991-08-31,8.526,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1991-09-30,8.323,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1991-10-31,8.332,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1991-11-30,8.081,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1991-12-31,7.782,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1992-01-31,8.202,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1992-02-29,8.282,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1992-03-31,8.174,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1992-04-30,8.182,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1992-05-31,8.089,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1992-06-30,7.757,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1992-07-31,7.608,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1992-08-31,7.429,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1992-09-30,7.662,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1992-10-31,11.078,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1992-11-30,11.442,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1992-12-31,11.51,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1993-01-31,11.381,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1993-02-28,11.666,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1993-03-31,11.693,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1993-04-30,11.512,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1993-05-31,11.77,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1993-06-30,12.091,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1993-07-31,12.474,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1993-08-31,12.32,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1993-09-30,12.015,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1993-10-31,12.327,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1993-11-30,12.515,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1993-12-31,12.416,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1994-01-31,12.503,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1994-02-28,12.43,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1994-03-31,12.253,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1994-04-30,12.244,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1994-05-31,12.079,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1994-06-30,12.355,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1994-07-31,12.41,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1994-08-31,12.653,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1994-09-30,12.412,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1994-10-31,12.2,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1994-11-30,12.685,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1994-12-31,12.837,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1995-01-31,12.685,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1995-02-28,12.606,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1995-03-31,12.528,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1995-04-30,12.682,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1995-05-31,12.899,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1995-06-30,13.016,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1995-07-31,13.059,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1995-08-31,13.618,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1995-09-30,13.405,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1995-10-31,13.479,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1995-11-30,13.73,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1995-12-31,13.711,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1996-01-31,13.61,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1996-02-29,13.587,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1996-03-31,13.621,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1996-04-30,13.692,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1996-05-31,13.735,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1996-06-30,13.98,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1996-07-31,13.856,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1996-08-31,13.809,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1996-09-30,13.816,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1996-10-31,13.986,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1996-11-30,14.176,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1996-12-31,14.245,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1997-01-31,14.308,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1997-02-28,14.342,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1997-03-31,14.459,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1997-04-30,14.666,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1997-05-31,14.735,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1997-06-30,14.927,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1997-07-31,15.421,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1997-08-31,15.623,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1997-09-30,16.022,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1997-10-31,16.676,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1997-11-30,16.828,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1997-12-31,16.835,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1998-01-31,17.262,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1998-02-28,17.346,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1998-03-31,17.704,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1998-04-30,17.733,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1998-05-31,17.894,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1998-06-30,17.911,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1998-07-31,20.179,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1998-08-31,20.426,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1998-09-30,20.552,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1998-10-31,20.458,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1998-11-30,20.66,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1998-12-31,20.578,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1999-01-31,20.681,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1999-02-28,20.75,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1999-03-31,20.722,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1999-04-30,20.832,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1999-05-31,20.856,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1999-06-30,20.933,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1999-07-31,21.037,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1999-08-31,21.31,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1999-09-30,21.354,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1999-10-31,21.561,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1999-11-30,21.791,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-1999-12-31,22.5,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2000-01-31,22.585,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2000-02-29,23.285,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2000-03-31,23.293,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2000-04-30,23.8,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2000-05-31,24.38,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2000-06-30,24.29,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2000-07-31,24.29,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2000-08-31,24.32,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2000-09-30,25,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2000-10-31,25.23,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2000-11-30,25.28,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2000-12-31,25.23,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2001-01-31,25.15,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2001-02-28,25.35,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2001-03-31,25.4,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2001-04-30,25.45,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2001-05-31,25.64,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2001-06-30,25.67,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2001-07-31,25.7,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2001-08-31,25.72,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2001-09-30,25.74,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2001-10-31,25.662,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2001-11-30,26.316,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2001-12-31,26.412,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2002-01-31,26.8,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2002-02-28,27.4,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2002-03-31,27.675,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2002-04-30,27.55,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2002-05-31,27.587,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2002-06-30,27.65,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2002-07-31,27.452,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2002-08-31,27.15,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2002-09-30,27.129,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2002-10-31,27.023,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2002-11-30,26.909,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2002-12-31,26.871,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2003-01-31,26.5,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2003-02-28,26.45,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2003-03-31,26.5,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2003-04-30,26.45,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2003-05-31,26.2,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2003-06-30,26.3,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2003-07-31,26.3,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2003-08-31,26.42,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2003-09-30,26.3,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2003-10-31,26.42,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2003-11-30,26.43,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2003-12-31,26.56,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2004-01-31,26.66,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2004-02-29,26.61,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2004-03-31,26.61,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2004-04-30,26.87,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2004-12-31,25.719,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2005-01-31,26.043,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2005-02-28,26.158,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2005-03-31,26.53,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2005-04-30,26.55,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2005-05-31,26.65,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2005-06-30,26.65,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2005-07-31,26.749,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2005-08-31,26.749,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2005-09-30,26.749,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2005-10-31,27.061,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2005-11-30,27.061,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2005-12-31,27.061,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2006-01-31,27.061,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2006-02-28,27.061,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2006-03-31,27.061,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2006-04-30,27.061,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2006-05-31,27.061,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2006-06-30,27.061,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2006-07-31,27.061,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2006-08-31,27.061,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2006-09-30,27.061,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2006-10-31,27.061,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2006-11-30,27.061,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2006-12-31,27.061,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2007-01-31,27.061,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2007-02-28,27.044,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2007-03-31,27.051,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2007-04-30,26.507,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2007-05-31,25.983,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2007-06-30,25.983,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2007-07-31,25.603,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2007-08-31,25.778,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2007-09-30,25.832,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2007-10-31,25.5,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2007-11-30,25.036,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2007-12-31,25.288,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2008-01-31,25.188,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2008-02-29,25.288,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2008-03-31,24.422,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2008-04-30,24.056,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2008-05-31,24.057,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2008-06-30,23.474,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2008-07-31,22.7,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2008-08-31,22.959,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2008-09-30,23.5,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2008-10-31,24.65,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2008-11-30,25.5,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2008-12-31,26.15,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2009-01-31,25.75,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2009-02-28,25.9,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2009-03-31,26.515,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2009-04-30,26.65,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2009-05-31,26.475,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2009-06-30,26.441,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2009-07-31,26.217,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2009-08-31,25.961,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2009-09-30,25.949,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2009-10-31,26.08,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2009-11-30,26.082,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2009-12-31,26.199,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2010-01-31,26.061,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2010-02-28,26.105,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2010-03-31,26.48,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2010-04-30,26.881,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2010-05-31,27.394,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2010-06-30,28.35,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2010-07-31,28.53,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2010-08-31,28.687,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2010-09-30,28.603,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2010-10-31,28.357,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2010-11-30,28.05,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2010-12-31,28.2,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2011-01-31,27.798,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2011-02-28,28.835,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2011-03-31,27.801,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2011-04-30,27.252,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2011-05-31,27.368,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2011-06-30,27.453,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2011-07-31,27.699,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2011-08-31,27.9,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2011-09-30,28.468,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2011-10-31,28.603,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2011-11-30,28.677,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2011-12-31,28.85,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2012-01-31,29.054,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2012-02-29,29.306,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2012-03-31,29.115,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2012-04-30,29.125,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2012-05-31,29.188,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2012-06-30,29.49,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2012-07-31,30.075,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2012-08-31,30.1955,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2012-09-30,30.276,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2012-10-31,29.7745,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2012-11-30,29.8865,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2012-12-31,30.3035,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2013-01-31,29.815,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2013-02-28,29.716,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2013-03-31,29.888,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2013-04-30,29.995,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2013-05-31,30.355,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2013-06-30,30.281,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2013-07-31,30.264,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2013-08-31,30.26,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2013-09-30,30.339,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2013-10-31,29.698,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2013-11-30,29.528,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2013-12-31,29.9,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2014-01-31,30.127,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2014-02-28,29.98,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2014-03-31,29.85,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2014-04-30,29.885,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2014-05-31,29.978,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2014-06-30,30.002,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2014-07-31,30.1,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2014-08-31,30.14,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2014-09-30,30.288,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2014-10-31,30.39,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2014-11-30,30.612,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2014-12-31,31.264,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2015-01-31,31.011,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2015-02-28,31.358,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2015-03-31,31.659,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2015-04-30,32.017,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2015-05-31,32.063,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2015-06-30,32.512,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2015-07-31,32.66,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2015-08-31,32.747,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2015-09-30,32.96,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2015-10-31,33.398,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2015-11-30,33.477,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2015-12-31,33.895,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2016-01-31,34.018,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2016-02-29,34.425,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2016-03-31,34.956,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2016-04-30,35.13,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2016-05-31,35.311,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2016-06-30,35.402,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2016-07-31,35.413,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2016-08-31,35.512,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2016-09-30,35.563,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2016-10-31,35.595,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2016-11-30,35.604,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2016-12-31,35.649,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2017-01-31,35.687,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2017-02-28,35.745,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2017-03-31,35.851,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2017-04-30,35.868,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2017-05-31,35.883,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2017-06-30,35.853,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2017-07-31,35.847,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2017-08-31,35.484,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2017-09-30,35.496,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2017-10-31,35.32,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2017-11-30,35.329,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2017-12-31,35.348,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2018-01-31,35.3,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2018-02-28,35.21,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2018-03-31,35.3,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2018-04-30,35.45,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2018-05-31,35.55,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2018-06-30,35.65,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2018-07-31,35.74,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2018-08-31,35.79,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2018-09-30,35.72,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2018-10-31,35.84,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2018-11-30,36.3,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2018-12-31,36.35,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2019-01-31,36.39,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2019-02-28,36.37,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2019-03-31,36.45,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2019-04-30,36.56,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2019-05-31,36.63,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2019-06-30,36.7,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2019-07-31,36.67,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2019-08-31,36.73,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2019-09-30,36.91,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2019-10-31,37.06,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2019-11-30,37.2,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2019-12-31,37.32,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2020-01-31,37.34,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2020-02-29,37.21,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2020-03-31,37.12,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2020-04-30,37.63,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2020-05-31,37.75,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2020-06-30,37.54,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2020-07-31,37.41,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2020-08-31,36.94,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2020-09-30,36.83,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2020-10-31,36.93,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2020-11-30,36.94,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2020-12-31,36.67,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2021-01-31,35.97,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2021-02-28,35.75,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2021-03-31,35.92,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2021-04-30,35.94,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2021-05-31,36.09,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2021-06-30,36.12,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2021-07-31,36.12,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2021-08-31,36.18,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2021-09-30,36.12,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2021-10-31,36.09,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2021-11-30,36.17,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2021-12-31,36.22,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2022-01-31,36.23,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2022-02-28,36.3,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2022-03-31,36.3,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
-2022-04-30,36.36,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
 2022-05-31,36.4,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
 2022-06-30,36.38,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
 2022-07-31,37.58,MRU,M,IMF,MR,"Mauritania, Islamic Republic of"
@@ -94688,6 +93186,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,47.2074,MUR,M,IMF,MU,Mauritius
 2026-05-31,47.9029,MUR,M,IMF,MU,Mauritius
 2026-06-30,47.5344,MUR,M,IMF,MU,Mauritius
+2026-07-31,47.4787,MUR,M,IMF,MU,Mauritius
 1957-01-31,0.0125,MXN,M,IMF,MX,Mexico
 1957-02-28,0.0125,MXN,M,IMF,MX,Mexico
 1957-03-31,0.0125,MXN,M,IMF,MX,Mexico
@@ -95522,6 +94021,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,17.403,MXN,M,IMF,MX,Mexico
 2026-05-31,17.3793,MXN,M,IMF,MX,Mexico
 2026-06-30,17.47,MXN,M,IMF,MX,Mexico
+2026-07-31,17.5133,MXN,M,IMF,MX,Mexico
 1940-01-31,1,USD,M,IMF,FM,"Micronesia, Federated States of"
 1940-02-29,1,USD,M,IMF,FM,"Micronesia, Federated States of"
 1940-03-31,1,USD,M,IMF,FM,"Micronesia, Federated States of"
@@ -97408,6 +95908,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,3576.22,MNT,M,IMF,MN,Mongolia
 2026-05-31,3575.93,MNT,M,IMF,MN,Mongolia
 2026-06-30,3579.97,MNT,M,IMF,MN,Mongolia
+2026-07-31,3592.73,MNT,M,IMF,MN,Mongolia
 1999-01-31,0.8784258608573436,EUR,M,IMF,ME,Montenegro
 1999-02-28,0.907605736068252,EUR,M,IMF,ME,Montenegro
 1999-03-31,0.930925339787749,EUR,M,IMF,ME,Montenegro
@@ -97738,6 +96239,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,0.8545547769612032,EUR,M,IMF,ME,Montenegro
 2026-05-31,0.8588114050154586,EUR,M,IMF,ME,Montenegro
 2026-06-30,0.877654906090925,EUR,M,IMF,ME,Montenegro
+2026-07-31,0.8707009142359599,EUR,M,IMF,ME,Montenegro
 1957-01-31,1.71538,XCD,M,IMF,MS,"Montserrat, United Kingdom-British Overseas Territory"
 1957-02-28,1.71583,XCD,M,IMF,MS,"Montserrat, United Kingdom-British Overseas Territory"
 1957-03-31,1.72197,XCD,M,IMF,MS,"Montserrat, United Kingdom-British Overseas Territory"
@@ -101788,6 +100290,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,16.90435,ZAR,M,IMF,NA,Namibia
 2026-05-31,16.22895,ZAR,M,IMF,NA,Namibia
 2026-06-30,16.45485,ZAR,M,IMF,NA,Namibia
+2026-07-31,16.4841,ZAR,M,IMF,NA,Namibia
 1957-01-31,0.892856999892857,AUD,M,IMF,NR,"Naoero, Republic of"
 1957-02-28,0.892856999892857,AUD,M,IMF,NR,"Naoero, Republic of"
 1957-03-31,0.892856999892857,AUD,M,IMF,NR,"Naoero, Republic of"
@@ -102622,6 +101125,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,1.40587656403768,AUD,M,IMF,NR,"Naoero, Republic of"
 2026-05-31,1.39586823003908,AUD,M,IMF,NR,"Naoero, Republic of"
 2026-06-30,1.45581598485951,AUD,M,IMF,NR,"Naoero, Republic of"
+2026-07-31,1.42247510668563,AUD,M,IMF,NR,"Naoero, Republic of"
 1957-01-31,6.451999999,NPR,M,IMF,NP,Nepal
 1957-02-28,6.451999999,NPR,M,IMF,NP,Nepal
 1957-03-31,6.213999999,NPR,M,IMF,NP,Nepal
@@ -105436,6 +103940,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,101.9754742779012,XPF,M,IMF,NC,New Caledonia
 2026-05-31,102.4834249398832,XPF,M,IMF,NC,New Caledonia
 2026-06-30,104.7320519571704,XPF,M,IMF,NC,New Caledonia
+2026-07-31,103.9022202873313,XPF,M,IMF,NC,New Caledonia
 1957-01-31,0.714287986064378,NZD,M,IMF,NZ,New Zealand
 1957-02-28,0.714287986064378,NZD,M,IMF,NZ,New Zealand
 1957-03-31,0.714287986064378,NZD,M,IMF,NZ,New Zealand
@@ -106270,6 +104775,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,1.7141,NZD,M,IMF,NZ,New Zealand
 2026-05-31,1.6801,NZD,M,IMF,NZ,New Zealand
 2026-06-30,1.7709,NZD,M,IMF,NZ,New Zealand
+2026-07-31,1.704739174906239,NZD,M,IMF,NZ,New Zealand
 1957-01-31,0.00000000136525971515314,NIO,M,IMF,NI,Nicaragua
 1957-02-28,0.00000000136525971515314,NIO,M,IMF,NI,Nicaragua
 1957-03-31,0.00000000136525971515314,NIO,M,IMF,NI,Nicaragua
@@ -107935,6 +106441,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,560.55118783114,XOF,M,IMF,NE,Niger
 2026-05-31,563.3433527997252,XOF,M,IMF,NE,Niger
 2026-06-30,575.7038792346849,XOF,M,IMF,NE,Niger
+2026-07-31,571.1423595994775,XOF,M,IMF,NE,Niger
 1957-01-31,0.714285714285714,NGN,M,IMF,NG,Nigeria
 1957-02-28,0.714285714285714,NGN,M,IMF,NG,Nigeria
 1957-03-31,0.714285714285714,NGN,M,IMF,NG,Nigeria
@@ -109994,6 +108501,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,9.33,NOK,M,IMF,NO,Norway
 2026-05-31,9.25,NOK,M,IMF,NO,Norway
 2026-06-30,9.9267,NOK,M,IMF,NO,Norway
+2026-07-31,9.5272,NOK,M,IMF,NO,Norway
 1957-01-31,0.35714,OMR,M,IMF,OM,Oman
 1957-02-28,0.35714,OMR,M,IMF,OM,Oman
 1957-03-31,0.35714,OMR,M,IMF,OM,Oman
@@ -115410,6 +113918,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,3.523,PEN,M,IMF,PE,Peru
 2026-05-31,3.41,PEN,M,IMF,PE,Peru
 2026-06-30,3.406,PEN,M,IMF,PE,Peru
+2026-07-31,3.384,PEN,M,IMF,PE,Peru
 1957-01-31,2.019999999,PHP,M,IMF,PH,Philippines
 1957-02-28,2.019999999,PHP,M,IMF,PH,Philippines
 1957-03-31,2.019999999,PHP,M,IMF,PH,Philippines
@@ -116244,6 +114753,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,61.506,PHP,M,IMF,PH,Philippines
 2026-05-31,61.654,PHP,M,IMF,PH,Philippines
 2026-06-30,61.229,PHP,M,IMF,PH,Philippines
+2026-07-31,61.432,PHP,M,IMF,PH,Philippines
 1957-01-31,0.000399228623010011,PLN,M,IMF,PL,"Poland, Republic of"
 1957-02-28,0.000399228623010011,PLN,M,IMF,PL,"Poland, Republic of"
 1957-03-31,0.000399228623010011,PLN,M,IMF,PL,"Poland, Republic of"
@@ -117078,6 +115588,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,3.646,PLN,M,IMF,PL,"Poland, Republic of"
 2026-05-31,3.6395,PLN,M,IMF,PL,"Poland, Republic of"
 2026-06-30,3.7708,PLN,M,IMF,PL,"Poland, Republic of"
+2026-07-31,3.7425,PLN,M,IMF,PL,"Poland, Republic of"
 1957-01-31,28.749999999,PTE,M,IMF,PT,Portugal
 1957-02-28,28.749999999,PTE,M,IMF,PT,Portugal
 1957-03-31,28.749999999,PTE,M,IMF,PT,Portugal
@@ -119143,6 +117654,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,4.3965,RON,M,IMF,RO,Romania
 2026-05-31,4.5099,RON,M,IMF,RO,Romania
 2026-06-30,4.601,RON,M,IMF,RO,Romania
+2026-07-31,4.5595,RON,M,IMF,RO,Romania
 1992-06-30,0.1,RUB,M,IMF,RU,Russian Federation
 1992-07-31,0.161,RUB,M,IMF,RU,Russian Federation
 1992-08-31,0.205,RUB,M,IMF,RU,Russian Federation
@@ -122538,6 +121050,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,0.8545547769612032,ITL,M,IMF,SM,"San Marino, Republic of"
 2026-05-31,0.8588114050154586,ITL,M,IMF,SM,"San Marino, Republic of"
 2026-06-30,0.877654906090925,ITL,M,IMF,SM,"San Marino, Republic of"
+2026-07-31,0.8707009142359599,ITL,M,IMF,SM,"San Marino, Republic of"
 1957-01-31,3.749999999,SAR,M,IMF,SA,Saudi Arabia
 1957-02-28,3.749999999,SAR,M,IMF,SA,Saudi Arabia
 1957-03-31,3.749999999,SAR,M,IMF,SA,Saudi Arabia
@@ -124207,6 +122720,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,560.55118783114,XOF,M,IMF,SN,Senegal
 2026-05-31,563.3433527997252,XOF,M,IMF,SN,Senegal
 2026-06-30,575.7038792346849,XOF,M,IMF,SN,Senegal
+2026-07-31,571.1423595994775,XOF,M,IMF,SN,Senegal
 1997-12-31,5.9123,RSD,M,IMF,RS,"Serbia, Republic of"
 1998-12-31,10.0308,RSD,M,IMF,RS,"Serbia, Republic of"
 1999-12-31,11.6615,RSD,M,IMF,RS,"Serbia, Republic of"
@@ -124517,6 +123031,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,100.6302,RSD,M,IMF,RS,"Serbia, Republic of"
 2026-05-31,100.8481,RSD,M,IMF,RS,"Serbia, Republic of"
 2026-06-30,103.0372,RSD,M,IMF,RS,"Serbia, Republic of"
+2026-07-31,102.0128,RSD,M,IMF,RS,"Serbia, Republic of"
 1957-01-31,4.764956043,SCR,M,IMF,SC,Seychelles
 1957-02-28,4.766148346,SCR,M,IMF,SC,Seychelles
 1957-03-31,4.783246636,SCR,M,IMF,SC,Seychelles
@@ -127000,6 +125515,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,1.281,SGD,M,IMF,SG,Singapore
 2026-05-31,1.2772,SGD,M,IMF,SG,Singapore
 2026-06-30,1.2943,SGD,M,IMF,SG,Singapore
+2026-07-31,1.2838,SGD,M,IMF,SG,Singapore
 2010-10-31,1.79,XCG,M,IMF,SX,"Sint Maarten, Kingdom of the Netherlands"
 2010-11-30,1.79,XCG,M,IMF,SX,"Sint Maarten, Kingdom of the Netherlands"
 2010-12-31,1.79,XCG,M,IMF,SX,"Sint Maarten, Kingdom of the Netherlands"
@@ -129747,6 +128263,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,16.7813109895771,ZAR,M,IMF,ZA,South Africa
 2026-05-31,16.2260483244171,ZAR,M,IMF,ZA,South Africa
 2026-06-30,16.3703630946534,ZAR,M,IMF,ZA,South Africa
+2026-07-31,16.5695415373552,ZAR,M,IMF,ZA,South Africa
 2011-07-31,3.1053,SSP,M,IMF,SS,"South Sudan, Republic of"
 2011-08-31,3.31,SSP,M,IMF,SS,"South Sudan, Republic of"
 2011-09-30,2.95,SSP,M,IMF,SS,"South Sudan, Republic of"
@@ -136703,6 +135220,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,9.2766,SEK,M,IMF,SE,Sweden
 2026-05-31,9.2511,SEK,M,IMF,SE,Sweden
 2026-06-30,9.7363,SEK,M,IMF,SE,Sweden
+2026-07-31,9.5651,SEK,M,IMF,SE,Sweden
 1957-01-31,4.285999999,CHF,M,IMF,CH,Switzerland
 1957-02-28,4.290999999,CHF,M,IMF,CH,Switzerland
 1957-03-31,4.284999999,CHF,M,IMF,CH,Switzerland
@@ -137537,6 +136055,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,0.7898,CHF,M,IMF,CH,Switzerland
 2026-05-31,0.7845,CHF,M,IMF,CH,Switzerland
 2026-06-30,0.8095,CHF,M,IMF,CH,Switzerland
+2026-07-31,0.809,CHF,M,IMF,CH,Switzerland
 1957-01-31,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
 1957-02-28,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
 1957-03-31,3.579999999,SYP,M,IMF,SY,Syrian Arab Republic
@@ -142058,6 +140577,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,32.7658,THB,M,IMF,TH,Thailand
 2026-05-31,32.5812,THB,M,IMF,TH,Thailand
 2026-06-30,33.2703,THB,M,IMF,TH,Thailand
+2026-07-31,33.4176,THB,M,IMF,TH,Thailand
 1940-01-31,1,USD,M,IMF,TL,"Timor-Leste, Democratic Republic of"
 1940-02-29,1,USD,M,IMF,TL,"Timor-Leste, Democratic Republic of"
 1940-03-31,1,USD,M,IMF,TL,"Timor-Leste, Democratic Republic of"
@@ -143931,6 +142451,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,560.55118783114,XOF,M,IMF,TG,Togo
 2026-05-31,563.3433527997252,XOF,M,IMF,TG,Togo
 2026-06-30,575.7038792346849,XOF,M,IMF,TG,Togo
+2026-07-31,571.1423595994775,XOF,M,IMF,TG,Togo
 1957-01-31,0.892856999892857,TOP,M,IMF,TO,Tonga
 1957-02-28,0.892856999892857,TOP,M,IMF,TO,Tonga
 1957-03-31,0.892856999892857,TOP,M,IMF,TO,Tonga
@@ -145596,6 +144117,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,6.7354,TTD,M,IMF,TT,Trinidad and Tobago
 2026-05-31,6.7563,TTD,M,IMF,TT,Trinidad and Tobago
 2026-06-30,6.7421,TTD,M,IMF,TT,Trinidad and Tobago
+2026-07-31,6.7521,TTD,M,IMF,TT,Trinidad and Tobago
 1957-01-31,0.349999999166667,TND,M,IMF,TN,Tunisia
 1957-02-28,0.349999999166667,TND,M,IMF,TN,Tunisia
 1957-03-31,0.349999999166667,TND,M,IMF,TN,Tunisia
@@ -147354,6 +145876,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,1.40587656403768,AUD,M,IMF,TV,Tuvalu
 2026-05-31,1.39586823003908,AUD,M,IMF,TV,Tuvalu
 2026-06-30,1.45581598485951,AUD,M,IMF,TV,Tuvalu
+2026-07-31,1.42247510668563,AUD,M,IMF,TV,Tuvalu
 1957-01-31,0.000003379999999,TRY,M,IMF,TR,"Türkiye, Republic of"
 1957-02-28,0.000003379999999,TRY,M,IMF,TR,"Türkiye, Republic of"
 1957-03-31,0.000003379999999,TRY,M,IMF,TR,"Türkiye, Republic of"
@@ -149424,6 +147947,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,44.082,UAH,M,IMF,UA,Ukraine
 2026-05-31,44.2653,UAH,M,IMF,UA,Ukraine
 2026-06-30,44.8478,UAH,M,IMF,UA,Ukraine
+2026-07-31,44.6916,UAH,M,IMF,UA,Ukraine
 1967-01-31,0.899999999,SUR,M,IMF,SUH,Union of Soviet Socialist Republics (USSR)
 1967-02-28,0.899999999,SUR,M,IMF,SUH,Union of Soviet Socialist Republics (USSR)
 1967-03-31,0.899999999,SUR,M,IMF,SUH,Union of Soviet Socialist Republics (USSR)
@@ -151069,6 +149593,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,0.7392075694855115,GBP,M,IMF,GB,United Kingdom
 2026-05-31,0.7452953232718465,GBP,M,IMF,GB,United Kingdom
 2026-06-30,0.7555438026519587,GBP,M,IMF,GB,United Kingdom
+2026-07-31,0.743853907092647,GBP,M,IMF,GB,United Kingdom
 1940-01-31,1,USD,M,IMF,US,United States
 1940-02-29,1,USD,M,IMF,US,United States
 1940-03-31,1,USD,M,IMF,US,United States
@@ -152858,6 +151383,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,40.253,UYW,M,IMF,UY,Uruguay
 2026-05-31,40.165,UYW,M,IMF,UY,Uruguay
 2026-06-30,40.116,UYW,M,IMF,UY,Uruguay
+2026-07-31,40.273,UYW,M,IMF,UY,Uruguay
 1999-06-30,123.62,UZS,M,IMF,UZ,"Uzbekistan, Republic of"
 1999-07-31,130.43,UZS,M,IMF,UZ,"Uzbekistan, Republic of"
 1999-08-31,133.69,UZS,M,IMF,UZ,"Uzbekistan, Republic of"
@@ -155419,6 +153945,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-03-31,25102,VND,M,IMF,VN,Vietnam
 2026-04-30,25113,VND,M,IMF,VN,Vietnam
 2026-05-31,25139,VND,M,IMF,VN,Vietnam
+2026-06-30,25206,VND,M,IMF,VN,Vietnam
 1957-01-31,175,XOF,M,IMF,7A,West African Economic and Monetary Union (WAEMU)
 1957-02-28,175,XOF,M,IMF,7A,West African Economic and Monetary Union (WAEMU)
 1957-03-31,175,XOF,M,IMF,7A,West African Economic and Monetary Union (WAEMU)
@@ -156253,6 +154780,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,560.55118783114,XOF,M,IMF,7A,West African Economic and Monetary Union (WAEMU)
 2026-05-31,563.3433527997252,XOF,M,IMF,7A,West African Economic and Monetary Union (WAEMU)
 2026-06-30,575.7038792346849,XOF,M,IMF,7A,West African Economic and Monetary Union (WAEMU)
+2026-07-31,571.1423595994775,XOF,M,IMF,7A,West African Economic and Monetary Union (WAEMU)
 1968-12-31,2.793299999,YDD,M,IMF,1C_473,Yemen Arab Republic
 1969-12-31,4.437899999,YDD,M,IMF,1C_473,Yemen Arab Republic
 1970-01-31,5.499999999,YDD,M,IMF,1C_473,Yemen Arab Republic
