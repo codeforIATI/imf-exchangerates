@@ -5430,6 +5430,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,1386.5,ARS,M,IMF,AR,Argentina
 2026-05-31,1403.5,ARS,M,IMF,AR,Argentina
 2026-06-30,1477.5,ARS,M,IMF,AR,Argentina
+2026-07-31,1480.5,ARS,M,IMF,AR,Argentina
 1992-04-30,0.55,AMD,M,IMF,AM,"Armenia, Republic of"
 1992-05-31,0.5,AMD,M,IMF,AM,"Armenia, Republic of"
 1992-06-30,0.59,AMD,M,IMF,AM,"Armenia, Republic of"
@@ -23160,6 +23161,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,4009,KHR,M,IMF,KH,Cambodia
 2026-05-31,4027,KHR,M,IMF,KH,Cambodia
 2026-06-30,4028.5,KHR,M,IMF,KH,Cambodia
+2026-07-31,4048.5,KHR,M,IMF,KH,Cambodia
 1957-01-31,175,XAF,M,IMF,CM,Cameroon
 1957-02-28,175,XAF,M,IMF,CM,Cameroon
 1957-03-31,175,XAF,M,IMF,CM,Cameroon
@@ -40270,6 +40272,10 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-01-31,63.4346,DOP,M,IMF,DO,Dominican Republic
 2026-02-28,60.146,DOP,M,IMF,DO,Dominican Republic
 2026-03-31,61.1933,DOP,M,IMF,DO,Dominican Republic
+2026-04-30,60.1015,DOP,M,IMF,DO,Dominican Republic
+2026-05-31,58.7048,DOP,M,IMF,DO,Dominican Republic
+2026-06-30,59.9442,DOP,M,IMF,DO,Dominican Republic
+2026-07-31,58.621,DOP,M,IMF,DO,Dominican Republic
 1957-01-31,1.715379999,XCD,M,IMF,5Y,Eastern Caribbean Currency Union (ECCU)
 1957-02-28,1.715829999,XCD,M,IMF,5Y,Eastern Caribbean Currency Union (ECCU)
 1957-03-31,1.721969999,XCD,M,IMF,5Y,Eastern Caribbean Currency Union (ECCU)
@@ -152388,6 +152394,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,118.4,VUV,M,IMF,VU,Vanuatu
 2025-10-31,120.6,VUV,M,IMF,VU,Vanuatu
 2025-11-30,120.7,VUV,M,IMF,VU,Vanuatu
+2025-12-31,119.43,VUV,M,IMF,VU,Vanuatu
 1957-01-31,0.003219999999,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 1957-02-28,0.003219999999,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 1957-03-31,0.003219999999,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
