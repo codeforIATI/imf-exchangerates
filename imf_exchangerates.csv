@@ -17767,6 +17767,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,13.3082,BWP,M,IMF,BW,Botswana
 2026-05-31,13.0742,BWP,M,IMF,BW,Botswana
 2026-06-30,13.2493,BWP,M,IMF,BW,Botswana
+2026-07-31,13.2533,BWP,M,IMF,BW,Botswana
 1964-01-31,0.000000000000225454545462831,BRL,M,IMF,BR,Brazil
 1964-02-29,0.000000000000424800000013794,BRL,M,IMF,BR,Brazil
 1964-03-31,0.000000000000497636363654652,BRL,M,IMF,BR,Brazil
@@ -42779,6 +42780,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-03-31,54.5366,EGP,M,IMF,EG,"Egypt, Arab Republic of"
 2026-04-30,53.5663,EGP,M,IMF,EG,"Egypt, Arab Republic of"
 2026-05-31,52.2297,EGP,M,IMF,EG,"Egypt, Arab Republic of"
+2026-06-30,49.1763,EGP,M,IMF,EG,"Egypt, Arab Republic of"
 1957-01-31,2.499999999,USD,M,IMF,SV,El Salvador
 1957-02-28,2.499999999,USD,M,IMF,SV,El Salvador
 1957-03-31,2.499999999,USD,M,IMF,SV,El Salvador
@@ -64126,6 +64128,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,26.5988,HNL,M,IMF,HN,Honduras
 2026-05-31,26.6608,HNL,M,IMF,HN,Honduras
 2026-06-30,26.7183,HNL,M,IMF,HN,Honduras
+2026-07-31,26.7935,HNL,M,IMF,HN,Honduras
 1957-01-31,5.72020934168168,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 1957-02-28,5.7216406719911,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 1957-03-31,5.74216673718946,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
@@ -80339,6 +80342,22 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-01-31,87.45,KGS,M,IMF,KG,Kyrgyz Republic
 2025-02-28,87.4497,KGS,M,IMF,KG,Kyrgyz Republic
 2025-03-31,86.4,KGS,M,IMF,KG,Kyrgyz Republic
+2025-04-30,87.45,KGS,M,IMF,KG,Kyrgyz Republic
+2025-05-31,87.45,KGS,M,IMF,KG,Kyrgyz Republic
+2025-06-30,87.394,KGS,M,IMF,KG,Kyrgyz Republic
+2025-07-31,87.45,KGS,M,IMF,KG,Kyrgyz Republic
+2025-08-31,87.3913,KGS,M,IMF,KG,Kyrgyz Republic
+2025-09-30,87.4019,KGS,M,IMF,KG,Kyrgyz Republic
+2025-10-31,87.45,KGS,M,IMF,KG,Kyrgyz Republic
+2025-11-30,87.45,KGS,M,IMF,KG,Kyrgyz Republic
+2025-12-31,87.4177,KGS,M,IMF,KG,Kyrgyz Republic
+2026-01-31,87.45,KGS,M,IMF,KG,Kyrgyz Republic
+2026-02-28,87.45,KGS,M,IMF,KG,Kyrgyz Republic
+2026-03-31,87.45,KGS,M,IMF,KG,Kyrgyz Republic
+2026-04-30,87.4293,KGS,M,IMF,KG,Kyrgyz Republic
+2026-05-31,87.45,KGS,M,IMF,KG,Kyrgyz Republic
+2026-06-30,87.45,KGS,M,IMF,KG,Kyrgyz Republic
+2026-07-31,87.45,KGS,M,IMF,KG,Kyrgyz Republic
 1957-01-31,35,LAK,M,IMF,LA,Lao People's Democratic Republic
 1957-02-28,35,LAK,M,IMF,LA,Lao People's Democratic Republic
 1957-03-31,35,LAK,M,IMF,LA,Lao People's Democratic Republic
@@ -110189,6 +110208,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,278.72755,PKR,M,IMF,PK,Pakistan
 2026-05-31,278.43605,PKR,M,IMF,PK,Pakistan
 2026-06-30,278.08925,PKR,M,IMF,PK,Pakistan
+2026-07-31,277.73925,PKR,M,IMF,PK,Pakistan
 2005-01-31,1,USD,M,IMF,PW,"Palau, Republic of"
 2005-02-28,1,USD,M,IMF,PW,"Palau, Republic of"
 2005-03-31,1,USD,M,IMF,PW,"Palau, Republic of"
@@ -126932,6 +126952,8 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-03-31,8.05152979066023,SBD,M,IMF,SB,Solomon Islands
 2026-04-30,8.0450522928399,SBD,M,IMF,SB,Solomon Islands
 2026-05-31,8.0450522928399,SBD,M,IMF,SB,Solomon Islands
+2026-06-30,8.11688311688312,SBD,M,IMF,SB,Solomon Islands
+2026-07-31,8.07754442649435,SBD,M,IMF,SB,Solomon Islands
 1957-01-31,7.142999999,SOS,M,IMF,SO,Somalia
 1957-02-28,7.142999999,SOS,M,IMF,SO,Somalia
 1957-03-31,7.142999999,SOS,M,IMF,SO,Somalia
