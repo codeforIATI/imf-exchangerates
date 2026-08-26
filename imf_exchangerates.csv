@@ -2950,6 +2950,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,913.116,AOA,M,IMF,AO,Angola
 2026-05-31,913.116,AOA,M,IMF,AO,Angola
 2026-06-30,912.57,AOA,M,IMF,AO,Angola
+2026-07-31,912.629,AOA,M,IMF,AO,Angola
 1957-01-31,1.71538,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 1957-02-28,1.71583,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
 1957-03-31,1.72197,XCD,M,IMF,AI,"Anguilla, United Kingdom-British Overseas Territory"
@@ -143325,6 +143326,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-02-28,2.36294896030246,TOP,M,IMF,TO,Tonga
 2026-03-31,2.40096038415366,TOP,M,IMF,TO,Tonga
 2026-04-30,2.3719165085389,TOP,M,IMF,TO,Tonga
+2026-05-31,2.3623907394283,TOP,M,IMF,TO,Tonga
 1957-01-31,1.7154,TTD,M,IMF,TT,Trinidad and Tobago
 1957-02-28,1.715799999,TTD,M,IMF,TT,Trinidad and Tobago
 1957-03-31,1.721999999,TTD,M,IMF,TT,Trinidad and Tobago
