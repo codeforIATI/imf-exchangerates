@@ -5849,6 +5849,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,368.18,AMD,M,IMF,AM,"Armenia, Republic of"
 2026-06-30,367.89,AMD,M,IMF,AM,"Armenia, Republic of"
 2026-07-31,366.2,AMD,M,IMF,AM,"Armenia, Republic of"
+2026-08-31,364.47,AMD,M,IMF,AM,"Armenia, Republic of"
 1986-01-31,1.79,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
 1986-02-28,1.79,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
 1986-03-31,1.79,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
@@ -8064,6 +8065,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
 2026-05-31,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
 2026-06-30,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
+2026-07-31,1.7,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
 1940-01-31,1.02041,BSD,M,IMF,BS,"Bahamas, The"
 1940-02-29,1.02041,BSD,M,IMF,BS,"Bahamas, The"
 1940-03-31,1.02041,BSD,M,IMF,BS,"Bahamas, The"
@@ -46357,6 +46359,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,16.2260483244171,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 2026-06-30,16.3703630946534,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 2026-07-31,16.5695415373552,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
+2026-08-31,16.1117511056689,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 1957-01-31,2.4845,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
 1957-02-28,2.4845,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
 1957-03-31,2.4845,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
@@ -65027,6 +65030,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,7.8385,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 2026-06-30,7.844,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 2026-07-31,7.842,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
+2026-08-31,7.839,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 1968-01-31,59.999999999,HUF,M,IMF,HU,Hungary
 1968-02-29,59.999999999,HUF,M,IMF,HU,Hungary
 1968-03-31,59.999999999,HUF,M,IMF,HU,Hungary
@@ -83200,6 +83204,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,16.2260483244171,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 2026-06-30,16.3703630946534,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 2026-07-31,16.5695415373552,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
+2026-08-31,16.1117511056689,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 1957-01-31,43.2590098577311,LRD,M,IMF,LR,Liberia
 1957-02-28,43.2590098577311,LRD,M,IMF,LR,Liberia
 1957-03-31,43.2590098577311,LRD,M,IMF,LR,Liberia
@@ -117804,6 +117809,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,4.5099,RON,M,IMF,RO,Romania
 2026-06-30,4.601,RON,M,IMF,RO,Romania
 2026-07-31,4.5595,RON,M,IMF,RO,Romania
+2026-08-31,4.5335,RON,M,IMF,RO,Romania
 1992-06-30,0.1,RUB,M,IMF,RU,Russian Federation
 1992-07-31,0.161,RUB,M,IMF,RU,Russian Federation
 1992-08-31,0.205,RUB,M,IMF,RU,Russian Federation
@@ -124030,6 +124036,13 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-11-30,14.8618399369921,SCR,M,IMF,SC,Seychelles
 2025-12-31,14.9149615597468,SCR,M,IMF,SC,Seychelles
 2026-01-31,14.8520949936504,SCR,M,IMF,SC,Seychelles
+2026-02-28,14.8360506119,SCR,M,IMF,SC,Seychelles
+2026-03-31,14.7868428119117,SCR,M,IMF,SC,Seychelles
+2026-04-30,14.7059868131317,SCR,M,IMF,SC,Seychelles
+2026-05-31,14.7550569693388,SCR,M,IMF,SC,Seychelles
+2026-06-30,14.7124647190089,SCR,M,IMF,SC,Seychelles
+2026-07-31,14.6171133874481,SCR,M,IMF,SC,Seychelles
+2026-08-31,14.6198452425999,SCR,M,IMF,SC,Seychelles
 1957-01-31,0.000357996283702631,SLE,M,IMF,SL,Sierra Leone
 1957-02-28,0.000358085862626884,SLE,M,IMF,SL,Sierra Leone
 1957-03-31,0.000359370475715903,SLE,M,IMF,SL,Sierra Leone
@@ -128437,6 +128450,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,16.2260483244171,ZAR,M,IMF,ZA,South Africa
 2026-06-30,16.3703630946534,ZAR,M,IMF,ZA,South Africa
 2026-07-31,16.5695415373552,ZAR,M,IMF,ZA,South Africa
+2026-08-31,16.1117511056689,ZAR,M,IMF,ZA,South Africa
 2011-07-31,3.1053,SSP,M,IMF,SS,"South Sudan, Republic of"
 2011-08-31,3.31,SSP,M,IMF,SS,"South Sudan, Republic of"
 2011-09-30,2.95,SSP,M,IMF,SS,"South Sudan, Republic of"

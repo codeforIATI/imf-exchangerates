@@ -5809,6 +5809,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,505.1322710051471,AMD,M,IMF,AM,"Armenia, Republic of"
 2026-06-30,501.7769197472248,AMD,M,IMF,AM,"Armenia, Republic of"
 2026-07-31,498.2672991570911,AMD,M,IMF,AM,"Armenia, Republic of"
+2026-08-31,500.2477600246694,AMD,M,IMF,AM,"Armenia, Republic of"
 1986-01-31,1.965175767955555,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
 1986-02-28,2.020977520858965,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
 1986-03-31,2.055533864633333,AWG,M,IMF,AW,"Aruba, Kingdom of the Netherlands"
@@ -8024,6 +8025,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,2.32734279069905,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
 2026-05-31,2.330016143306405,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
 2026-06-30,2.316380382533665,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
+2026-07-31,2.308739417174923,AZN,M,IMF,AZ,"Azerbaijan, Republic of"
 1940-01-31,1.02041,BSD,M,IMF,BS,"Bahamas, The"
 1940-02-29,1.02041,BSD,M,IMF,BS,"Bahamas, The"
 1940-03-31,1.02041,BSD,M,IMF,BS,"Bahamas, The"
@@ -46896,6 +46898,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,22.58827393081579,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 2026-06-30,22.34215757488124,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 2026-07-31,22.35242627799504,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
+2026-08-31,22.14562644752802,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 1957-01-31,2.48447000148447,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
 1957-02-28,2.48447000148447,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
 1957-03-31,2.48447000148447,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
@@ -65446,6 +65449,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,10.73726262744846,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 2026-06-30,10.68123871687141,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 2026-07-31,10.65007912322691,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
+2026-08-31,10.73649476122585,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 1968-01-31,59.999999999,HUF,M,IMF,HU,Hungary
 1968-02-29,59.999999999,HUF,M,IMF,HU,Hungary
 1968-03-31,59.999999999,HUF,M,IMF,HU,Hungary
@@ -82579,6 +82583,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,22.58827393081579,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 2026-06-30,22.34215757488124,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 2026-07-31,22.35242627799504,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
+2026-08-31,22.14562644752802,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 1957-01-31,1,LRD,M,IMF,LR,Liberia
 1957-02-28,1,LRD,M,IMF,LR,Liberia
 1957-03-31,1,LRD,M,IMF,LR,Liberia
@@ -117150,6 +117155,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,6.140414896251192,RON,M,IMF,RO,Romania
 2026-06-30,6.202994149086032,RON,M,IMF,RO,Romania
 2026-07-31,6.228028290130871,RON,M,IMF,RO,Romania
+2026-08-31,6.198806409311528,RON,M,IMF,RO,Romania
 1992-06-30,0.1948189454365773,RUB,M,IMF,RU,Russian Federation
 1992-07-31,0.2425502425502419,RUB,M,IMF,RU,Russian Federation
 1992-08-31,0.3160501019516462,RUB,M,IMF,RU,Russian Federation
@@ -123191,6 +123197,13 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-11-30,20.16512031610586,SCR,M,IMF,SC,Seychelles
 2025-12-31,20.32372215617265,SCR,M,IMF,SC,Seychelles
 2026-01-31,20.34032453460712,SCR,M,IMF,SC,Seychelles
+2026-02-28,20.3510935236169,SCR,M,IMF,SC,Seychelles
+2026-03-31,20.25305787238697,SCR,M,IMF,SC,Seychelles
+2026-04-30,20.32143607063208,SCR,M,IMF,SC,Seychelles
+2026-05-31,20.20431820674573,SCR,M,IMF,SC,Seychelles
+2026-06-30,20.00572063166501,SCR,M,IMF,SC,Seychelles
+2026-07-31,19.83263308494337,SCR,M,IMF,SC,Seychelles
+2026-08-31,19.98508403678198,SCR,M,IMF,SC,Seychelles
 1957-01-31,0.000714285999714286,SLE,M,IMF,SL,Sierra Leone
 1957-02-28,0.000714285999714286,SLE,M,IMF,SL,Sierra Leone
 1957-03-31,0.000714285999714286,SLE,M,IMF,SL,Sierra Leone
@@ -127584,6 +127597,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,22.58827393081579,ZAR,M,IMF,ZA,South Africa
 2026-06-30,22.34215757488124,ZAR,M,IMF,ZA,South Africa
 2026-07-31,22.35242627799504,ZAR,M,IMF,ZA,South Africa
+2026-08-31,22.14562644752802,ZAR,M,IMF,ZA,South Africa
 2011-07-31,4.443286316749797,SSP,M,IMF,SS,"South Sudan, Republic of"
 2011-08-31,5.296615829615773,SSP,M,IMF,SS,"South Sudan, Republic of"
 2011-09-30,4.72284037439161,SSP,M,IMF,SS,"South Sudan, Republic of"
