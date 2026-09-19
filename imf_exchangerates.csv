@@ -5438,6 +5438,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,1403.5,ARS,M,IMF,AR,Argentina
 2026-06-30,1477.5,ARS,M,IMF,AR,Argentina
 2026-07-31,1480.5,ARS,M,IMF,AR,Argentina
+2026-08-31,1504,ARS,M,IMF,AR,Argentina
 1992-04-30,0.55,AMD,M,IMF,AM,"Armenia, Republic of"
 1992-05-31,0.5,AMD,M,IMF,AM,"Armenia, Republic of"
 1992-06-30,0.59,AMD,M,IMF,AM,"Armenia, Republic of"
@@ -22528,6 +22529,9 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-02-28,93.334,CVE,M,IMF,CV,Cabo Verde
 2026-03-31,96.016,CVE,M,IMF,CV,Cabo Verde
 2026-04-30,94.405,CVE,M,IMF,CV,Cabo Verde
+2026-05-31,94.917,CVE,M,IMF,CV,Cabo Verde
+2026-06-30,96.673,CVE,M,IMF,CV,Cabo Verde
+2026-07-31,96.083,CVE,M,IMF,CV,Cabo Verde
 1957-01-31,35,KHR,M,IMF,KH,Cambodia
 1957-02-28,35,KHR,M,IMF,KH,Cambodia
 1957-03-31,35,KHR,M,IMF,KH,Cambodia
@@ -42836,6 +42840,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,53.5663,EGP,M,IMF,EG,"Egypt, Arab Republic of"
 2026-05-31,52.2297,EGP,M,IMF,EG,"Egypt, Arab Republic of"
 2026-06-30,49.1763,EGP,M,IMF,EG,"Egypt, Arab Republic of"
+2026-07-31,51.0934,EGP,M,IMF,EG,"Egypt, Arab Republic of"
 1957-01-31,2.499999999,USD,M,IMF,SV,El Salvador
 1957-02-28,2.499999999,USD,M,IMF,SV,El Salvador
 1957-03-31,2.499999999,USD,M,IMF,SV,El Salvador
@@ -49184,6 +49189,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,2.2202,FJD,M,IMF,FJ,"Fiji, Republic of"
 2026-06-30,2.2676,FJD,M,IMF,FJ,"Fiji, Republic of"
 2026-07-31,2.2346,FJD,M,IMF,FJ,"Fiji, Republic of"
+2026-08-31,2.2188,FJD,M,IMF,FJ,"Fiji, Republic of"
 1957-01-31,2.30000000157844,FIM,M,IMF,FI,Finland
 1957-02-28,2.30000000157844,FIM,M,IMF,FI,Finland
 1957-03-31,2.30000000157844,FIM,M,IMF,FI,Finland
@@ -107433,6 +107439,8 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,1374.9431,NGN,M,IMF,NG,Nigeria
 2026-05-31,1373.2545,NGN,M,IMF,NG,Nigeria
 2026-06-30,1379.6842,NGN,M,IMF,NG,Nigeria
+2026-07-31,1368.22,NGN,M,IMF,NG,Nigeria
+2026-08-31,1332.93959551251,NGN,M,IMF,NG,Nigeria
 1993-12-31,44.4556,MKD,M,IMF,MK,"North Macedonia, Republic of"
 1994-01-31,46.6559,MKD,M,IMF,MK,"North Macedonia, Republic of"
 1994-02-28,47.0247,MKD,M,IMF,MK,"North Macedonia, Republic of"
@@ -134613,6 +134621,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,37.2725,SRD,M,IMF,SR,Suriname
 2026-06-30,37.5325,SRD,M,IMF,SR,Suriname
 2026-07-31,37.7975,SRD,M,IMF,SR,Suriname
+2026-08-31,37.7855,SRD,M,IMF,SR,Suriname
 1957-01-31,5.179999999,SEK,M,IMF,SE,Sweden
 1957-02-28,5.179999999,SEK,M,IMF,SE,Sweden
 1957-03-31,5.179999999,SEK,M,IMF,SE,Sweden
