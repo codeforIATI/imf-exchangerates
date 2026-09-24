@@ -11743,6 +11743,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,2.7596,BYN,M,IMF,BY,"Belarus, Republic of"
 2026-06-30,2.9066,BYN,M,IMF,BY,"Belarus, Republic of"
 2026-07-31,2.9133,BYN,M,IMF,BY,"Belarus, Republic of"
+2026-08-31,3.0396,BYN,M,IMF,BY,"Belarus, Republic of"
 1957-01-31,50.244999999,BEF,M,IMF,BE,Belgium
 1957-02-28,50.252499999,BEF,M,IMF,BE,Belgium
 1957-03-31,50.322499999,BEF,M,IMF,BE,Belgium
@@ -23195,6 +23196,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,4027,KHR,M,IMF,KH,Cambodia
 2026-06-30,4028.5,KHR,M,IMF,KH,Cambodia
 2026-07-31,4048.5,KHR,M,IMF,KH,Cambodia
+2026-08-31,4048.5,KHR,M,IMF,KH,Cambodia
 1957-01-31,175,XAF,M,IMF,CM,Cameroon
 1957-02-28,175,XAF,M,IMF,CM,Cameroon
 1957-03-31,175,XAF,M,IMF,CM,Cameroon
@@ -152638,7 +152640,14 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2025-09-30,118.4,VUV,M,IMF,VU,Vanuatu
 2025-10-31,120.6,VUV,M,IMF,VU,Vanuatu
 2025-11-30,120.7,VUV,M,IMF,VU,Vanuatu
-2025-12-31,119.43,VUV,M,IMF,VU,Vanuatu
+2025-12-31,119.4,VUV,M,IMF,VU,Vanuatu
+2026-01-31,117.8,VUV,M,IMF,VU,Vanuatu
+2026-02-28,116.9,VUV,M,IMF,VU,Vanuatu
+2026-03-31,118.6,VUV,M,IMF,VU,Vanuatu
+2026-04-30,116.6,VUV,M,IMF,VU,Vanuatu
+2026-05-31,116.1,VUV,M,IMF,VU,Vanuatu
+2026-06-30,118.4,VUV,M,IMF,VU,Vanuatu
+2026-07-31,117.2,VUV,M,IMF,VU,Vanuatu
 1957-01-31,0.003219999999,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 1957-02-28,0.003219999999,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 1957-03-31,0.003219999999,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
