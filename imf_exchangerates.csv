@@ -11758,6 +11758,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-06-30,2.9066,BYN,M,IMF,BY,"Belarus, Republic of"
 2026-07-31,2.9133,BYN,M,IMF,BY,"Belarus, Republic of"
 2026-08-31,3.0396,BYN,M,IMF,BY,"Belarus, Republic of"
+2026-09-30,3.0285,BYN,M,IMF,BY,"Belarus, Republic of"
 1957-01-31,50.244999999,BEF,M,IMF,BE,Belgium
 1957-02-28,50.252499999,BEF,M,IMF,BE,Belgium
 1957-03-31,50.322499999,BEF,M,IMF,BE,Belgium
@@ -139306,6 +139307,9 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-04-30,9.4025,TJS,M,IMF,TJ,"Tajikistan, Republic of"
 2026-05-31,9.2464,TJS,M,IMF,TJ,"Tajikistan, Republic of"
 2026-06-30,9.2674,TJS,M,IMF,TJ,"Tajikistan, Republic of"
+2026-07-31,9.2525,TJS,M,IMF,TJ,"Tajikistan, Republic of"
+2026-08-31,9.2574,TJS,M,IMF,TJ,"Tajikistan, Republic of"
+2026-09-30,9.235,TJS,M,IMF,TJ,"Tajikistan, Republic of"
 1957-01-31,7.142899999,TZS,M,IMF,TZ,"Tanzania, United Republic of"
 1957-02-28,7.142899999,TZS,M,IMF,TZ,"Tanzania, United Republic of"
 1957-03-31,7.142899999,TZS,M,IMF,TZ,"Tanzania, United Republic of"
@@ -145347,6 +145351,8 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,2.9016,TND,M,IMF,TN,Tunisia
 2026-06-30,2.9612,TND,M,IMF,TN,Tunisia
 2026-07-31,2.9375,TND,M,IMF,TN,Tunisia
+2026-08-31,2.9194,TND,M,IMF,TN,Tunisia
+2026-09-30,2.9775,TND,M,IMF,TN,Tunisia
 1993-11-30,1.98,TMT,M,IMF,TM,Turkmenistan
 1993-12-31,1.99,TMT,M,IMF,TM,Turkmenistan
 1994-01-31,1.99,TMT,M,IMF,TM,Turkmenistan
