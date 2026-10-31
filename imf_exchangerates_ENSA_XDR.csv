@@ -142825,6 +142825,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,3.238433848476665,TOP,M,IMF,TO,Tonga
 2026-06-30,3.244268849886394,TOP,M,IMF,TO,Tonga
 2026-07-31,3.247007373503536,TOP,M,IMF,TO,Tonga
+2026-08-31,3.245796820676246,TOP,M,IMF,TO,Tonga
 1957-01-31,1.71429000071429,TTD,M,IMF,TT,Trinidad and Tobago
 1957-02-28,1.71429000071429,TTD,M,IMF,TT,Trinidad and Tobago
 1957-03-31,1.71429000071429,TTD,M,IMF,TT,Trinidad and Tobago
@@ -152987,6 +152988,21 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2018-04-30,82224.16460639836,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 2018-05-31,104825.9517542642,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 2018-06-30,118479.3857238059,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2025-04-30,105.0838419384181,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2025-05-31,126.1638894910428,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2025-06-30,138.5043935425309,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2025-07-31,158.839113601525,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2025-08-31,184.6612311882895,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2025-09-30,220.8310650170903,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2025-10-31,274.4203296765629,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2025-11-30,318.1133849206696,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2025-12-31,369.1139651656176,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2026-01-31,461.9445486934714,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2026-02-28,539.0185382769782,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2026-03-31,606.9292366053539,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2026-04-30,655.4527424888055,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2026-05-31,705.0943737620973,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2026-06-30,799.6619601246897,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 1983-01-31,1.073207221933395,VND,M,IMF,VN,Vietnam
 1983-02-28,1.063450792632449,VND,M,IMF,VN,Vietnam
 1983-03-31,1.058972035815961,VND,M,IMF,VN,Vietnam

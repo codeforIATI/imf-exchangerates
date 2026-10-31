@@ -143679,6 +143679,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-05-31,2.3623907394283,TOP,M,IMF,TO,Tonga
 2026-06-30,2.40558094779889,TOP,M,IMF,TO,Tonga
 2026-07-31,2.37868696479543,TOP,M,IMF,TO,Tonga
+2026-08-31,2.36574402649633,TOP,M,IMF,TO,Tonga
 1957-01-31,1.7154,TTD,M,IMF,TT,Trinidad and Tobago
 1957-02-28,1.715799999,TTD,M,IMF,TT,Trinidad and Tobago
 1957-03-31,1.721999999,TTD,M,IMF,TT,Trinidad and Tobago
@@ -153546,6 +153547,21 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2018-04-30,68827.5,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 2018-05-31,79800,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 2018-06-30,95760,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2025-04-30,86.62938375,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2025-05-31,96.61555575,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2025-06-30,107.35543875,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2025-07-31,124.1989245,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2025-08-31,146.71479375,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2025-09-30,177.17026425,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2025-10-31,223.08678525,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2025-11-30,245.05552575,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2025-12-31,297.39774225,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2026-01-31,366.38863275,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2026-02-28,416.31450525,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2026-03-31,472.6855245,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2026-04-30,485.901402,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2026-05-31,547.998171,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2026-06-30,621.46474425,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 1957-01-31,0.00870624999423427,VND,M,IMF,VN,Vietnam
 1957-02-28,0.00870624999423427,VND,M,IMF,VN,Vietnam
 1957-03-31,0.00870624999423427,VND,M,IMF,VN,Vietnam
