@@ -34094,6 +34094,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,451.375,CRC,M,IMF,CR,Costa Rica
 2026-08-31,449.7,CRC,M,IMF,CR,Costa Rica
 2026-09-30,456.345,CRC,M,IMF,CR,Costa Rica
+2026-10-31,452.87,CRC,M,IMF,CR,Costa Rica
 1992-01-31,0.088193,HRD,M,IMF,HR,"Croatia, Republic of"
 1992-02-29,0.09031,HRD,M,IMF,HR,"Croatia, Republic of"
 1992-03-31,0.110316,HRD,M,IMF,HR,"Croatia, Republic of"
@@ -37875,6 +37876,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,6.5087,DKK,M,IMF,DK,Denmark
 2026-08-31,6.4463,DKK,M,IMF,DK,Denmark
 2026-09-30,6.5834,DKK,M,IMF,DK,Denmark
+2026-10-31,6.6895,DKK,M,IMF,DK,Denmark
 1957-01-31,214.391999999,DJF,M,IMF,DJ,Djibouti
 1957-02-28,214.391999999,DJF,M,IMF,DJ,Djibouti
 1957-03-31,214.391999999,DJF,M,IMF,DJ,Djibouti
@@ -69270,6 +69272,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,18078,IDR,M,IMF,ID,Indonesia
 2026-08-31,17703,IDR,M,IMF,ID,Indonesia
 2026-09-30,17998,IDR,M,IMF,ID,Indonesia
+2026-10-31,18128,IDR,M,IMF,ID,Indonesia
 2024-05-31,42000,IRR,M,IMF,IR,"Iran, Islamic Republic of"
 1957-01-31,2236.02900848989,IQD,M,IMF,IQ,Iraq
 1957-02-28,2236.02900848989,IQD,M,IMF,IQ,Iraq
@@ -113439,6 +113442,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-06-30,6081.15,PYG,M,IMF,PY,Paraguay
 2026-07-31,5965.005,PYG,M,IMF,PY,Paraguay
 2026-08-31,5902.775,PYG,M,IMF,PY,Paraguay
+2026-09-30,5822.014999999999,PYG,M,IMF,PY,Paraguay
 1960-01-31,0.000000027699999999,PEN,M,IMF,PE,Peru
 1960-02-29,0.000000027699999999,PEN,M,IMF,PE,Peru
 1960-03-31,0.000000027699999999,PEN,M,IMF,PE,Peru
@@ -135630,6 +135634,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,9.5651,SEK,M,IMF,SE,Sweden
 2026-08-31,9.5809,SEK,M,IMF,SE,Sweden
 2026-09-30,9.9789,SEK,M,IMF,SE,Sweden
+2026-10-31,9.8264,SEK,M,IMF,SE,Sweden
 1957-01-31,4.285999999,CHF,M,IMF,CH,Switzerland
 1957-02-28,4.290999999,CHF,M,IMF,CH,Switzerland
 1957-03-31,4.284999999,CHF,M,IMF,CH,Switzerland
@@ -153580,6 +153585,18 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2018-04-30,68827.5,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 2018-05-31,79800,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 2018-06-30,95760,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-01-31,1819068.251,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-02-28,1866682.732,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-03-31,1963144.065,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-04-30,2739286.431672,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-05-31,3093112.0768065,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-06-30,3196069.31810775,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-07-31,3973215.616923,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-08-31,4134141.5974635,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-09-30,4128271.01639925,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-10-31,4.37712975,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-11-30,4.5962805,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-12-31,4.57822575,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 2025-04-30,86.62938375,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 2025-05-31,96.61555575,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 2025-06-30,107.35543875,VED,M,IMF,VE,"Venezuela, República Bolivariana de"

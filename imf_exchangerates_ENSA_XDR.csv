@@ -112760,6 +112760,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-06-30,8332.715150088352,PYG,M,IMF,PY,Paraguay
 2026-07-31,8215.88127089956,PYG,M,IMF,PY,Paraguay
 2026-08-31,8177.635716655789,PYG,M,IMF,PY,Paraguay
+2026-09-30,8092.459598728043,PYG,M,IMF,PY,Paraguay
 1960-01-31,0.000000027699999999,PEN,M,IMF,PE,Peru
 1960-02-29,0.000000027699999999,PEN,M,IMF,PE,Peru
 1960-03-31,0.000000027699999999,PEN,M,IMF,PE,Peru
@@ -152988,6 +152989,18 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2018-04-30,82224.16460639836,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 2018-05-31,104825.9517542642,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 2018-06-30,118479.3857238059,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-01-31,2169592.339613408,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-02-28,2581527.741089232,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-03-31,2651773.52677659,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-04-30,3400772.798656715,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-05-31,4217303.370669434,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-06-30,4487102.362646421,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-07-31,5013970.250630369,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-08-31,5810950.047711214,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-09-30,5762918.279447684,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-10-31,5.934228375406121,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-11-30,6.302603914336939,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
+2021-12-31,6.432877329239788,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 2025-04-30,105.0838419384181,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 2025-05-31,126.1638894910428,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
 2025-06-30,138.5043935425309,VED,M,IMF,VE,"Venezuela, República Bolivariana de"
