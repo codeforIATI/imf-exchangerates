@@ -59360,6 +59360,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,7.62778,GTQ,M,IMF,GT,Guatemala
 2026-08-31,7.628485,GTQ,M,IMF,GT,Guatemala
 2026-09-30,7.63851,GTQ,M,IMF,GT,Guatemala
+2026-10-31,7.643585,GTQ,M,IMF,GT,Guatemala
 1957-01-31,0.357372596797003,GBP,M,IMF,GG,Guernsey
 1957-02-28,0.35746201978819,GBP,M,IMF,GG,Guernsey
 1957-03-31,0.358744394747532,GBP,M,IMF,GG,Guernsey
@@ -64313,6 +64314,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,26.7935,HNL,M,IMF,HN,Honduras
 2026-08-31,26.8661,HNL,M,IMF,HN,Honduras
 2026-09-30,26.8937,HNL,M,IMF,HN,Honduras
+2026-10-31,26.9107,HNL,M,IMF,HN,Honduras
 1957-01-31,5.72020934168168,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 1957-02-28,5.7216406719911,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 1957-03-31,5.74216673718946,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
@@ -76553,6 +76555,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,473.59,KZT,M,IMF,KZ,"Kazakhstan, Republic of"
 2026-08-31,462.31,KZT,M,IMF,KZ,"Kazakhstan, Republic of"
 2026-09-30,440.86,KZT,M,IMF,KZ,"Kazakhstan, Republic of"
+2026-10-31,453.87,KZT,M,IMF,KZ,"Kazakhstan, Republic of"
 1957-01-31,7.1429,KES,M,IMF,KE,Kenya
 1957-02-28,7.1429,KES,M,IMF,KE,Kenya
 1957-03-31,7.1429,KES,M,IMF,KE,Kenya
@@ -141043,7 +141046,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,33.4176,THB,M,IMF,TH,Thailand
 2026-08-31,33.1454,THB,M,IMF,TH,Thailand
 2026-09-30,33.5541,THB,M,IMF,TH,Thailand
-2026-10-31,33.701,THB,M,IMF,TH,Thailand
+2026-10-31,33.7215,THB,M,IMF,TH,Thailand
 1940-01-31,1,USD,M,IMF,TL,"Timor-Leste, Democratic Republic of"
 1940-02-29,1,USD,M,IMF,TL,"Timor-Leste, Democratic Republic of"
 1940-03-31,1,USD,M,IMF,TL,"Timor-Leste, Democratic Republic of"
