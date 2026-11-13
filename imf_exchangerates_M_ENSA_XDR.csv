@@ -46987,6 +46987,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,22.35242627799504,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 2026-08-31,22.14562644752802,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 2026-09-30,22.14201426037416,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
+2026-10-31,22.41957620698212,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 1957-01-31,2.48447000148447,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
 1957-02-28,2.48447000148447,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
 1957-03-31,2.48447000148447,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
@@ -65571,6 +65572,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,10.65007912322691,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 2026-08-31,10.73649476122585,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 2026-09-30,10.71860847083058,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
+2026-10-31,10.6254100635409,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 1968-01-31,59.999999999,HUF,M,IMF,HU,Hungary
 1968-02-29,59.999999999,HUF,M,IMF,HU,Hungary
 1968-03-31,59.999999999,HUF,M,IMF,HU,Hungary
@@ -82736,6 +82738,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,22.35242627799504,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 2026-08-31,22.14562644752802,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 2026-09-30,22.14201426037416,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
+2026-10-31,22.41957620698212,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 1957-01-31,1,LRD,M,IMF,LR,Liberia
 1957-02-28,1,LRD,M,IMF,LR,Liberia
 1957-03-31,1,LRD,M,IMF,LR,Liberia
@@ -108170,7 +108173,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,13.18697631809912,NOK,M,IMF,NO,Norway
 2026-08-31,12.90733625680262,NOK,M,IMF,NO,Norway
 2026-09-30,12.81750987460363,NOK,M,IMF,NO,Norway
-2026-10-31,12.79565363152046,NOK,M,IMF,NO,Norway
+2026-10-31,12.80952965478488,NOK,M,IMF,NO,Norway
 1957-01-31,0.357142999357143,OMR,M,IMF,OM,Oman
 1957-02-28,0.357142999357143,OMR,M,IMF,OM,Oman
 1957-03-31,0.357142999357143,OMR,M,IMF,OM,Oman
@@ -127829,6 +127832,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,22.35242627799504,ZAR,M,IMF,ZA,South Africa
 2026-08-31,22.14562644752802,ZAR,M,IMF,ZA,South Africa
 2026-09-30,22.14201426037416,ZAR,M,IMF,ZA,South Africa
+2026-10-31,22.41957620698212,ZAR,M,IMF,ZA,South Africa
 2011-07-31,4.443286316749797,SSP,M,IMF,SS,"South Sudan, Republic of"
 2011-08-31,5.296615829615773,SSP,M,IMF,SS,"South Sudan, Republic of"
 2011-09-30,4.72284037439161,SSP,M,IMF,SS,"South Sudan, Republic of"
@@ -151259,7 +151263,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,54.59897105216673,UYU,M,IMF,UY,Uruguay
 2026-08-31,55.09913266358319,UYU,M,IMF,UY,Uruguay
 2026-09-30,54.94175048274925,UYU,M,IMF,UY,Uruguay
-2026-10-31,54.40999875903888,UYU,M,IMF,UY,Uruguay
+2026-10-31,54.39717069996542,UYU,M,IMF,UY,Uruguay
 1994-07-31,13.69636650625906,UZS,M,IMF,UZ,"Uzbekistan, Republic of"
 1994-08-31,16.58004086477561,UZS,M,IMF,UZ,"Uzbekistan, Republic of"
 1994-09-30,20.78556486280167,UZS,M,IMF,UZ,"Uzbekistan, Republic of"

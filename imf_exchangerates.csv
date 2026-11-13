@@ -46448,6 +46448,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,16.5695415373552,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 2026-08-31,16.1117511056689,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 2026-09-30,16.3933888741348,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
+2026-10-31,16.6693059734458,SZL,M,IMF,SZ,"Eswatini, Kingdom of"
 1957-01-31,2.4845,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
 1957-02-28,2.4845,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
 1957-03-31,2.4845,ETB,M,IMF,ET,"Ethiopia, The Federal Democratic Republic of"
@@ -65152,6 +65153,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,7.842,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 2026-08-31,7.839,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 2026-09-30,7.847,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
+2026-10-31,7.8455,HKD,M,IMF,HK,"Hong Kong Special Administrative Region, People's Republic of China"
 1968-01-31,59.999999999,HUF,M,IMF,HU,Hungary
 1968-02-29,59.999999999,HUF,M,IMF,HU,Hungary
 1968-03-31,59.999999999,HUF,M,IMF,HU,Hungary
@@ -83359,6 +83361,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,16.5695415373552,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 2026-08-31,16.1117511056689,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 2026-09-30,16.3933888741348,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
+2026-10-31,16.6693059734458,ZAR,M,IMF,LS,"Lesotho, Kingdom of"
 1957-01-31,43.2590098577311,LRD,M,IMF,LR,Liberia
 1957-02-28,43.2590098577311,LRD,M,IMF,LR,Liberia
 1957-03-31,43.2590098577311,LRD,M,IMF,LR,Liberia
@@ -108834,7 +108837,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,9.53,NOK,M,IMF,NO,Norway
 2026-08-31,9.34,NOK,M,IMF,NO,Norway
 2026-09-30,9.6,NOK,M,IMF,NO,Norway
-2026-10-31,9.2302,NOK,M,IMF,NO,Norway
+2026-10-31,9.23,NOK,M,IMF,NO,Norway
 1957-01-31,0.35714,OMR,M,IMF,OM,Oman
 1957-02-28,0.35714,OMR,M,IMF,OM,Oman
 1957-03-31,0.35714,OMR,M,IMF,OM,Oman
@@ -128684,6 +128687,7 @@ Date,Rate,Currency,Frequency,Source,Country code,Country
 2026-07-31,16.5695415373552,ZAR,M,IMF,ZA,South Africa
 2026-08-31,16.1117511056689,ZAR,M,IMF,ZA,South Africa
 2026-09-30,16.3933888741348,ZAR,M,IMF,ZA,South Africa
+2026-10-31,16.6693059734458,ZAR,M,IMF,ZA,South Africa
 2011-07-31,3.1053,SSP,M,IMF,SS,"South Sudan, Republic of"
 2011-08-31,3.31,SSP,M,IMF,SS,"South Sudan, Republic of"
 2011-09-30,2.95,SSP,M,IMF,SS,"South Sudan, Republic of"
